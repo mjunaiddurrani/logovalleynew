@@ -70,7 +70,7 @@
              
 <!--             <h3 class="main-heading"><span>Get Special</span> Discount</h3>-->
 <!--             <figure>-->
-<!--               <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/pop-up-image.svg" alt="">-->
+<!--               <img class="lazy" src="" data-src="assets/images/pop-up-image.svg" alt="">-->
 <!--             </figure>-->
 <!--             <P>Don't miss out on special discount offer</P>-->
 <!--             <form id="popupfrm" class="cmxform"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">-->
@@ -355,22 +355,22 @@
       <ul>
         <li>
           <figure>
-            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/logos/clutch-white.png" alt="*">
+            <img class="lazy" src="" data-src="assets/images/logos/clutch-white.png" alt="*">
           </figure>
         </li>
         <li>
           <figure>
-            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/logos/good-firms-white.png" alt="*">
+            <img class="lazy" src="" data-src="assets/images/logos/good-firms-white.png" alt="*">
           </figure>
         </li>
         <li>
           <figure>
-            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/logos/partner1.png" alt="*">
+            <img class="lazy" src="" data-src="assets/images/logos/partner1.png" alt="*">
           </figure>
         </li>
         <li>
           <figure>
-            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/logos/partner2.png" alt="*">
+            <img class="lazy" src="" data-src="assets/images/logos/partner2.png" alt="*">
           </figure>
         </li>
 
@@ -450,7 +450,7 @@
     <li>
       <a href="javascript:;">
         <figure>
-          <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/c1.png" height="64" width="64">
+          <img class="lazy" src="" data-src="assets/images/c1.png" height="64" width="64">
         </figure>
         <span class="wrap">Over 1800+ <br> Happy Customers</span>
       </a>
@@ -458,7 +458,7 @@
     <li>
       <a href="javascript:;">
         <figure>
-          <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/c2.png" height="64" width="64">
+          <img class="lazy" src="" data-src="assets/images/c2.png" height="64" width="64">
         </figure>
         <span class="wrap">Affordable <br> Pricing</span>
       </a>
@@ -466,7 +466,7 @@
     <li class="dkblk">
       <a href="javascript:;">
         <figure>
-          <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/c3.png" height="64" width="64">
+          <img class="lazy" src="" data-src="assets/images/c3.png" height="64" width="64">
         </figure>
         <span class="wrap">Our Expert for B2B and <br> Enterprise Companies</span>
       </a>
@@ -524,7 +524,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/1.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/1.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/1.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -532,7 +532,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/2.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/2.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/2.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -540,7 +540,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/3.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/3.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/3.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -548,7 +548,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/9.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/9.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/9.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -556,7 +556,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/4.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/4.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/4.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -564,7 +564,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/5.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/5.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/5.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -572,7 +572,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/6.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/6.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/6.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -580,7 +580,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/7.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/7.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/7.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -588,7 +588,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/8.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/8.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/8.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -597,7 +597,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/10.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/10.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/10.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -605,7 +605,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/11.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/11.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/11.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -613,7 +613,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/12.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-design/12.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-design/12.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -625,7 +625,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/1.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/1-t.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/web/thumbnail/1-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -633,7 +633,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/2.png">
                 <figure class="ss-portfolio__item--image lazy"> 
                     <img class=" img-fluid" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/2-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/2-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -641,7 +641,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/3.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/3-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/3-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -649,7 +649,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/4.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/4-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/4-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -657,7 +657,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/5.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/5-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/5-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -665,7 +665,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/6.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/6-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/6-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -673,7 +673,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/7.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/7-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/7-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -681,7 +681,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/8.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/8-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/8-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -689,7 +689,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/9.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/9-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/9-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -697,7 +697,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/10.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/10-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/10-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -705,7 +705,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/11.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/11-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/11-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -713,7 +713,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/12.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/web/thumbnail/12-t.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/web/thumbnail/12-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -727,7 +727,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/1.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-1.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-1.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -735,7 +735,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/2.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-2.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-2.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -743,7 +743,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/3.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-3.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-3.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -751,7 +751,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/4.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-4.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-4.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -759,7 +759,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/5.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-5.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-5.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -767,7 +767,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/6.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-6.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-6.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -775,7 +775,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/7.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-7.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-7.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -783,7 +783,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/8.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-8.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-8.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -791,7 +791,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/9.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-9.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-9.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -799,7 +799,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/10.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-10.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-10.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -807,7 +807,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/11.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-11.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-11.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -815,7 +815,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/12.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/creative-copywriting/t-12.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/creative-copywriting/t-12.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -828,7 +828,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/1.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-1.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-1.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -836,7 +836,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/2.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-2.png" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-2.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -844,7 +844,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/3.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-3.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-3.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -852,7 +852,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/4.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-4.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-4.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -860,7 +860,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/5.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-5.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-5.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -868,7 +868,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/6.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-6.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-6.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -876,7 +876,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/7.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-7.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-7.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -884,7 +884,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/8.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-8.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-8.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -892,7 +892,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/9.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-9.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-9.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -900,7 +900,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/10.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-10.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-10.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -908,7 +908,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/11.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-11.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-11.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -916,7 +916,7 @@
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/12.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/logo-animations/thumbnail/t-12.jpg" alt="*"/> 
+                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-12.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -931,7 +931,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/1.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-1.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-1.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -939,7 +939,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/2.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-2.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-2.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -947,7 +947,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/3.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-3.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-3.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -955,7 +955,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/4.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-4.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-4.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -963,7 +963,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/5.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-5.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-5.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -971,7 +971,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/6.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-6.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-6.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -979,7 +979,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/7.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-7.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-7.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -987,7 +987,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/8.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-8.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-8.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -995,7 +995,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/9.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-9.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-9.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1003,7 +1003,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/10.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-10.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-10.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1011,7 +1011,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/11.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-11.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-11.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1019,7 +1019,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/12.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-12.jpg" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-12.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1034,7 +1034,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/1.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/1.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/1.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1042,7 +1042,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/2.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/2.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/2.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1050,7 +1050,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/3.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/3.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/3.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1058,7 +1058,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/9.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/9.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/9.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1066,7 +1066,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/4.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/4.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/4.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1074,7 +1074,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/5.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/5.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/5.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1082,7 +1082,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/6.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/6.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/6.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1090,7 +1090,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/7.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/7.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/7.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1098,7 +1098,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/8.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/8.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/8.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1106,7 +1106,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/9.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/9.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/9.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1114,7 +1114,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/10.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/10.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/10.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1122,7 +1122,7 @@
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/11.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/portfolio/branding/11.png" alt="*"/> 
+                       src="" data-src="assets/images/portfolio/branding/11.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -2687,12 +2687,12 @@
           
           <div class="flogo">
             <figure>
-              <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/logo-dark.png">
+              <img class="lazy" src="" data-src="assets/images/logo-dark.png">
             </figure>
             <br>
-           <a href="http://www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a>
+           <a href="http://www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img class="lazy" src="" data-src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a>
             <script src="../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-           <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
+           <img class="lazy" src="" data-src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
           </div>
           
         </div>
@@ -2753,7 +2753,7 @@
             <ul>
               <li>
                 <figure>
-                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/card-brands.svg">
+                  <img class="lazy" src="" data-src="assets/images/card-brands.svg">
                 </figure>
               </li>
             </ul>
@@ -2785,7 +2785,7 @@
               <li>
                   <li><a target="_blank" href="https://twitter.com/LogoBespoke"><span class="icon-twitter"></span></a></li>
               <li>
-              <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/flags/uk.png">
+              <img class="lazy" src="" data-src="assets/images/flags/uk.png">
             </li>
             </ul>
         </div>

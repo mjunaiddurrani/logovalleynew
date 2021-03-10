@@ -66,11 +66,6 @@
       
     </div>
 
-
-
-
-
-
 <div class="ys-layer"></div>
 <div class="ys-container" id="ys-container">
    <div class="ys-box">
@@ -114,25 +109,43 @@
 
 
 
-<!--<a href="javascript:;" class="callusnow"><i class="fa fa-phone"></i></a>-->
-
-<!-- Start of websiteterminal Zendesk Widget script -->
-
-<!-- End of websiteterminal Zendesk Widget script -->
 
 
-<script type='text/javascript' src='assets/js/mlib.js'></script>
-<script type='text/javascript' src='assets/js/functions.js'></script>
-
-
-<script type='text/javascript' src='assets/js/gsapAnimation.js'></script>
+<script src="assets/js/mlib.js "></script> 
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+<script src="assets/js/jquery.cookie.js "></script>
+<script src="assets/js/functions.js "></script> 
 
 
 
 
 
 
-<script src="../cdn.jsdelivr.net/npm/vanilla-lazyload%4012.0.0/dist/lazyload.min.js"></script>
+<script src="../cdn.jsdelivr.net/npm/vanilla-lazyload%4012.0.0/dist/lazyload.min.js "></script>
+
+<script>
+   const phoneInputField = document.querySelector("#phone");
+   const phoneInput = window.intlTelInput(phoneInputField, {
+    initialCountry: "auto",
+     geoIpLookup: getIp,
+     utilsScript:
+       "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+   });
+
+   function getIp(callback) {
+ fetch('https://ipinfo.io/json?token=e76fd2b326b24f', { headers: { 'Accept': 'application/json' }})
+   .then((resp) => resp.json())
+   .catch(() => {
+     return {
+       country: 'us',
+     };
+   })
+   .then((resp) => callback(resp.country));
+}
+
+ </script>
 
 <script>
   
@@ -147,6 +160,31 @@ function gotocontact(){
    $('html, body').animate({scrollTop:$(".mypackages").offset().top-100},1000);  
 }
 
+$(document).ready(function(){
+    
+    $('.floating_strip .rotatekaro a').on('click', function(e) {
+      $('.floating_form').toggleClass("open"); //you can list several class names 
+      $('body').toggleClass("notscroll");
+      e.preventDefault();
+});
+    
+
+});
+
+// sticky social
+$(document).scroll(function () {
+    "use strict";
+    var y = $(this).scrollTop();
+    if (y > 800) {
+        $('.floating_wrap').fadeIn();
+    } else {
+        $('.floating_wrap').fadeOut();
+    }
+
+
+}); 
+
+
 setTimeout(function(){  
     $("#modalForDiscount").modal("show");
     $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
@@ -159,42 +197,40 @@ setTimeout(function(){
     });
 }, 15000);
 
+$(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none"
+    });
+    
+    $(".zoom").hover(function(){
+		
+		$(this).addClass('transition');
+	}, function(){
+        
+		$(this).removeClass('transition');
+	});
+
 </script>
 
 
 <script type="text/javascript">
   function setButtonURL(){
-  //CUGICHelper.bubbleChat.toggle();
   $zopim.livechat.window.toggle();
-  // LC_API.open_chat_window();
-  //Tawk_API.toggle();
-  //tidioChatApi.open();
   }
-</script>
-<script>
-
-    function isNumberKey(t){var e=t.which?t.which:event.keyCode;return!(e>31&&(e<48||e>57))}
 </script>
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
-<?php 
-       	if(isset($_REQUEST['successMsg'])){
-          if ($_REQUEST['status']==1) {
-              echo "<script>Swal.fire({
-                  position: 'center-center',
-                  icon: 'success',
-                  title: '$_REQUEST[successMsg]'
-                })</script>";
-          } else {
-              echo "<script>Swal.fire({
-                  position: 'center-center',
-                  icon: 'warning',
-                  title: '$_REQUEST[successMsg]'
-                })</script>";
-          }
-          
-         
-      }
-      ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
