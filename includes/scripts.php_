@@ -1,0 +1,200 @@
+
+
+<div class="floatbutton">
+<!--     <div class="btns_wrap">
+            
+            <a href="javascript:;" class="chat_wrap" onclick="$zopim.livechat.window.toggle()">
+              <span class="icoo"><i class="fa fa-comment"></i></span>
+              <span>Chat With Us</span>
+            </a>
+            <a href="tel:+18773770874" class="call_wrap">
+             <span class="icoo"><i class="fa fa-phone"></i></span>
+              <span>+1 877 377 0874</span>
+            </a>
+          </div> -->
+
+
+      
+      <div class="banner-form">
+        <h3>Chat With Us to <br><Strong>Avail 50% Discount</Strong></h3>
+        <div class="banform">
+          <div class="container">
+            <div class="row">
+                <div class="ban-form">
+                  <form class="cmxform" id="bannerform"  method="POST" action="webpages/floatingFormController.php">
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <div class="fldset">
+                          <input id="username" name="fName" minlength="2" type="text" placeholder="Enter your name" required />
+                        </div>
+                      </div>
+                      <div class="col-lg-12">
+                        <div class="fldset">
+                          <input id="cemail" type="email" name="fEmail" placeholder="Enter email here" required>
+                        </div>
+                      </div>
+                      <div class="col-lg-12">
+                        <div class="fldset">
+                          <input id="phone-coun" name="fNumber" type="text" placeholder="Phone Number" onkeypress="return isNumberKey(event);" required />
+                        </div>
+                      </div>
+                      <div class="col-lg-12">
+                        <div class="fldset">
+                          <textarea name="fMessage" id="" rows="7" placeholder="Talk About Your Project"></textarea>
+                        </div>
+                      </div>
+                      
+                      <div class="col-lg-12">
+                        <div class="fldset">
+                          <input name="submit" type="submit" placeholder="Connect With Us" required />
+        
+                        <input type="hidden" id="flocation" name="flocationURL" value="/website-design-development/" />
+                        <input class="" type="hidden" name="fctry" value=" ">
+                        <input type="hidden" name="fpc" value="">
+                        <input type="hidden" name="cip" value="">
+                      <input type="hidden" name="hiddencapcha" value="">
+                      
+                        </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+            </div>
+          </div>
+        </div>  
+      </div>
+      
+    </div>
+
+
+
+
+
+
+<div class="ys-layer"></div>
+<div class="ys-container" id="ys-container">
+   <div class="ys-box">
+       <a class="ys-popup-close ys-exit" href="javascript:;">x</a>
+       <div class="ys-popup-content">
+           <!-- <p>Are Your Sure?</p>
+           <a href="#" class="ys-exit">Exit</a> -->
+
+           <div class="popupform tabform clearfix  text-left">
+           <figure style="background-image: url(assets/images/linda-dok.jpg);"> </figure>
+           <span class="heading">Confused? </span>
+             <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
+             <form method="POST" action="webpages/exitFormController.php">
+
+               <div class="fldst btnattach">
+                 <a class="callus" href="tel:+442038087061"> Free design consultation <i class="fa fa-phone"></i>+442038087061</a>
+               </div>
+
+               <div class="fldst">
+                <p>Send us your number to speak with an actual human.</p>
+                 <input id="phone-coun" name="fNumber" required="" type="text" onkeypress="return isNumberKey(event);" rangelength="[2,15]" placeholder="Enter phone here">
+                 <button class="newbtn" type="submit">Submit</button>
+              
+                      <input type="hidden" id="location" name="flocationURL" value="/website-design-development/" />
+                      <input type="hidden" name="ctry" value="">
+                      <input type="hidden" name="pc" value="">
+                      <input type="hidden" name="cip" value="">
+                      <input type="hidden" name="hiddencapcha" value="">
+               </div>
+
+               
+              
+               <p class="lst-p">Not ready for a call? <a href="javascript:;" onclick="setButtonURL();"> Discuss with our strategist</a></span></p>
+
+             </form>
+           </div>
+       </div>
+   </div>
+</div>
+
+
+
+
+<!--<a href="javascript:;" class="callusnow"><i class="fa fa-phone"></i></a>-->
+
+<!-- Start of websiteterminal Zendesk Widget script -->
+
+<!-- End of websiteterminal Zendesk Widget script -->
+
+
+<script type='text/javascript' src='assets/js/mlib.js'></script>
+<script type='text/javascript' src='assets/js/functions.js'></script>
+
+
+<script type='text/javascript' src='assets/js/gsapAnimation.js'></script>
+
+
+
+
+
+
+<script src="../cdn.jsdelivr.net/npm/vanilla-lazyload%4012.0.0/dist/lazyload.min.js"></script>
+
+<script>
+  
+  var myLazyLoad = new LazyLoad({
+    elements_selector: ".lazy"
+    // load_delay: 300 //adjust according to use case
+});
+
+
+
+function gotocontact(){
+   $('html, body').animate({scrollTop:$(".mypackages").offset().top-100},1000);  
+}
+
+setTimeout(function(){  
+    $("#modalForDiscount").modal("show");
+    $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
+    $(document).on('click','.liveChat',function(){
+        $zopim.livechat.window.show();
+
+    });
+    $zopim(function() {
+       $zopim.livechat.hideAll();
+    });
+}, 15000);
+
+</script>
+
+
+<script type="text/javascript">
+  function setButtonURL(){
+  //CUGICHelper.bubbleChat.toggle();
+  $zopim.livechat.window.toggle();
+  // LC_API.open_chat_window();
+  //Tawk_API.toggle();
+  //tidioChatApi.open();
+  }
+</script>
+<script>
+
+    function isNumberKey(t){var e=t.which?t.which:event.keyCode;return!(e>31&&(e<48||e>57))}
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+<?php 
+       	if(isset($_REQUEST['successMsg'])){
+          if ($_REQUEST['status']==1) {
+              echo "<script>Swal.fire({
+                  position: 'center-center',
+                  icon: 'success',
+                  title: '$_REQUEST[successMsg]'
+                })</script>";
+          } else {
+              echo "<script>Swal.fire({
+                  position: 'center-center',
+                  icon: 'warning',
+                  title: '$_REQUEST[successMsg]'
+                })</script>";
+          }
+          
+         
+      }
+      ?>

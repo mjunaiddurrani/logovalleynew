@@ -1,0 +1,195 @@
+
+<header class="header-home">
+
+<div class="container-fluid">
+ 
+  <div class="row">
+    <div class="col-lg-2 col-4">
+      <a href="/">
+    <div class="logo">
+      <img src="../assets/images/logo.png" alt="" class="whitelogo">
+      <img src="../assets/images/logo.png" alt="" class="colorlogo">
+    </div>
+</a>
+    </div>
+    <div class="col-lg-6 col-8">
+        <div class="menu-wrap">
+      <!--<a class="mobile-hireus num" href="tel:+18773770874">+1 877 377 0874</a>-->
+
+    <a class="mobile-hireus" onclick="gotocontact()" href="javascript:;">See All Packages</a>
+
+    <button class="hamburger hamburger--spring js-hamburger" type="button"
+      aria-label="Menu" aria-controls="navigation" aria-expanded="true/false">
+      <span class="hamburger-box">
+      <span class="hamburger-inner"></span>
+      </span>
+    </button>
+
+    <div class="menu">
+      <ul id="menu" class="">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4971 homeclass hidemenu"><a href="/">Home</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4970 dropdown hidemenu megamenu mob-menu-btn">
+          <a href="Javascript:;">Services
+            <i class="fa fa-caret-down" aria-hidden="true"></i>
+          </a>
+            <div class="submenuwrap mob-menu">
+                  <div class="menu-container">
+                    <ul>
+                      <li>
+                        <a href="/website-design-development/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-web.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>Website Design & Development</h6>
+                            <p>Optimise content to rank high</p>
+                          </div>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/mobile-apps/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-mobile-apps.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>App Design and Development</h6>
+                            <p>Content that Speaks creativity</p>
+                          </div>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/logo-design/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-logo.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>Logo Design</h6>
+                            <p>Strengthen your brand</p>
+                          </div>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/branding/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-branding.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>Branding & Identity</h6>
+                            <p>Increase in Traffic</p>
+                          </div>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/2d-3d-illustration/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-illustration.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>2D & 3D Illustration</h6>
+                            <p>Audience-Engaging Article</p>
+                          </div>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/motion-graphics/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-motion.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>Motion Graphics</h6>
+                            <p>Quality Blogs on any subject</p>
+                          </div>
+                        </a>
+                      </li>
+                      
+                      <li>
+                        <a href="/seo/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-seo.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>Search Engine Optimization</h6>
+                            <p>Your Voice, Our Words</p>
+                          </div>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/ghost-book-writing/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-book-writing.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>Book Writing</h6>
+                            <p>E-books done the right Way</p>
+                          </div>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/creative-copywriting/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-creative-copywriting.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>Creative Copywriting</h6>
+                            <p>User-Centric Websites</p>
+                          </div>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/digital-marketing/">
+                          <div class="menu-icon">
+                            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/n-digital.png">
+                          </div>
+                          <div class="menutext">
+                            <h6>Digital Marketing</h6>
+                            <p>User-Centric Websites</p>
+                          </div>
+                        </a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+                </div>
+          <!-- <ul class="ddlist">
+            <li><a href="logo-design"> Logo Design </a></li>
+            <li><a href="branding"> Branding </a></li>
+            <li><a href="website-design-development"> Website Design & Development</a></li>
+            <li><a href="mobile-apps"> App Design and Development</a></li>
+             <li><a href="2d-3d-illustration">2D and 3D Illustration</a></li>
+            <li><a href="motion-graphics">  Motion Graphics </a></li>
+            <li><a href="seo"> SEO</a></li>
+            <li><a href="content"> Book Writing</a></li>
+            <li><a href="marketing-collaterals">Marketing Collaterals</a></li>
+            <li><a href="content">Creative Copywriting</a></li>
+            <li><a href="digital-marketing">Digital Marketing</a></li>
+          </ul> -->
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4973 hidemenu"><a href="/works/">Portfolio</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4973 hidemenu"><a href="/packages/">Packages</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4973 hidemenu"><a href="/combo-packages/">Combo Packages</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5247 hidemenu"><a href="/process/">Process</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4973 hidemenu"><a href="/company/">Company</a></li>
+        
+        
+      </ul>
+      <div class="close-i"></div>
+    </div>    
+  </div>
+
+    </div>
+    <div class="col-lg-4">
+      <ul class="rightnav">
+        <li class="cstm-btn blink"><a href="javascript:;" class="blink liveChat" >Live Chat</a></li>
+        <li class=""><a class="headnumber" href="tel:+442038087061"><i class="fa fa-phone"></i>+442038087061</a></li>
+        <!-- <li class=""><a class="headnumber" href="tel:+4402038087061"><i class="fa fa-phone"></i> Call Us 6465829666</a></li> -->
+        <li class=""><a href="/order/?pack=header-hire-us" class="btn">Hire Us</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+
+</header>
