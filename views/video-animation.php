@@ -4,7 +4,7 @@
 <!-- Mirrored from logovalley.co.uk/video-animation by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Mar 2021 13:18:43 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Video Animation | BESPOKE LOGO</title>
+<title>Video Animation | logovalley</title>
 <meta name="description" content="" />
 
 
@@ -36,7 +36,7 @@
 <meta property="og:type" content=" website" />
 <meta property="og:url" content="index.html">
 
-<meta property="og:site_name" content="BESPOKE LOGO" />
+<meta property="og:site_name" content="logovalley" />
 <meta property="og:description" content="Best Logo design Company in UK, providing reliable Logo services you need to hire a top level Logo Design agency  that’s focus on providing you">
 
 
@@ -70,7 +70,7 @@
              
 <!--             <h3 class="main-heading"><span>Get Special</span> Discount</h3>-->
 <!--             <figure>-->
-<!--               <img class="lazy" src="" data-src="assets/images/pop-up-image.svg" alt="">-->
+<!--               <img class="lazy" src="assets/images/pop-up-image.svg" alt="">-->
 <!--             </figure>-->
 <!--             <P>Don't miss out on special discount offer</P>-->
 <!--             <form id="popupfrm" class="cmxform"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">-->
@@ -179,7 +179,7 @@
               <img class="img-fluid white" src="assets/images/logo-dark.png" alt="*" />
               <img class="img-fluid black" src="assets/images/logo-light.png" alt="*" />
               
-              <!-- <h2 style="padding: 10px 0;">Bespoke  <span>   Logo </span></h2> -->
+              <!-- <h2 style="padding: 10px 0;">logovalley  <span>   Logo </span></h2> -->
             </a>
           </div>
         </div>
@@ -359,22 +359,22 @@
       <ul>
         <li>
           <figure>
-            <img class="lazy" src="" data-src="assets/images/logos/clutch-white.png" alt="*">
+            <img class="lazy" src="assets/images/logos/clutch-white.png" alt="*">
           </figure>
         </li>
         <li>
           <figure>
-            <img class="lazy" src="" data-src="assets/images/logos/good-firms-white.png" alt="*">
+            <img class="lazy" src="assets/images/logos/good-firms-white.png" alt="*">
           </figure>
         </li>
         <li>
           <figure>
-            <img class="lazy" src="" data-src="assets/images/logos/partner1.png" alt="*">
+            <img class="lazy" src="assets/images/logos/partner1.png" alt="*">
           </figure>
         </li>
         <li>
           <figure>
-            <img class="lazy" src="" data-src="assets/images/logos/partner2.png" alt="*">
+            <img class="lazy" src="assets/images/logos/partner2.png" alt="*">
           </figure>
         </li>
 
@@ -454,7 +454,7 @@
     <li>
       <a href="javascript:;">
         <figure>
-          <img class="lazy" src="" data-src="assets/images/c1.png" height="64" width="64">
+          <img class="lazy" src="assets/images/c1.png" height="64" width="64">
         </figure>
         <span class="wrap">Over 1800+ <br> Happy Customers</span>
       </a>
@@ -462,7 +462,7 @@
     <li>
       <a href="javascript:;">
         <figure>
-          <img class="lazy" src="" data-src="assets/images/c2.png" height="64" width="64">
+          <img class="lazy" src="assets/images/c2.png" height="64" width="64">
         </figure>
         <span class="wrap">Affordable <br> Pricing</span>
       </a>
@@ -470,7 +470,7 @@
     <li class="dkblk">
       <a href="javascript:;">
         <figure>
-          <img class="lazy" src="" data-src="assets/images/c3.png" height="64" width="64">
+          <img class="lazy" src="assets/images/c3.png" height="64" width="64">
         </figure>
         <span class="wrap">Our Expert for B2B and <br> Enterprise Companies</span>
       </a>
@@ -529,7 +529,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/1.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/1.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/1.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -537,7 +537,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/2.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/2.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/2.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -545,7 +545,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/3.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/3.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/3.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -553,7 +553,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/9.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/9.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/9.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -561,7 +561,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/4.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/4.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/4.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -569,7 +569,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/5.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/5.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/5.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -577,7 +577,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/6.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/6.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/6.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -585,7 +585,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/7.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/7.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/7.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -593,7 +593,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/8.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/8.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/8.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -602,7 +602,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/10.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/10.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/10.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -610,7 +610,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/11.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/11.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/11.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -618,7 +618,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-design/12.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-design/12.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-design/12.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -630,7 +630,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/1.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/web/thumbnail/1-t.png" alt="*"/> 
+                      src="assets/images/portfolio/web/thumbnail/1-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -638,7 +638,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/2.png">
                 <figure class="ss-portfolio__item--image lazy"> 
                     <img class=" img-fluid" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/2-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/2-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -646,7 +646,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/3.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/3-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/3-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -654,7 +654,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/4.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/4-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/4-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -662,7 +662,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/5.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/5-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/5-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -670,7 +670,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/6.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/6-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/6-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -678,7 +678,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/7.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/7-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/7-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -686,7 +686,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/8.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/8-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/8-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -694,7 +694,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/9.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/9-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/9-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -702,7 +702,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/10.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/10-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/10-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -710,7 +710,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/11.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/11-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/11-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -718,7 +718,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/web/inner/12.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/web/thumbnail/12-t.png" alt="*"/> 
+                       src="assets/images/portfolio/web/thumbnail/12-t.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -732,7 +732,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/1.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-1.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-1.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -740,7 +740,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/2.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-2.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-2.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -748,7 +748,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/3.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-3.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-3.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -756,7 +756,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/4.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-4.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-4.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -764,7 +764,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/5.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-5.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-5.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -772,7 +772,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/6.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-6.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-6.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -780,7 +780,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/7.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-7.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-7.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -788,7 +788,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/8.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-8.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-8.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -796,7 +796,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/9.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-9.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-9.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -804,7 +804,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/10.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-10.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-10.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -812,7 +812,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/11.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-11.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-11.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -820,7 +820,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/creative-copywriting/12.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/creative-copywriting/t-12.jpg" alt="*"/> 
+                       src="assets/images/portfolio/creative-copywriting/t-12.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -833,7 +833,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/1.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-1.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-1.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -841,7 +841,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/2.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-2.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-2.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -849,7 +849,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/3.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-3.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-3.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -857,7 +857,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/4.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-4.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-4.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -865,7 +865,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/5.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-5.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-5.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -873,7 +873,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/6.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-6.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-6.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -881,7 +881,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/7.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-7.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-7.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -889,7 +889,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/8.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-8.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-8.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -897,7 +897,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/9.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-9.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-9.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -905,7 +905,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/10.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-10.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-10.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -913,7 +913,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/11.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-11.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-11.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -921,7 +921,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/video-animation/inner/12.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/video-animation/thumbnail/t-12.webp" alt="*"/> 
+                      src="assets/images/portfolio/video-animation/thumbnail/t-12.webp" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -935,7 +935,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/1.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-1.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-1.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -943,7 +943,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/2.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-2.png" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-2.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -951,7 +951,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/3.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-3.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-3.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -959,7 +959,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/4.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-4.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-4.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -967,7 +967,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/5.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-5.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-5.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -975,7 +975,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/6.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-6.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-6.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -983,7 +983,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/7.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-7.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-7.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -991,7 +991,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/8.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-8.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-8.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -999,7 +999,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/9.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-9.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-9.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1007,7 +1007,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/10.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-10.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-10.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1015,7 +1015,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/11.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-11.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-11.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1023,7 +1023,7 @@ We are well aware of the fierce competition between different video companies. S
               <a data-type="iframe" class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/logo-animations/inner/12.mp4">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                      src="" data-src="assets/images/portfolio/logo-animations/thumbnail/t-12.jpg" alt="*"/> 
+                      src="assets/images/portfolio/logo-animations/thumbnail/t-12.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1037,7 +1037,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/1.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-1.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-1.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1045,7 +1045,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/2.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-2.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-2.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1053,7 +1053,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/3.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-3.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-3.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1061,7 +1061,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/4.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-4.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-4.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1069,7 +1069,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/5.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-5.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-5.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1077,7 +1077,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/6.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-6.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-6.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1085,7 +1085,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/7.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-7.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-7.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1093,7 +1093,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/8.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-8.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-8.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1101,7 +1101,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/9.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-9.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-9.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1109,7 +1109,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/10.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-10.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-10.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1117,7 +1117,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/11.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-11.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-11.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1125,7 +1125,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/2d-illustration/inner/12.jpg">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/2d-illustration/thumbnail/t-12.jpg" alt="*"/> 
+                       src="assets/images/portfolio/2d-illustration/thumbnail/t-12.jpg" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1140,7 +1140,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/1.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/1.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/1.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1148,7 +1148,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/2.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/2.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/2.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1156,7 +1156,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/3.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/3.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/3.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1164,7 +1164,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/9.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/9.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/9.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1172,7 +1172,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/4.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/4.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/4.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1180,7 +1180,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/5.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/5.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/5.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1188,7 +1188,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/6.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/6.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/6.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1196,7 +1196,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/7.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/7.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/7.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1204,7 +1204,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/8.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/8.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/8.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1212,7 +1212,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/9.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/9.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/9.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1220,7 +1220,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/10.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/10.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/10.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -1228,7 +1228,7 @@ We are well aware of the fierce competition between different video companies. S
               <a class="ss-portfolio__item" data-fancybox href="assets/images/portfolio/branding/11.png">
                 <figure class="ss-portfolio__item--image"> 
                     <img class=" img-fluid lazy" 
-                       src="" data-src="assets/images/portfolio/branding/11.png" alt="*"/> 
+                       src="assets/images/portfolio/branding/11.png" alt="*"/> 
                 </figure>
             </a> 
       </div>
@@ -2716,9 +2716,9 @@ We are well aware of the fierce competition between different video companies. S
     <div class="row">
       <div class="col">
         <div class="accordion">
-          <div class="quest-section"> <a class="quest-title " href="#accordion-1">What is BeSpoke Logo?</a>
+          <div class="quest-section"> <a class="quest-title " href="#accordion-1">What is logovalley?</a>
             <div id="accordion-1" class="quest-content">
-              <p>BeSpoke Logo is a creative design agency with expertise in brand identity development solutions. Our services include brand development & re-branding, back-end development, web design and development, brand identity solutions and much more.</p>
+              <p>logovalley is a creative design agency with expertise in brand identity development solutions. Our services include brand development & re-branding, back-end development, web design and development, brand identity solutions and much more.</p>
             </div>
           </div>
           <div class="quest-section"> <a class="quest-title" href="#accordion-2">I can’t choose a package, what do I do?</a>
@@ -2731,7 +2731,7 @@ We are well aware of the fierce competition between different video companies. S
               <p>Yes, you can! As part of your package you can request for revisions. The revisions vary from package to package.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-4">Can I discuss my project with BeSpoke Logo or will they be completely responsible?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-4">Can I discuss my project with logovalley or will they be completely responsible?</a>
             <div id="accordion-4" class="quest-content">
               <p>We encourage customers in talking to us. We love to push ideas that they already have, partly why we also require a design brief from our customer. However, if you don’t have anything specific in mind regarding your project, our professionals can take care of the projects ourselves.</p>
             </div>
@@ -2756,12 +2756,12 @@ We are well aware of the fierce competition between different video companies. S
           
           <div class="flogo">
             <figure>
-              <img class="lazy" src="" data-src="assets/images/logo-dark.png">
+              <img class="lazy" src="assets/images/logo-dark.png">
             </figure>
             <br>
            <a href="http://www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img class="lazy" src="" data-src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a>
             <script src="../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-           <img class="lazy" src="" data-src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
+           <img class="lazy" src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
           </div>
           
         </div>
@@ -2822,7 +2822,7 @@ We are well aware of the fierce competition between different video companies. S
             <ul>
               <li>
                 <figure>
-                  <img class="lazy" src="" data-src="assets/images/card-brands.svg">
+                  <img class="lazy" src="assets/images/card-brands.svg">
                 </figure>
               </li>
             </ul>
@@ -2849,12 +2849,12 @@ We are well aware of the fierce competition between different video companies. S
             <li><a href="privacy-policy.html" title="">Privacy Policy</a></li>
           </ul>
            <ul class="ftr-social">
-              <li><a target="_blank" href="https://www.facebook.com/BeSpoke-Logo-102555771519831/"><span class="icon-facebook"></span></a></li>
-              <li><a target="_blank" href="https://www.instagram.com/bespoke.logo/"><span class="icon-instagram"></span></a></li>
+              <li><a target="_blank" href="https://www.facebook.com/logovalley-Logo-102555771519831/"><span class="icon-facebook"></span></a></li>
+              <li><a target="_blank" href="https://www.instagram.com/logovalley.logo/"><span class="icon-instagram"></span></a></li>
               <li>
-                  <li><a target="_blank" href="https://twitter.com/LogoBespoke"><span class="icon-twitter"></span></a></li>
+                  <li><a target="_blank" href="https://twitter.com/Logologovalley"><span class="icon-twitter"></span></a></li>
               <li>
-              <img class="lazy" src="" data-src="assets/images/flags/uk.png">
+              <img class="lazy" src="assets/images/flags/uk.png">
             </li>
             </ul>
         </div>
@@ -3062,7 +3062,7 @@ $zopim.livechat.window.toggle();
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Bespoke Logo",
+  "name": "logovalley",
   "url": "https://logovalley.co.uk/",
   "logo": "https://logovalley.co.uk/assets/images/logo-dark.png"
 }

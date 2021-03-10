@@ -1908,19 +1908,20 @@ a {
     display: inline-block;
     transition: all linear .15s;
     text-decoration: none;
-    border-bottom: 1px solid #dbdbdb
+    border-bottom: 1px solid #dbdbdb;
+    
 }
 
 .quest-title:before {
     position: absolute;
-    content: "\e91e";
+    content: "\f055";
     width: 20px;
     height: 20px;
     right: 15px;
-    top: 0;
-    font-family: icomoon!important;
+    top: 40%;
     color: #1e1e1e;
-    font-size: 20px
+    font-size: 20px;
+    font:normal normal normal 14px/1 FontAwesome!important;
 }
 
 .quest-title.active,
@@ -1940,7 +1941,7 @@ a {
 }
 
 .quest-title.active:before {
-    content: "\e91c"
+    content: "\f056"
 }
 
 .quest-content {
@@ -3842,13 +3843,13 @@ footer .social-full {
     color: #2b2d3a;
     position: relative;
     font-size: 20px;
-    padding-bottom: 20px
+    padding-bottom: 20px;
+    font: normal normal normal 14px/1 FontAwesome!important;
 }
 
 .strugglesec ul li:before {
-    content: "\e962";
+    content: "\f05d";
     position: absolute;
-    font-family: icomoon!important;
     left: 0;
     font-size: 20px;
     color: #b960c3;
@@ -7633,7 +7634,7 @@ div.doublewrap ul li.heading:before{display: none;}
     font-size: 18px;
     position: relative;
 }
-.iner-pkgewrp .maindiv ul li:after{right: 0;content: "\f00c";font-family: fontawesome;color: #ce185b;position: absolute;top: 20px;font-size: 22px;}
+.iner-pkgewrp .maindiv ul li:after{right: 0;content: "\f00c";font-family: fontawesome!important;color: #ce185b;position: absolute;top: 20px;font-size: 22px;}
 
 
 

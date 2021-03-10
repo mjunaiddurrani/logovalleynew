@@ -50,10 +50,10 @@
             <li><a href="privacy-policy.html " title=" ">Privacy Policy</a></li>
           </ul>
            <ul class="ftr-social ">
-              <li><a target="_blank " href="https://www.facebook.com/logovalley-Logo-102555771519831/ "><span class="icon-facebook "></span></a></li>
-              <li><a target="_blank " href="https://www.instagram.com/logovalley.logo/ "><span class="icon-instagram "></span></a></li>
+              <li><a target="_blank " href="https://www.facebook.com/logovalley-Logo-102555771519831/ "><i class="fa fa-facebook" aria-hidden="true"></i></span></a></li>
+              <li><a target="_blank " href="https://www.instagram.com/logovalley.logo/ "><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
               <li>
-                  <li><a target="_blank " href="https://twitter.com/Logologovalley "><span class="icon-twitter "></span></a></li>
+                  <li><a target="_blank " href="https://twitter.com/Logologovalley "><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
               <li>
               <img class="lazy " src="assets/images/flags/uk.png ">
             </li>

@@ -36,7 +36,7 @@
 <meta property="og:type" content=" website" />
 <meta property="og:url" content="index.html">
 
-<meta property="og:site_name" content="BESPOKE LOGO" />
+<meta property="og:site_name" content="logovalley" />
 <meta property="og:description" content="Best Logo design Company in UK, providing reliable Logo services you need to hire a top level Logo Design agency  that’s focus on providing you">
 
 
@@ -65,7 +65,7 @@
              
 <!--             <h3 class="main-heading"><span>Get Special</span> Discount</h3>-->
 <!--             <figure>-->
-<!--               <img class="lazy" src="" data-src="assets/images/pop-up-image.svg" alt="">-->
+<!--               <img class="lazy" src="assets/images/pop-up-image.svg" alt="">-->
 <!--             </figure>-->
 <!--             <P>Don't miss out on special discount offer</P>-->
 <!--             <form id="popupfrm" class="cmxform"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">-->
@@ -174,7 +174,7 @@
               <img class="img-fluid white" src="assets/images/logo-dark.png" alt="*" />
               <img class="img-fluid black" src="assets/images/logo-light.png" alt="*" />
               
-              <!-- <h2 style="padding: 10px 0;">Bespoke  <span>   Logo </span></h2> -->
+              <!-- <h2 style="padding: 10px 0;">logovalley  <span>   Logo </span></h2> -->
             </a>
           </div>
         </div>
@@ -267,7 +267,7 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <h3>Personal Information:</h3>
-        <p>When you interact with us, we automatically receive and store certain types of information, such as the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as "Retargeting"). This is statistical information used to monitor the usage of our website and for advertising purposes. This information does not include personal information. a) Personally Identifiable Information: BESPOKE LOGO Consulting will not rent or sell your personally identifiable information to others. We may store personal information in locations outside the direct control of BESPOKE LOGO Consulting (for instance on servers or databases co-located with hosting providers). Any personally identifiable information you elect to make publicly available on our sites, such as posting comments on our blog page, will be available to others. If you remove information that you have made public on our site, copies may remain viewable in cached and archived pages of our site, or if other users have copied or saved that information. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted on the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please visit their privacy policy. All personal information used within our contact form will be used by the internal team at BESPOKE LOGO for communication purposes. b) Non-Personally Identifiable Information: Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc,) with interested third parties to help them understand the usage patterns for certain BESPOKE LOGO Consulting services.
+        <p>When you interact with us, we automatically receive and store certain types of information, such as the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as "Retargeting"). This is statistical information used to monitor the usage of our website and for advertising purposes. This information does not include personal information. a) Personally Identifiable Information: logovalley Consulting will not rent or sell your personally identifiable information to others. We may store personal information in locations outside the direct control of logovalley Consulting (for instance on servers or databases co-located with hosting providers). Any personally identifiable information you elect to make publicly available on our sites, such as posting comments on our blog page, will be available to others. If you remove information that you have made public on our site, copies may remain viewable in cached and archived pages of our site, or if other users have copied or saved that information. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted on the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please visit their privacy policy. All personal information used within our contact form will be used by the internal team at logovalley for communication purposes. b) Non-Personally Identifiable Information: Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc,) with interested third parties to help them understand the usage patterns for certain logovalley Consulting services.
         </p>
 
         
@@ -293,12 +293,12 @@
           
           <div class="flogo">
             <figure>
-              <img class="lazy" src="" data-src="assets/images/logo-dark.png">
+              <img class="lazy" src="assets/images/logo-dark.png">
             </figure>
             <br>
            <a href="http://www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img class="lazy" src="" data-src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a>
             <script src="../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-           <img class="lazy" src="" data-src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
+           <img class="lazy" src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
           </div>
           
         </div>
@@ -359,7 +359,7 @@
             <ul>
               <li>
                 <figure>
-                  <img class="lazy" src="" data-src="assets/images/card-brands.svg">
+                  <img class="lazy" src="assets/images/card-brands.svg">
                 </figure>
               </li>
             </ul>
@@ -386,12 +386,12 @@
             <li><a href="privacy-policy.html" title="">Privacy Policy</a></li>
           </ul>
            <ul class="ftr-social">
-              <li><a target="_blank" href="https://www.facebook.com/BeSpoke-Logo-102555771519831/"><span class="icon-facebook"></span></a></li>
-              <li><a target="_blank" href="https://www.instagram.com/bespoke.logo/"><span class="icon-instagram"></span></a></li>
+              <li><a target="_blank" href="https://www.facebook.com/logovalley-Logo-102555771519831/"><span class="icon-facebook"></span></a></li>
+              <li><a target="_blank" href="https://www.instagram.com/logovalley.logo/"><span class="icon-instagram"></span></a></li>
               <li>
-                  <li><a target="_blank" href="https://twitter.com/LogoBespoke"><span class="icon-twitter"></span></a></li>
+                  <li><a target="_blank" href="https://twitter.com/Logologovalley"><span class="icon-twitter"></span></a></li>
               <li>
-              <img class="lazy" src="" data-src="assets/images/flags/uk.png">
+              <img class="lazy" src="assets/images/flags/uk.png">
             </li>
             </ul>
         </div>
@@ -599,7 +599,7 @@ $zopim.livechat.window.toggle();
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Bespoke Logo",
+  "name": "logovalley",
   "url": "https://logovalley.co.uk/",
   "logo": "https://logovalley.co.uk/assets/images/logo-dark.png"
 }

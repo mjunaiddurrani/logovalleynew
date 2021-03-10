@@ -3,7 +3,7 @@
 
 <head>
 <?php include_once('include/styles.php') ?>
-<script id="mcjs ">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script ","../chimpstatic.com/mcjs-connected/js/users/6796a19bfb3e8c37059d0263e/f2c59baf51d0c638a736e9c85.js ");</script>
+
 
 </head>
 <body class="home ">
@@ -88,8 +88,6 @@
 </section>
 
 </div>
-
-
 
 <section class="home-form ">
   <div class="container ">
@@ -270,10 +268,6 @@
     </div>
   </div>
 </section>
-
-
-
-
 <section class="counter ">
   <ul class="packslider ">
     <li>
@@ -302,10 +296,6 @@
     </li>
   </ul>
 </section>
-
-
-
-
 <section class="strugglesec ">
   <div class="container ">
     <div class="row ">
@@ -326,8 +316,6 @@
     </div>
   </div>
 </section>
-
-
 <section class="helpsec ">
   <div class="container ">
     <div class="row ">
@@ -1178,8 +1166,6 @@
 
   </div>
 </section>
-
-
 <div class="packages-sec ">
   <div class="container ">
     <div class="row ">
@@ -1334,7 +1320,6 @@
 
 </li>
 
-
 <li class="hightwrp ">
   <div class="pack-wrap green ">
     <div class="hdarea ">
@@ -1421,88 +1406,6 @@
   <a href="packages/business-rebranding-logo.html " class="btn-detail ">View Details</a>
 </li>
 
-<!--<li class="hightwrp ">-->
-<!--  <div class="pack-wrap blue ">-->
-<!--    <div class="hdarea ">-->
-      <!--<h4>Business Plus</h4>-->
-<!--      <h3>Gold Logo <br>Package</h3>-->
-<!--      <p>Suitable for potential super-startups and brand revamps for companies.</p>-->
-
-<!--    </div>-->
-<!--    <div class="bdarea ">-->
-<!--      <ul class="list-scroll ">-->
-      
-<!--          <li>Unlimited Logo</li>-->
-<!--          <li>8 Design Artist</li>-->
-<!--          <li>2 Stationery Designs</li>-->
-<!--          <li> UNLIMITED Revisions</li>-->
-<!--          <li> FREE MS Word Letterhead</li>-->
-<!--          <li> Free Email Signature</li>-->
-<!--          <li> Content Management System</li>-->
-<!--          <li> 2 Stock Photos</li>-->
-<!--          <li> 2 Banner Designs</li>-->
-<!--          <li> jQuery Slider</li>-->
-<!--          <li> All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li>-->
-<!--          <li> 100% Ownership Rights</li>-->
-<!--          <li> 100% Satisfaction Guarantee</li>-->
-<!--          <li> 100% Unique Design Guarantee</li>-->
-<!--          <li> 100% Money Back Guarantee *</li>-->
-<!--      </ul>-->
-<!--    </div>-->
-<!--    <div class="ftarea ">-->
-<!--      <div class="lft ">-->
-<!--        <h4><span class="cutting_price ">£1200</span><strong>£</strong>199.99</h4>-->
-<!--      </div>-->
-<!--      <div class="rht ">-->
-<!--        <p>Add on: £20 for 24 Hours Rush Delivery</p>-->
-<!--      </div>-->
-
-      
-<!--    </div>-->
-<!--  </div>-->
-<!--  <div class="pkbtn ">-->
-<!--    <a href="https://logovalley.co.uk/get-a-custom-quote?pack=6 " class="btn-blue ">Buy Your Plan</a>-->
-<!--  </div>-->
-<!--  <a href="https://logovalley.co.uk/packages/gold-logo " class="btn-detail ">View Details</a>-->
-<!--</li>-->
-
-<!--<li class="hightwrp ">-->
-<!--  <div class="pack-wrap red ">-->
-<!--    <div class="hdarea ">-->
-      <!--<h4>Business Plus</h4>-->
-<!--      <h3> Illustrative Logo Package</h3>-->
-<!--      <p>Suitable for potential super-startups and brand revamps for companies.</p>-->
-
-<!--    </div>-->
-<!--    <div class="bdarea ">-->
-<!--      <ul class="list-scroll ">-->
-<!--        <li>3 Custom Logo Design Concepts</li>-->
-<!--        <li>By 2 Designers</li>-->
-<!--        <li>UNLIMITED Revisions</li>-->
-<!--        <li>48 to 72 hours TAT</li>-->
-<!--        <li>All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li>-->
-<!--        <li>100% Ownership Rights</li>-->
-<!--        <li>100% Satisfaction Guarantee</li>-->
-<!--        <li>100% Unique Design Guarantee</li>-->
-<!--        <li>100% Money Back Guarantee *</li>  -->
-<!--      </ul>-->
-<!--    </div>-->
-<!--    <div class="ftarea ">-->
-<!--      <div class="lft ">-->
-<!--        <h4><span class="cutting_price ">£1200</span><strong>£</strong>109.99 </h4>-->
-<!--      </div>-->
-<!--      <div class="rht ">-->
-<!--        <p>Add on: £20 for 24 Hours Rush Delivery</p>-->
-<!--      </div>-->
-
-      
-<!--    </div>-->
-<!--  </div>-->
-<!--  <div class="pkbtn ">-->
-<!--    <a href="https://logovalley.co.uk/get-a-custom-quote?pack=7 " class="btn-red ">Buy Your Plan</a>-->
-<!--  </div>-->
-<!--  <a href="https://logovalley.co.uk/packages/illustrative-logo " class="btn-detail ">View Details</a>-->
-<!--</li>-->
 
 
 <li class="hightwrp ">
@@ -1544,12 +1447,6 @@
   </div>
   <a href="packages/3d-logo.html " class="btn-detail ">View Details</a>
 </li>
-
-
-
-
-
-
 
         </ul>
 
@@ -2788,12 +2685,6 @@
   "logo ": "https://www.logovalley.co.uk//assets/images/logo-dark.png "
 }
 </script>
-
-
-
-
-
-
 
 </body>
 
