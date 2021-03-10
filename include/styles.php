@@ -19,6 +19,7 @@ if (isset($_SERVER['HTTPS'])) {
 <link rel="canonical " href="index.html "/><meta charset="utf-8 ">
 <meta name="viewport " content="width=device-width, initial-scale=1, shrink-to-fit=no ">
 <link rel="icon " href="favicon.ico " type="image/x-icon " />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css"/>
 <link href="assets/css/m-style.css " rel="stylesheet " type="text/css " />
 <link href="assets/css/style.css " rel="stylesheet " type="text/css " />
@@ -44,6 +45,3 @@ if (isset($_SERVER['HTTPS'])) {
 
 <meta property="og:site_name " content="LOGO VALLEY LOGO " />
 <meta property="og:description " content="Best Logo design Company in UK, providing reliable Logo services you need to hire a top level Logo Design agency that’s focus on providing you ">
-
-
-<META NAME="ROBOTS " CONTENT="INDEX, FOLLOW ">

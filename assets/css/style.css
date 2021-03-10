@@ -4440,7 +4440,7 @@ input:checked+.toggle:before {
 .listsec .wrap ul li {
     width: 33.33%;
     float: left;
-    padding: 20px 35px;
+    padding: 20px 15px;
     background: #fff;
 }
 
@@ -4474,16 +4474,9 @@ input:checked+.toggle:before {
     position: relative;
     padding-bottom: 0
 }
+.listsec .wrap ul li p .fa{color:#9624c6;}
 
 .listsec .wrap ul li p:before {
-    content: "\e962";
-    position: absolute;
-    font-family: icomoon!important;
-    left: 0;
-    font-size: 20px;
-    color: #9624c6;
-    display: table-cell;
-    vertical-align: middle;
 }
 
 .cta2 {
@@ -7377,11 +7370,7 @@ div.doublewrap ul li.heading:before{display: none;}
         margin-top: 0
     }
     .listsec .wrap ul li {
-        padding: 10px 35px
-    }
-    .listsec .wrap ul li p,
-    .listsec .wrap ul li p:before {
-        font-size: 14px
+        padding: 10px 5px
     }
     .firstcs:before {
         display: none
@@ -7686,7 +7675,7 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
 
 
 .home-form{ position: absolute;
-    top: 160px;
+    top: 80px;
     left: 0;
     width: 100%;}
 
@@ -8121,6 +8110,7 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
     font-size: 18px;
     border: none;
 }
+.text-purple{color: #9624c6;}
 @media(max-width:1199px){
     .mainform .wrap{margin-top: -100px;}
 }
