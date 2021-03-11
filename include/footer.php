@@ -5,7 +5,7 @@
         <div class="col-lg-6 address-main ">
           <div class="flogo ">
             <figure>
-              <img class="lazy " src="assets/images/logo-dark.png ">
+              <img class="lazy " src="/assets/images/logo-dark.png ">
             </figure>
             <br>
           </div>
@@ -23,7 +23,7 @@
               <ul>
                 <li>
                   <figure>
-                    <img class="lazy " src="assets/images/card-brands.svg ">
+                    <img class="lazy " src="/assets/images/card-brands.svg ">
                   </figure>
                 </li>
               </ul>
@@ -51,7 +51,7 @@
               <li>
                   <li><a target="_blank " href="https://twitter.com/Logologovalley " class="text-white"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
               <li>
-              <img class="lazy " src="assets/images/flags/uk.png ">
+              <img class="lazy " src="/assets/images/flags/uk.png ">
             </li>
             </ul>
         </div>
