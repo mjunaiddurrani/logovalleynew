@@ -2984,89 +2984,17 @@ We are well aware of the fierce competition between different video companies. S
 
 
 
-<script type="text/javascript">
-  function setButtonURL(){
-//CUGICHelper.bubbleChat.toggle();
-$zopim.livechat.window.toggle();
-//LC_API.open_chat_window();
-// Tawk_API.toggle();
-//tidioChatApi.open();
-}
-</script> 
 
 
 
-<!--Start of Tawk.to Script-->
-<!--<script type="text/javascript">-->
-<!--var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();-->
-<!--(function(){-->
-<!--var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];-->
-<!--s1.async=true;-->
-<!--s1.src='https://embed.tawk.to/5edfabe44a7c6258179a414d/default';-->
-<!--s1.charset='UTF-8';-->
-<!--s1.setAttribute('crossorigin','*');-->
-<!--s0.parentNode.insertBefore(s1,s0);-->
-<!--})();-->
-<!--</script>-->
-<!--End of Tawk.to Script-->
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135211450-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-135211450-1');
-</script>
 
 
-<script type="text/javascript">
 
 
- /*var onloadCallback = function() {
-        grecaptcha.render('google_recaptcha', {
-          'sitekey' : '6LcWGcUUAAAAACzcDeBSQQXSh8g1SdQ8HgJrZOkH'
-        });
-        
-       
-        
-       
-       
-      };*/
-      
-      
-     /* $(".bot-form .submit").click(function () {
-              var rcres = grecaptcha.getResponse();
-              console.log(grecaptcha);
-            //   console.log(rcres);
-            //   if(rcres.length){
-            //     grecaptcha.reset();
-            //     alert('please fill captcha.');
-            //     return false;
-            //   }
-              if(rcres == ''){
-                grecaptcha.reset();
-                alert('please fill captcha.');
-                return false;
-              }
-        });*/
-        
-        
-       
-        
-      
-       
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "logovalley",
-  "url": "https://logovalley.co.uk/",
-  "logo": "https://logovalley.co.uk/assets/images/logo-dark.png"
-}
-</script>
+
+
 
 
 
