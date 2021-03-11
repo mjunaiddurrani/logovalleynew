@@ -880,7 +880,7 @@
       <div class="col-lg-12">
         <h3>Shape a strong brand that connects with your audience!</h3>
         <a href="get-a-custom-quote.html" class="btn-secondary">Design Brand With Us </a>
-        <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();" target="_self">Talk with Us </a></h5>
+        <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();" >Talk with Us </a></h5>
       </div>
     </div>
   </div>
@@ -974,7 +974,7 @@
     </div>
     <div class="btn-wrap">
       <a href="get-a-custom-quote-2.html" class="btn-secondary">Request a Custom Quote </a>
-      <p>Any Questions?  <a href="javascript:;" onclick="setButtonURL();" target="_self"> Live Chat</a></p>
+      <p>Any Questions?  <a href="javascript:;" onclick="setButtonURL();" > Live Chat</a></p>
     </div>
 </div>  </div>
 </section>

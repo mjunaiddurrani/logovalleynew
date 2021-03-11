@@ -23,7 +23,7 @@
               <li>Timely Delivery</li>
               <li>100% Money Back Guarantee</li>
           </ul>
-          <a href="javascript:;" onclick="setButtonURL();" target="_self">Lets Get Started</a><br/>
+          <a href="javascript:;" onclick="setButtonURL();" >Lets Get Started</a><br/>
           <img src="assets/images/trustpilot.png" class="seoimg" alt="">
           <img src="assets/images/rateimg.png" class="seoimg-2" alt="" />
         </div>
@@ -226,7 +226,7 @@
           <h2>We Have Writers Who Will Write The Perfect Content For You And Your Brand.</h2>
           <p>possible Content is what is the backbone of any brand and it has to be top notch in order for it to serve its purpose. Content attracts visitors and gives you better and more business as well.You deserve the best and we deal in the best. Our writers have years of experience and they use their expertise to deliver the best work.</p>
           <div class="btns">
-              <a href="javascript:;" onclick="setButtonURL();" target="_self" class="btn-secondary">Chat With Us</a>
+              <a href="javascript:;" onclick="setButtonURL();"  class="btn-secondary">Chat With Us</a>
             <a href="tel:+442038087061" class="btn-secondary btn-outline">+44-203-808-7061</a>
          </div>
         </div>
@@ -2229,7 +2229,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" target="_self">Discuss your project with our Expert</a></h3>
+        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" >Discuss your project with our Expert</a></h3>
       </div>
     </div>
   </div>

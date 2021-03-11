@@ -25,7 +25,7 @@
 <li>A custom logo in just hours</li>
 <li>  100% money back guarantee</li>
 </ul>
-<a href="javascript:; " onclick="setButtonURL(); " target="_self " class="btn-secondary ">Lets Get Started</a><br/>
+<a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary ">Lets Get Started</a><br/>
 <img class="lazy seoimg " src="assets/images/trustpilot.png " alt=" ">
 <img class="lazy seoimg-2 " src="assets/images/rateimg.png " alt=" " />
 </div>
@@ -50,7 +50,7 @@
 <li>Full copyright and production ready files</li>
 <li>100% money back guarantee</li>
 </ul>
-<a href="javascript:; " onclick="setButtonURL(); " target="_self " class="btn-secondary ">Lets Get Started</a><br/>
+<a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary ">Lets Get Started</a><br/>
 <img class="lazy seoimg " src="assets/images/trustpilot.png " data-src=" " alt=" ">
 <img class="lazy seoimg-2 " src="assets/images/rateimg.png " alt=" " />
 </div>
@@ -75,7 +75,7 @@
 <li>Full copyright and production ready files.</li>
 
 </ul>
-<a href="javascript:; " onclick="setButtonURL(); " target="_self " class="btn-secondary ">Lets Get Started</a><br/>
+<a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary ">Lets Get Started</a><br/>
 <img class="lazy seoimg " src="assets/images/trustpilot.png " alt="banner ">
 <img class="lazy seoimg-2 " src="assets/images/rateimg.png " alt="banner " />
 </div>
@@ -304,7 +304,8 @@
          <p>We take products through every stage necessary for their creation – Product Discovery, Business and User Research, UX/UI Design, Prototyping, Usability Testing, and future Product Improvements.
          </p>
         <div class="text-left mtpx-25 btns ">
-          <a href="javascript:; " onclick="setButtonURL(); " target="_self " class="btn-secondary ">Chat With Us</a>
+          <a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary 
+liveChat">Chat With Us</a>
            <a href="tel:+442038087061" class="btn-secondary btn-outline ">+44-203-808-7061</a>
         </div>
       </div>
@@ -2427,7 +2428,7 @@
   <div class="container ">
     <div class="row ">
       <div class="col-lg-12 ">
-        <h3>Looking for a custom package? <a href="javascript:; " onclick="setButtonURL(); " target="_self ">Discuss your project with our Expert</a></h3>
+        <h3>Looking for a custom package? <a href="javascript:; " onclick="setButtonURL(); " >Discuss your project with our Expert</a></h3>
       </div>
     </div>
   </div>
@@ -2507,7 +2508,7 @@
       <div class="col-lg-12 ">
         <h3>Shape a strong brand that connects with your audience!</h3>
         <a href="get-a-custom-quote.html " class="btn-secondary ">Design Brand With Us </a>
-        <h5>Have a Question, <a href="javascript:; " onclick="setButtonURL(); " target="_self ">Talk with Us </a></h5>
+        <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();">Talk with Us </a></h5>
       </div>
     </div>
   </div>
@@ -2547,7 +2548,7 @@
     </div>
     <div class="btn-wrap ">
       <a href="get-a-custom-quote-2.html " class="btn-secondary ">Request a Custom Quote </a>
-      <p>Any Questions?  <a href="javascript:; " onclick="setButtonURL(); " target="_self "> Live Chat</a></p>
+      <p>Any Questions?  <a href="javascript:; " onclick="setButtonURL(); "> Live Chat</a></p>
     </div>
 </div>  </div>
 </section>
@@ -2556,7 +2557,7 @@
   <div class="container ">
     <div class="row ">
       <div class="col-md-12 ">
-        <div class="txtwrp ">
+        <div class="txtwrp">
           <h2>Client's Review</h2>
         </div>
       </div>

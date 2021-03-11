@@ -22,7 +22,7 @@
               <li>Logo Mockup Animation</li>
               <li>Logo Animation with VFX</li>
           </ul>
-          <a href="javascript:;" onclick="setButtonURL();" target="_self">Lets Get Started</a><br/>
+          <a href="javascript:;" onclick="setButtonURL();" >Lets Get Started</a><br/>
           <img src="assets/images/trustpilot.png" class="seoimg" alt="">
           <img src="assets/images/rateimg.png" class="seoimg-2" alt="" />
         </div>
@@ -224,7 +224,7 @@
           <h2>Why Your Logo Has To Be The Best</h2>
           <p>A logo is what represents your business and acts as an ambassador for your brand. You cannot always be there to represent your business the way you want, your logo is always there on the front page. This is why you have to get the best logo animation services for your brand. It has to exhibit professionalism, dedication, trustworthiness and the customer should feel connected to it. Our expert animators create the perfect blend of images and emotions which leads to brand recognition and profitability.</p>
           <div class="btns">
-              <a href="javascript:;" onclick="setButtonURL();" target="_self" class="btn-secondary">Chat With Us</a>
+              <a href="javascript:;" onclick="setButtonURL();"  class="btn-secondary">Chat With Us</a>
             <a href="tel:+442038087061" class="btn-secondary btn-outline">+44-203-808-7061</a>
          </div>
         </div>
@@ -2247,7 +2247,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" target="_self">Discuss your project with our Expert</a></h3>
+        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" >Discuss your project with our Expert</a></h3>
       </div>
     </div>
   </div>

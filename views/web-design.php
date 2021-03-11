@@ -24,7 +24,7 @@
               <li>Reach and Grow your audience.</li>
               
           </ul>
-          <a href="javascript:;" onclick="setButtonURL();" target="_self">Lets Get Started</a><br/>
+          <a href="javascript:;" onclick="setButtonURL();" >Lets Get Started</a><br/>
           <img src="assets/images/trustpilot.png" class="seoimg" alt="">
           <img src="assets/images/rateimg.png" class="seoimg-2" alt="" />
         </div>
@@ -227,7 +227,7 @@
           <h2>Your website doesn't have to be complicated.</h2>
           <p>We develop and design dynamic, economical, and easy to use websites.We have a team of professional designers and developers that are proficient to handle complex projects.<br>Our main areas of work are Web Application Development, Front-End Development, Custom E-Commerce Development, Third-party APIs integration, Web APIs Development. Our Web Portal Development services include, thorough-research of each aspect and complete understanding of your business, developing custom-built concepts for a portal already up and live.</p>
           <div class="btns">
-              <a href="javascript:;" onclick="setButtonURL();" target="_self" class="btn-secondary">Chat With Us</a>
+              <a href="javascript:;" onclick="setButtonURL();"  class="btn-secondary">Chat With Us</a>
                   <a href="tel:+442038087061" class="btn-secondary btn-outline">+44-203-808-7061</a>
          </div>
         </div>
@@ -2250,7 +2250,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" target="_self">Discuss your project with our Expert</a></h3>
+        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" >Discuss your project with our Expert</a></h3>
       </div>
     </div>
   </div>

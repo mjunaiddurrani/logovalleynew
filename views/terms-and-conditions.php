@@ -158,7 +158,7 @@
           <ul class="top-info-list">
             <li><span class="icon-envelope2"></span> <a href="javascript:;">info@domain.com</a> </li>
             <li><span class="icon-phone2"></span>Call Us:  111-222-333 </li>
-            <li><span class="icon-user"></span> <a href="javascript:;" onclick="setButtonURL();" target="_self">Live Chat</a> </li>
+            <li><span class="icon-user"></span> <a href="javascript:;" onclick="setButtonURL();" >Live Chat</a> </li>
           </ul>
         </div>
       </div>

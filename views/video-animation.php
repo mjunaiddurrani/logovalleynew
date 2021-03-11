@@ -164,7 +164,7 @@
           <ul class="top-info-list">
             <li><span class="icon-envelope2"></span> <a href="javascript:;">info@domain.com</a> </li>
             <li><span class="icon-phone2"></span>Call Us:  111-222-333 </li>
-            <li><span class="icon-user"></span> <a href="javascript:;" onclick="setButtonURL();" target="_self">Live Chat</a> </li>
+            <li><span class="icon-user"></span> <a href="javascript:;" onclick="setButtonURL();" >Live Chat</a> </li>
           </ul>
         </div>
       </div>
@@ -2581,7 +2581,7 @@ We are well aware of the fierce competition between different video companies. S
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" target="_self">Discuss your project with our Expert</a></h3>
+        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" >Discuss your project with our Expert</a></h3>
       </div>
     </div>
   </div>
