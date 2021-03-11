@@ -40,8 +40,8 @@
         <div class="col-lg-3 logo-area ">
           <div class="logo ">
             <a href="/">
-              <img class="img-fluid white " src="assets/images/logo-dark.png " alt="* " />
-              <img class="img-fluid black " src="assets/images/logo-light.png " alt="* " />
+              <img class="img-fluid white " src="/assets/images/logo-dark.png " alt="* " />
+              <img class="img-fluid black " src="/assets/images/logo-light.png " alt="* " />
               
               <!-- <h2 style="padding: 10px 0; ">Logo Valley  <span>   Logo </span></h2> -->
             </a>
