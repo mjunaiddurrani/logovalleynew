@@ -35,7 +35,7 @@
 <meta property="og:type" content=" website" />
 <meta property="og:url" content="index.html">
 
-<meta property="og:site_name" content="BESPOKE LOGO" />
+<meta property="og:site_name" content="logovalley" />
 <meta property="og:description" content="Best Logo design Company in UK, providing reliable Logo services you need to hire a top level Logo Design agency  that’s focus on providing you">
 
 
@@ -64,7 +64,7 @@
              
 <!--             <h3 class="main-heading"><span>Get Special</span> Discount</h3>-->
 <!--             <figure>-->
-<!--               <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/pop-up-image.svg" alt="">-->
+<!--               <img class="lazy" src="assets/images/pop-up-image.svg" alt="">-->
 <!--             </figure>-->
 <!--             <P>Don't miss out on special discount offer</P>-->
 <!--             <form id="popupfrm" class="cmxform"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">-->
@@ -173,7 +173,7 @@
               <img class="img-fluid white" src="assets/images/logo-dark.png" alt="*" />
               <img class="img-fluid black" src="assets/images/logo-light.png" alt="*" />
               
-              <!-- <h2 style="padding: 10px 0;">Bespoke  <span>   Logo </span></h2> -->
+              <!-- <h2 style="padding: 10px 0;">logovalley  <span>   Logo </span></h2> -->
             </a>
           </div>
         </div>
@@ -263,12 +263,12 @@
         <p>The allotted number of revisions is based on your selected package and you can demand as many revisions as stated in your package details. We focus on providing the best services to our customers and will continue revising until your needs is met. You are not liable to pay an additional price if the design concepts are not changed. You will have your revised design in 48 hours. 
         </p>
         <h2>TURN AROUND TIME </h2>
-        <p>Bespoke Logo has a 48-72 hour turnaround time for most design services. This is not the complete time from start to finish for a project, only the turnaround time for a single iteration of a design stage. Depending on the kind of service the time required for revisions could be a minimum of 48 hours to 72 hours, this time means 2 working days, For example: <br>Logo Orders placed or Revisions Requested on a Monday will be delivered by Wednesday. <br> Logo Orders placed or Revisions Requested on a Friday will be delivered by end of day Tuesday. </p>
+        <p>logovalley has a 48-72 hour turnaround time for most design services. This is not the complete time from start to finish for a project, only the turnaround time for a single iteration of a design stage. Depending on the kind of service the time required for revisions could be a minimum of 48 hours to 72 hours, this time means 2 working days, For example: <br>Logo Orders placed or Revisions Requested on a Monday will be delivered by Wednesday. <br> Logo Orders placed or Revisions Requested on a Friday will be delivered by end of day Tuesday. </p>
         <h2>MONEY BACK GUARANTEE</h2>
-        <p>Bespoke Logo offers a Money Back Guarantee on all its design services. Customers can claim their money paid for the service back under the following circumstance:</p>
+        <p>logovalley offers a Money Back Guarantee on all its design services. Customers can claim their money paid for the service back under the following circumstance:</p>
         <p>If you are unsatisfied with the initial designs of the logo or the website. You can request a refund on your project.</p>
         <h2>REFUND POLICY</h2>
-        <p>Bespoke Logo offers a 100% Refund on all its design services, however it is not an unconditional 100% refund and certain conditions still apply.</p>
+        <p>logovalley offers a 100% Refund on all its design services, however it is not an unconditional 100% refund and certain conditions still apply.</p>
         <p>Refund Policy will be Void if;</p>
                  
         
@@ -289,11 +289,11 @@
                 <li>  Reasons such as ‘change of mind’, ‘disagreement with partner’ or other reasons that do not pertain to the service </li>will not be subject to refund under any circumstances.</li>
                 <li>  Once a client has accepted multiple sets of revisions (for any service),</li>
                 <li>  The client may be entitled to claim a maximum 50% of the refund after discussion with their Project Manager.
-                <li>  The refund approval will be at the discretion of Bespoke Logo’s Management.</li>
+                <li>  The refund approval will be at the discretion of logovalley’s Management.</li>
                 <li>  Management's decision on the matter will be final.</li>
                 <li>  If a client subscribes for a service bundle and happens to be dissatisfied with a particular service, the refund will </li>only be applicable on that particular service and ‘not’ the entire bundle.</li>
                 <li>  Cancellations of orders prior to project initiation due to reasons unrelated to the design service itself for any </li>number of reasons will be subjected to a 50% cancellation administrative fee.
-                <li>  Note: Bespoke Logo holds all the rights to reject any project or cancel the contract whenever it deems necessary. </li>After the refund, you will not have any rights to use the designs for any purpose; they will be the sole property of Bespoke Logo. The company will be the rightful owner of the designs.</li>
+                <li>  Note: logovalley holds all the rights to reject any project or cancel the contract whenever it deems necessary. </li>After the refund, you will not have any rights to use the designs for any purpose; they will be the sole property of logovalley. The company will be the rightful owner of the designs.</li>
                 <li>  Services not related to design are not eligible for refunds under any circumstances. They are not covered under our 100% money back guarantee. If such a service is acquired as part of a Package Deal of any kind, they cannot be used to request a refund on the entire package. Examples of such services are as follows:</li>
                 <li>  Copyrights Protection Certificates.
                 <li>  Website & Emails Hosting Services.
@@ -303,7 +303,7 @@
                 <li>  Website SEO Plans.</li>
                 <li>  Social Media Marketing</li>
                 <li>  Google Adwords Campaigns</li>
-                <li>  For services that are not covered under the 100% refund policy in case of dissatisfaction the Bespoke Logo management after review the project manager may choose to offer a partial refund to the client.</li>
+                <li>  For services that are not covered under the 100% refund policy in case of dissatisfaction the logovalley management after review the project manager may choose to offer a partial refund to the client.</li>
             </ul>
            
           <h2>CLAIM YOUR REFUND</h2>
@@ -314,12 +314,12 @@
             <li>  Sending us an Email/ messaging on Basecamp to initiate a refund. </li>
             <li>  As soon as we receive your refund request, we will respond to it at our earliest, once the required analysis iscompleted we will initiate the process according to our refund policy stated above. </li>
             <li>  To cancel a project prior to project initiation due to reason unrelated to the service itself the refund request must be made within 24 hours of order placement in order to receive a full refund. Failing to do so will cause in receiving a service fee charge if a cancellation is requested after the initial 24 hours.</li>
-            <li>  After you have received your refund, you will not have any rights to any designs submitted by Bespoke Logo, unlessmutually agreed with by the company and the customer through written communication. The information will be submitted the  Copyright Acquisition of the Government Copyright Agencies to maintain legality. </li>
+            <li>  After you have received your refund, you will not have any rights to any designs submitted by logovalley, unlessmutually agreed with by the company and the customer through written communication. The information will be submitted the  Copyright Acquisition of the Government Copyright Agencies to maintain legality. </li>
 
           </ul>
           <h2>QUALITY ASSURANCE POLICY</h2>
           <ul>
-              <li>Bespoke Logo will do its best to meet your requirements and our designers do their best to fulfill your expectations. We believe in providing the best designs and each of our designs is well researched and well crafted.</li>
+              <li>logovalley will do its best to meet your requirements and our designers do their best to fulfill your expectations. We believe in providing the best designs and each of our designs is well researched and well crafted.</li>
           </ul>
           <h2>100% SATISFACTION GUARANTEE</h2>
           <ul>
@@ -336,33 +336,33 @@
           </ul>
           <h2>DESIGN OWNERSHIP & RIGHTS</h2>
           <ul>
-            <li>All finalised Designs provided by Bespoke Logo are done so on a written request of finalisation by the client and upon finalisation the client receives all the final core files of the logo and owns 100% of all rights of ownership to the said logo.</li>
-            <li>  Client shall own the final the Final Design provided by Bespoke Logo in all its entirety.</li>
+            <li>All finalised Designs provided by logovalley are done so on a written request of finalisation by the client and upon finalisation the client receives all the final core files of the logo and owns 100% of all rights of ownership to the said logo.</li>
+            <li>  Client shall own the final the Final Design provided by logovalley in all its entirety.</li>
             <li>  All ownership rights of the said finalised design will belong to the client 100%.</li>
             <li>  The Client is free to use the finalised design as they see fit.</li>
             <li>  Client shall not, however, own any materials, media or other content generated during any revision cycles leading up to the Final Product.</li>
           </ul>
           <h2>CONTENT CREATION & POPULATION</h2>
             <ul>
-                <li>Bespoke Logo will not be responsible for creating or populating content (e.g. text/Images) into the website, unless purchased exclusively otherwise. In which case:</li>
-                <li>Bespoke Logo will populate the website with content created for the client</li>
+                <li>logovalley will not be responsible for creating or populating content (e.g. text/Images) into the website, unless purchased exclusively otherwise. In which case:</li>
+                <li>logovalley will populate the website with content created for the client</li>
                 <li>The content/text for the website will be created specifically for the customer's website.</li>
-                <li>Bespoke Logo will populate the website with images.</li>
-                <li>Bespoke Logo will acquire stock imagery for the client from stock photo websites.</li>
+                <li>logovalley will populate the website with images.</li>
+                <li>logovalley will acquire stock imagery for the client from stock photo websites.</li>
                 <li>Images will be purchased upon approval from the client.</li>
-                <li>Bespoke Logo will not be responsible in any way shape or form, for any similarities between images used on the site that may or may not resemble other websites.</li>
-                <li>Bespoke Logo will populate the website with products and product details.</li>
+                <li>logovalley will not be responsible in any way shape or form, for any similarities between images used on the site that may or may not resemble other websites.</li>
+                <li>logovalley will populate the website with products and product details.</li>
                 <li>Product images and product details will be provided by the client</li>
             </ul>
             <h2>N.D.A. & REPUTATION MANGEMENT POLICY</h2>
             <ul>
-                <li>  Bespoke Logo, does not share the customer information with regarding their project or contact details with anyone. The client's person and project information is kept confidential at all points.</li>
-                <li>  Once the project is completed successfully. Both parties Bespoke Logo and The Client agree not to intentionally defame or otherwise disparage the other with respect to matters arising after project completion.</li>
-                <li> Once the project is completed successfully. Each Party agrees to refrain from (and Bespoke Logo shall take reasonable steps to cause its officers and directors to refrain from), either directly or indirectly, hereafter making any defamatory comments of any type or nature whatsoever to anyone about the Client (and in the case of the Company, its employees, officers, directors, agents, consultants, affiliates, investors or business partners).</li>
+                <li>  logovalley, does not share the customer information with regarding their project or contact details with anyone. The client's person and project information is kept confidential at all points.</li>
+                <li>  Once the project is completed successfully. Both parties logovalley and The Client agree not to intentionally defame or otherwise disparage the other with respect to matters arising after project completion.</li>
+                <li> Once the project is completed successfully. Each Party agrees to refrain from (and logovalley shall take reasonable steps to cause its officers and directors to refrain from), either directly or indirectly, hereafter making any defamatory comments of any type or nature whatsoever to anyone about the Client (and in the case of the Company, its employees, officers, directors, agents, consultants, affiliates, investors or business partners).</li>
             </ul>
             <h2>RECORD MAINTENANCE</h2>
             <ul>
-                <li>  Bespoke Logo keeps the records of finalised designs so that in case of any misplaced order, you will be provided the exact file.</li>
+                <li>  logovalley keeps the records of finalised designs so that in case of any misplaced order, you will be provided the exact file.</li>
             </ul>
             <h2>CUSTOMER SUPPORT</h2>
             <ul>
@@ -370,21 +370,21 @@
             </ul>
             <h2>TECHNICAL SUPPORT POLICY</h2>
             <ul>
-                <li>   Bespoke Logo is primarily a design service and design consultancy provider. We will design and develop the services that the client needs. On occasions our packages and services purchased will include technical aspects to help the client with their websites and emails. Bespoke Logo will provide the client with the basic information regarding those services and the settings required to make those services works. Bespoke Logo will not be responsible for providing detailed trainings or installations of said services on the Customer's end. Such services may include but not limited to:</li>
+                <li>   logovalley is primarily a design service and design consultancy provider. We will design and develop the services that the client needs. On occasions our packages and services purchased will include technical aspects to help the client with their websites and emails. logovalley will provide the client with the basic information regarding those services and the settings required to make those services works. logovalley will not be responsible for providing detailed trainings or installations of said services on the Customer's end. Such services may include but not limited to:</li>
                 <li>   Website Deployment</li>
-                <li>   Bespoke Logo will deploy the website for the customer on A Hosting server provided by us. </li>
-                <li>   Hosting Service provided by Bespoke Logo is a free service provided to the client as an added feature without any cost. It is acquired from a Third Party Service provider</li>
+                <li>   logovalley will deploy the website for the customer on A Hosting server provided by us. </li>
+                <li>   Hosting Service provided by logovalley is a free service provided to the client as an added feature without any cost. It is acquired from a Third Party Service provider</li>
                 <li>   A Hosting server provided by the customer (purchased from a Third Party)</li>
-                <li>   In the event the website is hosted on third party webserver purchased by the customer, Bespoke Logo will not be held responsible for any kind of server or hosting related issues. </li>
-                <li>   There is no Service Level Agreement (SLA) between client and Bespoke Logo in terms of technical assistance or service outage, unless purchased separately as an ongoing maintenance service.</li>
+                <li>   In the event the website is hosted on third party webserver purchased by the customer, logovalley will not be held responsible for any kind of server or hosting related issues. </li>
+                <li>   There is no Service Level Agreement (SLA) between client and logovalley in terms of technical assistance or service outage, unless purchased separately as an ongoing maintenance service.</li>
                 <li>   Website Content Management System (CMS: Content Management System)</li>
-                <li>   Bespoke Logo will provide the customer with a user manual to use the Website CMS (Content Management System).</li>
-                <li>   Bespoke Logo will not be responsible for training the client in the said Website CMS (Content Management System).</li>
+                <li>   logovalley will provide the customer with a user manual to use the Website CMS (Content Management System).</li>
+                <li>   logovalley will not be responsible for training the client in the said Website CMS (Content Management System).</li>
                 <li>   Emails Setup</li>
-                <li>   Bespoke Logo will be providing the customer with the necessary settings and information to install the emails on their end.</li>
-                <li>   Bespoke Logo will not be responsible for installing said emails onto the customer end.</li>
-                <li>   Bespoke Logo will not be responsible for providing technical support or assistance in troubleshooting errors on email usage as all our emails are on open servers and accessible by all service providers.</li>
-                <li>   Bespoke Logo will not be held responsible in any way for customer's failure to execute, install or learn the usage of above said services on their end, as the responsibilities for those lie on the customer's end.</li>
+                <li>   logovalley will be providing the customer with the necessary settings and information to install the emails on their end.</li>
+                <li>   logovalley will not be responsible for installing said emails onto the customer end.</li>
+                <li>   logovalley will not be responsible for providing technical support or assistance in troubleshooting errors on email usage as all our emails are on open servers and accessible by all service providers.</li>
+                <li>   logovalley will not be held responsible in any way for customer's failure to execute, install or learn the usage of above said services on their end, as the responsibilities for those lie on the customer's end.</li>
             </ul>
             <h2>COMMUNICATION POLICY</h2>
             <ul>
@@ -410,9 +410,9 @@
            <h2>Customer Support</h2>
            <p>We offer 24-Hour Customer Support to address your queries and questions. <br>You can contact us any time and we guarantee to respond immediately.</p>
            <h2>Communication Policy</h2>
-           <p>YOU agree that Bespoke Logo is not liable for any correspondence from email address (es) other than the ones followed by our own domain i.e. "@ info@logovalley.co.uk" or/and any toll free number that is not mentioned on our website. Bespoke Logo should not be held responsible for any damage(s) caused by such correspondence. We only take responsibility of any communication through email address (es) under our own domain name or/and via toll free number i.e. already mentioned on Bespoke Logo Website.</p>
+           <p>YOU agree that logovalley is not liable for any correspondence from email address (es) other than the ones followed by our own domain i.e. "@ info@logovalley.co.uk" or/and any toll free number that is not mentioned on our website. logovalley should not be held responsible for any damage(s) caused by such correspondence. We only take responsibility of any communication through email address (es) under our own domain name or/and via toll free number i.e. already mentioned on logovalley Website.</p>
            <h2>100% Unique Design Guarantee</h2>
-           <p>At Bespoke Logo we guarantee that all of our customers' logos are made from scratch. This way you will have a logo that is tailor made for your requirements. We guarantee that your logo will be unique and impress your clientele</p>
+           <p>At logovalley we guarantee that all of our customers' logos are made from scratch. This way you will have a logo that is tailor made for your requirements. We guarantee that your logo will be unique and impress your clientele</p>
       </div>
     </div>
   </div>
@@ -425,12 +425,12 @@
           
           <div class="flogo">
             <figure>
-              <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/logo-dark.png">
+              <img class="lazy" src="assets/images/logo-dark.png">
             </figure>
             <br>
-           <a href="http://www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a>
+           <a href="http://www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img class="lazy" src="" data-src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a>
             <script src="../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-           <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
+           <img class="lazy" src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
           </div>
           
         </div>
@@ -491,7 +491,7 @@
             <ul>
               <li>
                 <figure>
-                  <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/card-brands.svg">
+                  <img class="lazy" src="assets/images/card-brands.svg">
                 </figure>
               </li>
             </ul>
@@ -518,12 +518,12 @@
             <li><a href="privacy-policy.html" title="">Privacy Policy</a></li>
           </ul>
            <ul class="ftr-social">
-              <li><a target="_blank" href="https://www.facebook.com/BeSpoke-Logo-102555771519831/"><span class="icon-facebook"></span></a></li>
-              <li><a target="_blank" href="https://www.instagram.com/bespoke.logo/"><span class="icon-instagram"></span></a></li>
+              <li><a target="_blank" href="https://www.facebook.com/logovalley-Logo-102555771519831/"><span class="icon-facebook"></span></a></li>
+              <li><a target="_blank" href="https://www.instagram.com/logovalley.logo/"><span class="icon-instagram"></span></a></li>
               <li>
-                  <li><a target="_blank" href="https://twitter.com/LogoBespoke"><span class="icon-twitter"></span></a></li>
+                  <li><a target="_blank" href="https://twitter.com/Logologovalley"><span class="icon-twitter"></span></a></li>
               <li>
-              <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/images/flags/uk.png">
+              <img class="lazy" src="assets/images/flags/uk.png">
             </li>
             </ul>
         </div>
@@ -731,7 +731,7 @@ $zopim.livechat.window.toggle();
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Bespoke Logo",
+  "name": "logovalley",
   "url": "https://logovalley.co.uk/",
   "logo": "https://logovalley.co.uk/assets/images/logo-dark.png"
 }

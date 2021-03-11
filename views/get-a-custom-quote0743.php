@@ -4,7 +4,7 @@
 <!-- Mirrored from logovalley.co.uk/get-a-custom-quote?pack=13 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Mar 2021 13:18:41 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Get a Custome Quote | BESPOKE LOGO</title>
+<title>Get a Custome Quote | logovalley</title>
 <meta name="description" content="" />
 
 
@@ -35,7 +35,7 @@
 <meta property="og:type" content=" website" />
 <meta property="og:url" content="index.html">
 
-<meta property="og:site_name" content="BESPOKE LOGO" />
+<meta property="og:site_name" content="logovalley" />
 <meta property="og:description" content="Best Logo design Company in UK, providing reliable Logo services you need to hire a top level Logo Design agency  that’s focus on providing you">
 
 
@@ -75,7 +75,7 @@
           <div class="row">
             <div class=" col-lg-12 col-xl-12 text-center">
               <div class="home-banner-content">
-                <h1>BESPOKE LOGO Agency for Startup, <br>Midsize and Enterprise Companies</h1>
+                <h1>logovalley Agency for Startup, <br>Midsize and Enterprise Companies</h1>
                 <p class="subtitle">Audit Your Site - More Sales, More Leads, More Happy Customers... </p>
                 <div class="col-lg-8 offset-lg-2">
                   <div class="bot-form justpad">
