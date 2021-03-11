@@ -103,7 +103,7 @@
 <!--                  <input type="hidden" name="hiddencapcha" value="">-->
 <!--                  <input type="hidden" id="location" name="locationURL" value="http://logovalley.co.uk/terms-and-conditions" />-->
 <!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+441214680105">+44-121-468-0105</a></span></p>-->
+<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+442038087061">+44-203-808-7061</a></span></p>-->
 <!--             </form>-->
 <!--           </div>-->
 <!--       </div>-->
@@ -203,7 +203,7 @@
               <!-- <li><a href="https://logovalley.co.uk/blog/">blog</a></li> -->
               <li><a href="Showcase.html"> Showcase</a></li>
               <li><a href="contact.html">Contact</a></li>
-              <li><a href="tel:+441214680105">+44-121-468-0105</a></li>
+              <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
               <li><a href="get-a-custom-quote.html" class="btn-main">Get A Quote</a></li>
               <li><p class="countryFlag" title="UK"><span></span>UK</p></li>
             </ul>
@@ -309,7 +309,7 @@
           <h2>CLAIM YOUR REFUND</h2>
           <ul>
             <li>To claim your refund, please follow the following steps</li>
-            <li>  Dialing our Toll Free Number # +44-121-468-0105 and speak with your respective Project Manager to initiate a refund.</li>
+            <li>  Dialing our Toll Free Number # +44-203-808-7061 and speak with your respective Project Manager to initiate a refund.</li>
             <li>  Live Chat. Click here to start chat now and speak with a representative to initiate a refund.</li>
             <li>  Sending us an Email/ messaging on Basecamp to initiate a refund. </li>
             <li>  As soon as we receive your refund request, we will respond to it at our earliest, once the required analysis iscompleted we will initiate the process according to our refund policy stated above. </li>

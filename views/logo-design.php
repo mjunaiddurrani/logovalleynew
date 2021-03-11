@@ -231,7 +231,7 @@
           We strive to give our customers an exceptional head-turning design experience like never before. With our various design solution to suit your budget and your requirements, you can be sure to achieve the best design for yourself.</p>
          <div class="btns">
               <a href="javascript:;" onclick="setButtonURL();" target="_self" class="btn-secondary">Chat With Us</a>
-          <a href="tel:+441214680105" class="btn-secondary btn-outline">+44-121-468-0105</a>
+          <a href="tel:+442038087061" class="btn-secondary btn-outline">+44-203-808-7061</a>
          </div>
         </div>
       </div>

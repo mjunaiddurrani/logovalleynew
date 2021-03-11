@@ -225,7 +225,7 @@
           <p>A logo is what represents your business and acts as an ambassador for your brand. You cannot always be there to represent your business the way you want, your logo is always there on the front page. This is why you have to get the best logo animation services for your brand. It has to exhibit professionalism, dedication, trustworthiness and the customer should feel connected to it. Our expert animators create the perfect blend of images and emotions which leads to brand recognition and profitability.</p>
           <div class="btns">
               <a href="javascript:;" onclick="setButtonURL();" target="_self" class="btn-secondary">Chat With Us</a>
-            <a href="tel:+441214680105" class="btn-secondary btn-outline">+44-121-468-0105</a>
+            <a href="tel:+442038087061" class="btn-secondary btn-outline">+44-203-808-7061</a>
          </div>
         </div>
       </div>

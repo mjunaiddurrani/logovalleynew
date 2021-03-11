@@ -109,7 +109,7 @@
 <!--                  <input type="hidden" name="hiddencapcha" value="">-->
 <!--                  <input type="hidden" id="location" name="locationURL" value="http://logovalley.co.uk/video-animation" />-->
 <!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+441214680105">+44-121-468-0105</a></span></p>-->
+<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+442038087061">+44-203-808-7061</a></span></p>-->
 <!--             </form>-->
 <!--           </div>-->
 <!--       </div>-->
@@ -209,7 +209,7 @@
               <!-- <li><a href="https://logovalley.co.uk/blog/">blog</a></li> -->
               <li><a href="Showcase.html"> Showcase</a></li>
               <li><a href="contact.html">Contact</a></li>
-              <li><a href="tel:+441214680105">+44-121-468-0105</a></li>
+              <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
               <li><a href="get-a-custom-quote.html" class="btn-main">Get A Quote</a></li>
               <li><p class="countryFlag" title="UK"><span></span>UK</p></li>
             </ul>
@@ -490,7 +490,7 @@
 We are well aware of the fierce competition between different video companies. Still, when it comes to creating unique, exciting and original videos, we are undoubtedly a "toast of the town".
 </p>
           <a href="javascript:;">Chat With Us</a>
-          <a href="tel:+44-121-468-0105">+44-121-468-0105</a>
+          <a href="tel:+44-203-808-7061">+44-203-808-7061</a>
         </div>
       </div>
       <div class="col-lg-6">
