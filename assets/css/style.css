@@ -1908,19 +1908,20 @@ a {
     display: inline-block;
     transition: all linear .15s;
     text-decoration: none;
-    border-bottom: 1px solid #dbdbdb
+    border-bottom: 1px solid #dbdbdb;
+    
 }
 
 .quest-title:before {
     position: absolute;
-    content: "\e91e";
+    content: "\f055";
     width: 20px;
     height: 20px;
     right: 15px;
-    top: 0;
-    font-family: icomoon!important;
+    top: 40%;
     color: #1e1e1e;
-    font-size: 20px
+    font-size: 20px;
+    font:normal normal normal 14px/1 FontAwesome!important;
 }
 
 .quest-title.active,
@@ -1940,7 +1941,7 @@ a {
 }
 
 .quest-title.active:before {
-    content: "\e91c"
+    content: "\f056"
 }
 
 .quest-content {
@@ -3842,13 +3843,13 @@ footer .social-full {
     color: #2b2d3a;
     position: relative;
     font-size: 20px;
-    padding-bottom: 20px
+    padding-bottom: 20px;
+    font: normal normal normal 14px/1 FontAwesome!important;
 }
 
 .strugglesec ul li:before {
-    content: "\e962";
+    content: "\f05d";
     position: absolute;
-    font-family: icomoon!important;
     left: 0;
     font-size: 20px;
     color: #b960c3;
@@ -4440,7 +4441,7 @@ input:checked+.toggle:before {
 .listsec .wrap ul li {
     width: 33.33%;
     float: left;
-    padding: 20px 35px;
+    padding: 20px 15px;
     background: #fff;
 }
 
@@ -4474,16 +4475,9 @@ input:checked+.toggle:before {
     position: relative;
     padding-bottom: 0
 }
+.listsec .wrap ul li p .fa{color:#9624c6;}
 
 .listsec .wrap ul li p:before {
-    content: "\e962";
-    position: absolute;
-    font-family: icomoon!important;
-    left: 0;
-    font-size: 20px;
-    color: #9624c6;
-    display: table-cell;
-    vertical-align: middle;
 }
 
 .cta2 {
@@ -7377,11 +7371,7 @@ div.doublewrap ul li.heading:before{display: none;}
         margin-top: 0
     }
     .listsec .wrap ul li {
-        padding: 10px 35px
-    }
-    .listsec .wrap ul li p,
-    .listsec .wrap ul li p:before {
-        font-size: 14px
+        padding: 10px 5px
     }
     .firstcs:before {
         display: none
@@ -7644,7 +7634,7 @@ div.doublewrap ul li.heading:before{display: none;}
     font-size: 18px;
     position: relative;
 }
-.iner-pkgewrp .maindiv ul li:after{right: 0;content: "\f00c";font-family: fontawesome;color: #ce185b;position: absolute;top: 20px;font-size: 22px;}
+.iner-pkgewrp .maindiv ul li:after{right: 0;content: "\f00c";font-family: fontawesome!important;color: #ce185b;position: absolute;top: 20px;font-size: 22px;}
 
 
 
@@ -7686,7 +7676,7 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
 
 
 .home-form{ position: absolute;
-    top: 160px;
+    top: 80px;
     left: 0;
     width: 100%;}
 
@@ -7756,9 +7746,377 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
     height: 100% !important;
 }
 
+/*floating strips css start */
+
+.floatbutton.active {
+    left: 0;
+    z-index: 9;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+}
+
+.floatbutton {
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+    position: fixed;
+    left: -370px;
+    top: 12%;
+    font-size: 0;
+    width: 420px;
+    /* transform: translateY(-50%); */
+    z-index: 9;
+}
+
+.floatbutton .clickbutton {
+    width: 50px;
+    z-index: 99;
+    height: 200px;
+    cursor: pointer;
+    box-shadow: -20px 7px 18px -7px rgb(0 0 0 / 21%);
+    border-radius: 0 10px 10px 0;
+    background:  #26ccca;
+    display: inline-block;
+    padding-top: 0;
+    vertical-align: top;
+    margin-top: 125px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    position: relative;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+}
+
+.floatbutton .clickbutton .crossplus:before {
+    content: "";
+    display: none;
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    right: 0;
+    background: #fbb334;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.floatbutton .clickbutton .crossplus:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    background: #fca700;
+    z-index: 99;
+    left: -3px;
+    bottom: 27px;
+    margin: auto;
+    border-radius: 100%;
+    box-shadow: -4px -1px 6px #00000099;
+}
+
+.floatbutton .clickbutton .crossplus {
+    position: absolute;
+    display: block;
+    transform: rotate(-90deg);
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+    left: -60px;
+    white-space: pre;
+    bottom: 87px;
+}
+
+.floatbutton .clickbutton .crossplus.rotate {
+    transform: rotate(45deg);
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+}
+
+.floatbutton .clickbutton .crossplus i {
+    font-size: 18px;
+    color: #ffffff;
+    margin: 17px 0 0 15px;
+}
+
+.banner-form {
+    background: #fff;
+    padding: 30px;
+    position: relative;
+    z-index: 9;
+    border-radius: 0 5px 5px 0;
+    margin: 0;
+    width: 370px;
+    display: inline-block;
+    box-shadow: 0px 0px 30px #0000001f;
+}
+
+.banform {}
+
+.ban-form {}
+
+.ban-form input {
+    width: 100%;
+    margin: 0 0 0 0;
+    border: 1px solid #e5e5e5;
+    background: white;
+    padding: 10px 15px;
+    color: gray;
+    font-size: 14px;
+    border-radius: 3px;
+    height: 50px;
+    font-weight: 400;
+    outline: none !important;
+    margin: 0 0 15px 0;
+}
+
+.banner-form .intl-tel-input {
+    width: 100%;
+}
+
+.banner-form h3 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.banner-form h3 strong {
+    font: 24px/24px "Poppins", sans-serif;
+    font-weight: 500;
+}
+
+.ban-form input[type="submit"] {
+    color: #fff;
+    font-weight: 600;
+    border-radius: 3px;
+    text-align: center;
+    padding: 10px 15px;
+    margin: 20px 0 0;
+    border: transparent;
+    background:  #26ccca;
+}
+
+.ban-form textarea {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    background: white;
+    padding: 10px 15px;
+    color: gray;
+    font-size: 14px;
+    border-radius: 3px;
+    font-weight: 400;
+    height: 120px;
+    outline: none !important;
+    margin: 15px 0 0px 0;
+}
+
+.btns_wrap {
+    position: fixed;
+    right: -6px;
+}
+
+.btns_wrap a:hover {
+    text-decoration: none!important;
+    right: 0px;
+}
+
+.btns_wrap .call_wrap {
+    width: 280px;
+    position: absolute;
+    right: -225px;
+    background: #fff;
+    top: 60px;
+    border-radius: 50px 0px 0px 50px;
+    overflow: hidden;
+    box-shadow: 0px 0px 40px #00000026 !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.btns_wrap .call_wrap span {
+    color: #333;
+    font-size: 20px;
+    vertical-align: middle;
+    background: #fff;
+    padding: 15px 20px 15px 15px;
+}
+
+.btns_wrap .chat_wrap {
+    display: block;
+    position: absolute;
+    right: -225px;
+    width: 280px;
+    background: #fff;
+    top: 0;
+    border-radius: 0px;
+    overflow: hidden;
+    box-shadow: 0px 0px 40px #00000026 !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    border-radius: 50px 0px 0px 50px;
+}
+
+.btns_wrap .chat_wrap span.icoo,
+.btns_wrap .call_wrap span.icoo {
+    color:  #26ccca;
+    background: #fff;
+    font-size: 18px;
+    padding: 15px 20px;
+    border-right: 1px solid #ded9d9;
+    vertical-align: middle;
+    display: inline-block;
+    border-radius: 50px 0px 0px 50px;
+}
+
+.btns_wrap .chat_wrap span {
+    color: #333;
+    font-size: 20px;
+    vertical-align: middle;
+    background: #fff;
+    padding: 15px 30px 15px 15px;
+}
 
 
+/*floating strips css end */
 
+
+/* css for baaner form page start*/
+
+.cus-col-8{width: 80%;}
+.topformcontainer {
+    width: 360px;
+    z-index: 9;
+    margin:50PX auto;
+}
+.topformcontainer ::placeholder {
+    color: #ddd;
+  }
+  .intl-tel-input.separate-dial-code .selected-dial-code{color:#ddd;}
+.topformcontainer .topformwrap {
+    background: #00000059;
+    /* padding: 30px; */
+    height: 470px;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -o-transition: 0.6s;
+    transition: 0.6s;
+    overflow: hidden;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 4px 7px 30px 4px #464182;
+}
+.topformcontainer .topformwrap .formbody {
+    padding: 0 30px;
+}
+.main-percent {
+    font-size: 0;
+    top: -72px;
+    padding: 0px 30px 0px 30px;
+    left: -1px;
+    width: 100%;
+    /* background-image: url(../images/chat-banner.png); */
+}
+.per-box1 {
+    display: inline-block;
+    width: 32%;
+    vertical-align: top;
+    padding: 25px 10px 0 0;
+}
+.per-box2 {
+    display: inline-block;
+    width: 68%;
+    vertical-align: top;
+    text-align: right;
+}
+.hero-home.hero-custom-logo h3{text-align: right;}
+.hero.hero-home p{text-align: right;padding-bottom: 0;margin-bottom: 0;}
+.hero.hero-home .banr-txt p{text-align: left;}
+.per-box2 h3 {
+    font-size: 42px;
+    padding: 0;
+    color: #fff;
+    text-transform: uppercase;
+}
+.per-box2 h3 span {
+    padding: 0px;
+    font-size: 30px;
+}
+.per-box2 h3 p {
+    padding: 0px;
+    line-height: 20px;
+    font-size: 22px;
+    color: #ffffff;
+}
+.ban-form input {
+    width: 100%;
+    margin: 0 0 0 0;
+    border: 1px solid #e5e5e5;
+    background: white;
+    padding: 10px 15px;
+    color: gray;
+    font-size: 16px;
+    border-radius: 8px;
+    height: 45px;
+    font-weight: 400;
+    outline: none !important;
+    margin: 0 0 10px 0;
+}
+.topformcontainer .topformwrap .formbody .fldset input {
+    margin: 0 0 10px 0;
+    background: transparent;
+    color: #fff;
+    border-color: #ffffff5e;
+    
+}
+.topformcontainer .topformwrap .formbody .iti{display: block}
+.topformcontainer .topformwrap .formbody .fldset textarea {
+    margin: 10px 0 0;
+    height: 100px;
+    color: #fff;
+    background: transparent;
+    border-color: #ffffff5e;
+}
+.ban-form textarea {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    background: white;
+    padding: 10px 15px;
+    color: gray;
+    font-size: 14px;
+    border-radius: 8px;
+    font-weight: 400;
+    height: 80px;
+    outline: none !important;
+    margin: 10px 0 0px 0;
+}
+.topformcontainer .topformwrap .formbody .fldset input[type="submit"] {
+    margin-bottom: 0px;
+    background: linear-gradient(to right, #fff 0%, #fc0095 100%);
+    margin-top: 10px;
+    font-size: 18px;
+    border: none;
+}
+.text-purple{color: #9624c6;}
+@media(max-width:1199px){
+    .mainform .wrap{margin-top: -100px;}
+}
+
+/* css for baaner form page start*/
 
 
 
