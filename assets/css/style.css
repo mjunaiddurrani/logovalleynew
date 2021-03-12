@@ -16,13 +16,10 @@
     padding: 0
 }
 
-
-
-
-
 #who-we-are {
     padding: 60px 0;
 }
+
 #who-we-are .tab-custom .tabbing-links li {
     display: inline-block;
     padding: 10px 25px;
@@ -33,43 +30,52 @@
     margin: 0 5px;
     background: #eaeaea;
 }
+
 #who-we-are .tab-custom .tabbing-links {
     font-size: 0;
     text-align: center;
     margin-top: 15px;
     margin-bottom: 40px;
 }
+
 #who-we-are .tab-custom .tabbing-links li.current {
     color: #fff;
     background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
+
 #who-we-are .tabs img {
     width: 80%;
 }
+
 .center-block {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 #who-we-are .wrapcontents {
     padding-top: 40px;
 }
+
 #who-we-are .wrapcontents h6 {
     color: #000;
     font-size: 30px;
     font-weight: 500;
 }
+
 #who-we-are .wrapcontents p {
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
     margin-bottom: 20px;
 }
-.prologo .btn-fill, .prologo .btn-line-fill {
+
+.prologo .btn-fill,
+.prologo .btn-line-fill {
     background: #145db1;
     color: #fff;
     background: -moz-linear-gradient(left, #f9ad1c 0%, #f9be36 100%);
-    background: -webkit-linear-gradient(left, #7e00dc 0%,#001787 100%);
+    background: -webkit-linear-gradient(left, #7e00dc 0%, #001787 100%);
     border: 1px solid transparent;
     -webkit-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
@@ -79,6 +85,7 @@
     -o-transition: 0.4s;
     transition: 0.4s;
 }
+
 .btn-line-fill {
     background: none;
     border: 0;
@@ -96,25 +103,16 @@
     min-width: 230px;
     text-align: center;
     text-transform: uppercase;
-    border: 1px solid rgb(36,77,154);
+    border: 1px solid rgb(36, 77, 154);
     border-radius: 5px;
     -webkit-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
     font-weight: 500;
 }
-.section_title h3{
-  text-align:center;
+
+.section_title h3 {
+    text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
 
 ::-moz-selection {
     background: var(--primary-color);
@@ -4178,56 +4176,6 @@ footer .social-full {
     display: table;
 }
 
-.counter {
-    display: block;
-    margin-top: -20px;
-}
-
-.counter ul {
-    display: inline-block;
-    width: 100%;
-    margin-bottom: -8px;
-}
-
-.counter ul li {
-    width: 33.33%;
-    float: left;
-    padding: 30px 50px
-}
-
-.counter ul li:nth-child(1) {
-    background: #272b34
-} 
-
-.counter ul li:nth-child(2) {
-    background: #22262f
-}
-
-.counter ul li:nth-child(3) {
-    background: #171b23
-}
-
-.counter ul li a:hover {
-    color: #fff
-}
-
-.counter ul li a figure {
-    float: left;
-    width: 17%;
-    margin-bottom: 0
-}
-
-.counter ul li a figure img {
-    max-width: 64px
-}
-
-.counter ul li a .wrap {
-    width: 75%;
-    float: right;
-    color: #fff;
-    font-size: 22px
-}
-
 .strugglesec {
     background: #fff;
     position: relative;
@@ -4685,7 +4633,7 @@ input:checked+.toggle:before {
 }
 
 .pkbtn {
-    margin-top: -28px;
+    margin-top: -61px;
     text-align: center;
     clear: both;
     z-index: 9;
@@ -7861,6 +7809,10 @@ div.doublewrap ul li.heading:before {
 }
 
 @media only screen and (max-width:767px) and (min-width:0px) {
+    .topformcontainer .topformwrap {
+        height: 355px!important;
+        margin: 25PX auto!important;
+    }
     .bnr-slider .inner-banner-content {
         margin-top: 12%;
     }
@@ -8727,9 +8679,6 @@ p.small {
         padding: 14px 20px;
         font-size: 13px;
     }
-    .scnd-line .hlpwrap li {
-        width: 100%;
-    }
     .strugglesec .text-left {
         text-align: center !important;
     }
@@ -9252,51 +9201,120 @@ p.small {
 .jack {
     list-style-type: none;
 }
+
+.brandsBg {
+    width: 100%;
+    background: #fff;
+    position: relative;
+    z-index: 2;
+    box-shadow: 0px 0px 8px 1px rgb(119 119 119 / 81%);
+    display: block;
+    -webkit-box-shadow: 0px 6px 20px 0px rgb(119 119 119 / 20%);
+}
+
+.carousel-inner {
+    overflow: hidden;
+    width: 100%;
+}
+
+.brandsslide {
+    float: left;
+    width: 100%;
+    height: 95px;
+    background-color: #fff;
+    background: #fff;
+}
+
+.brandsslide p {
+    float: left;
+    width: 100%;
+    padding: 15px 41px;
+    color: #000;
+    text-align: center;
+}
+
+@media (max-width:1212px) {
+    .counter ul li {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:767px) and (min-width:0px) {
+    .topformcontainer .topformwrap {
+        height: 355px!important;
+        margin: 25PX auto!important;
+    }
+    .topformcontainer {
+        margin: 25PX auto;
+    }
+    .bnr-slider .inner-banner-content {
+        margin-top: 12%;
+    }
+    .inner-banner-content h1 {
+        font-size: 34px!important;
+    }
+    .scnd-line .hlpwrap li {
+        width: 100%;
+    }
+}
+
 .counter {
     display: block;
 }
+
 .counter ul {
     display: inline-block;
     width: 100%;
     margin-bottom: -6px;
     font-size: 0;
+    display: flex;
 }
+
 .counter ul li {
     width: 25%;
     float: left;
     padding: 30px 50px;
 }
+
 .counter ul li:nth-child(1) {
     background: #ffa739;
     padding: 33.7px 30px;
 }
+
 .counter ul li:nth-child(2) {
     background: #fb5f39;
 }
+
 .counter ul li:nth-child(3) {
     background: #921a5e;
 }
+
 .counter ul li:nth-child(4) {
     background: #32347a;
 }
+
 .counter ul li a {
     cursor: default;
 }
+
 .counter ul li a figure {
     float: left;
     width: 25%;
     margin-bottom: 0;
 }
+
 .counter ul li a figure img {
     max-width: 64px;
 }
-figure img {
+
+.counter figure img {
     display: block;
     max-width: 100%;
     min-height: 100%;
     opacity: 0.8;
     position: relative;
 }
+
 .counter ul li a .wrap {
     width: 70%;
     float: right;
@@ -9309,46 +9327,27 @@ figure img {
     color: #fff;
     font-size: 12px;
 }
+
 .counter ul li a .wrap span {
     display: inline-block;
     color: #fff;
 }
+
 .counter ul li a .wrap p {
     color: #fff;
     font-size: 13px;
     line-height: 16px;
 }
 
-.brandsBg {
-    width: 100%;
-    background: #fff;
-    position: relative;
-    z-index: 2;
-    box-shadow: 0px 0px 8px 1px rgb(119 119 119 / 81%);
-    display: block;
-    -webkit-box-shadow: 0px 6px 20px 0px rgb(119 119 119 / 20%);
-}
-.carousel-inner {
-    overflow: hidden;
-    width: 100%;
-}
-.brandsslide {
-    float: left;
-    width: 100%;
-    height: 95px;
-    background-color: #fff;
-    background: #fff;
-}
-.brandsslide p {
-    float: left;
-    width: 100%;
-    padding: 15px 41px;
-    color: #000;
-    text-align: center;
+.partners-cta ul {
+    margin-bottom: 0;
 }
 
-@media (max-width:1212px){
-    .counter ul li{
-        width:100%;
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .counter ul {
+        display: inline-block!important;
+    }
+    .counter ul li {
+        width: 100%!important;
     }
 }

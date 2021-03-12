@@ -4,7 +4,9 @@
 <head>
 <?php include_once('include/styles.php') ?>
 
+<style>
 
+</style>
 </head>
 <body class="home ">
 
