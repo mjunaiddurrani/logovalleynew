@@ -4078,60 +4078,6 @@ footer .social-full {
     display: table;
 }
 
-.counter {
-    display: block;
-    margin-top: -20px;
-}
-
-.counter ul {
-    display: inline-block;
-    width: 100%;
-    margin-bottom: -8px;
-}
-
-
-/* .counter ul li {
-    width: 33.33%;
-    float: left;
-    padding: 30px 50px
-} */
-
-
-/* .counter ul li:nth-child(1) {
-    background: #272b34
-} */
-
-
-/* 
-.counter ul li:nth-child(2) {
-    background: #22262f
-}
-
-.counter ul li:nth-child(3) {
-    background: #171b23
-}
-
-.counter ul li a:hover {
-    color: #fff
-}
-
-.counter ul li a figure {
-    float: left;
-    width: 17%;
-    margin-bottom: 0
-}
-
-.counter ul li a figure img {
-    max-width: 64px
-}
-
-.counter ul li a .wrap {
-    width: 75%;
-    float: right;
-    color: #fff;
-    font-size: 22px
-} */
-
 .strugglesec {
     background: #fff;
     position: relative;
@@ -4589,7 +4535,7 @@ input:checked+.toggle:before {
 }
 
 .pkbtn {
-    margin-top: -28px;
+    margin-top: -61px;
     text-align: center;
     clear: both;
     z-index: 9;
@@ -8252,10 +8198,10 @@ div.doublewrap ul li.heading:before {
     .inner-pages .counter {
         margin-top: 0px;
     }
-    /* .counter ul li {
+    .counter ul li {
         width: 33.33% !important;
         padding: 20px;
-    } */
+    }
     .strugglesec ul li {
         width: 30%;
     }
@@ -9156,86 +9102,6 @@ p.small {
 
 .jack {
     list-style-type: none;
-}
-
-.counter {
-    display: block;
-}
-
-.counter ul {
-    display: inline-block;
-    width: 100%;
-    margin-bottom: -6px;
-    font-size: 0;
-}
-
-.counter ul li {
-    width: 25%;
-    float: left;
-    padding: 30px 50px;
-}
-
-.counter ul li:nth-child(1) {
-    background: #ffa739;
-    padding: 33.7px 30px;
-}
-
-.counter ul li:nth-child(2) {
-    background: #fb5f39;
-}
-
-.counter ul li:nth-child(3) {
-    background: #921a5e;
-}
-
-.counter ul li:nth-child(4) {
-    background: #32347a;
-}
-
-.counter ul li a {
-    cursor: default;
-}
-
-.counter ul li a figure {
-    float: left;
-    width: 25%;
-    margin-bottom: 0;
-}
-
-.counter ul li a figure img {
-    max-width: 64px;
-}
-
-figure img {
-    display: block;
-    max-width: 100%;
-    min-height: 100%;
-    opacity: 0.8;
-    position: relative;
-}
-
-.counter ul li a .wrap {
-    width: 70%;
-    float: right;
-    color: #fff;
-    font-size: 22px;
-    /* margin-left: 45px; */
-}
-
-.counter ul li a .wrap span.small {
-    color: #fff;
-    font-size: 12px;
-}
-
-.counter ul li a .wrap span {
-    display: inline-block;
-    color: #fff;
-}
-
-.counter ul li a .wrap p {
-    color: #fff;
-    font-size: 13px;
-    line-height: 16px;
 }
 
 .brandsBg {
