@@ -200,7 +200,7 @@
 
 
 <section class="counter">
-    <ul class="packslider">
+    <ul class="">
       <li class="">
         <a href="javascript:;" tabindex="-1">
           <figure>
