@@ -73,7 +73,10 @@
 <!--               <img class="lazy" src="assets/images/pop-up-image.svg" alt="">-->
 <!--             </figure>-->
 <!--             <P>Don't miss out on special discount offer</P>-->
-<!--             <form id="popupfrm" class="cmxform"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">-->
+<!--             <form id="popupfrm" class="cmxform"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">-->
 
 <!--               <div class="fldst">-->
 <!--                 <input id="username" name="Name" minlength="2" type="text" placeholder="Full Name" required />-->
@@ -289,7 +292,10 @@
           <div class="banner-from seoform">
             <h3 class="seohd text-center"><span>Sign Up to</span> Get Free Consultancy</h3>
               <div class="bot-form">
-  <form class="cmxform" id="contactForm"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">
+  <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
     <div class="row">
       <div class="col-lg-12 ">
         <div class="bot-formtop">
@@ -2759,7 +2765,10 @@ We are well aware of the fierce competition between different video companies. S
       </div>
       <div class="col-lg-6 ">
         <div class="bot-form">
-  <form class="cmxform" id="contactForm"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">
+  <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
     <div class="row">
       <div class="col-lg-12 ">
         <div class="bot-formtop">
@@ -3032,7 +3041,10 @@ We are well aware of the fierce competition between different video companies. S
         <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 40% DISCOUNT</span></h3>
         <div class="form_wrap">
           <div class="analyzeform ">
-            <form class="" id="banform" method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">
+            <form class="" id="banform" method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
               <div class="row">
                 <div class="wrap">
                   <div class="dtf">
