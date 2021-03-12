@@ -104,7 +104,7 @@
 <!--                  <input type="hidden" name="hiddencapcha" value="">-->
 <!--                  <input type="hidden" id="location" name="locationURL" value="http://logovalley.co.uk/privacy-policy" />-->
 <!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+441214680105">+44-121-468-0105</a></span></p>-->
+<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+442038087061">+44-203-808-7061</a></span></p>-->
 <!--             </form>-->
 <!--           </div>-->
 <!--       </div>-->
@@ -159,7 +159,7 @@
           <ul class="top-info-list">
             <li><span class="icon-envelope2"></span> <a href="javascript:;">info@domain.com</a> </li>
             <li><span class="icon-phone2"></span>Call Us:  111-222-333 </li>
-            <li><span class="icon-user"></span> <a href="javascript:;" onclick="setButtonURL();" target="_self">Live Chat</a> </li>
+            <li><span class="icon-user"></span> <a href="javascript:;" onclick="setButtonURL();" >Live Chat</a> </li>
           </ul>
         </div>
       </div>
@@ -204,7 +204,7 @@
               <!-- <li><a href="https://logovalley.co.uk/blog/">blog</a></li> -->
               <li><a href="Showcase.html"> Showcase</a></li>
               <li><a href="contact.html">Contact</a></li>
-              <li><a href="tel:+441214680105">+44-121-468-0105</a></li>
+              <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
               <li><a href="get-a-custom-quote.html" class="btn-main">Get A Quote</a></li>
               <li><p class="countryFlag" title="UK"><span></span>UK</p></li>
             </ul>

@@ -131,7 +131,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" target="_self">Discuss your project with our Expert</a></h3>
+        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" >Discuss your project with our Expert</a></h3>
       </div>
     </div>
   </div>
@@ -781,7 +781,7 @@
       <div class="col-lg-12">
         <h3>Shape a strong brand that connects with your audience!</h3>
         <a href="get-a-custom-quote.html" class="btn-secondary">Design Brand With Us </a>
-        <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();" target="_self">Talk with Us </a></h5>
+        <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();" >Talk with Us </a></h5>
       </div>
     </div>
   </div>

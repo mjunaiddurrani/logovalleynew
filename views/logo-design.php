@@ -26,7 +26,7 @@
               <li>A custom logo in just hours</li>
               <li>  100% money back guarantee</li>
           </ul>
-          <a href="javascript:;" onclick="setButtonURL();" target="_self">Lets Get Started</a><br/>
+          <a href="javascript:;" onclick="setButtonURL();" >Lets Get Started</a><br/>
           <img src="assets/images/trustpilot.png" class="seoimg" alt="">
           <img src="assets/images/rateimg.png" class="seoimg-2" alt="" />
         </div>
@@ -230,8 +230,8 @@
           <p>Since Logo design is the first point of impression of your business and so it needs to be professional, eye-catching and contemporary. It should be able to grab your customer's attention and confidence in your business instantly that results in more business for you.<br><br>
           We strive to give our customers an exceptional head-turning design experience like never before. With our various design solution to suit your budget and your requirements, you can be sure to achieve the best design for yourself.</p>
          <div class="btns">
-              <a href="javascript:;" onclick="setButtonURL();" target="_self" class="btn-secondary">Chat With Us</a>
-          <a href="tel:+441214680105" class="btn-secondary btn-outline">+44-121-468-0105</a>
+              <a href="javascript:;" onclick="setButtonURL();"  class="btn-secondary">Chat With Us</a>
+          <a href="tel:+442038087061" class="btn-secondary btn-outline">+44-203-808-7061</a>
          </div>
         </div>
       </div>
@@ -2230,7 +2230,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" target="_self">Discuss your project with our Expert</a></h3>
+        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" >Discuss your project with our Expert</a></h3>
       </div>
     </div>
   </div>
