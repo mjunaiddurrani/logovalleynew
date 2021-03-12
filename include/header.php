@@ -53,7 +53,7 @@
            <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
            <li><p class="countryFlag " title="UK "><span></span>UK</p></li>
          </ul> -->
-         <div class="float-right">
+         <div class="float-right d-none d-lg-block">
           <nav class=" ">
                 <ul class="myNav">
                     <li><p class="countryFlag " title="UK "><span></span>UK</p></li>
@@ -91,7 +91,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 d-none d-lg-block ">
         <div class="btn-main"><a href="/get-a-custom-quote/ " class=" ">Place Your Order</a></div>
 
         </div>
