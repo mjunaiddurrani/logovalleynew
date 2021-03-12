@@ -4089,15 +4089,19 @@ footer .social-full {
     margin-bottom: -8px;
 }
 
+
 /* .counter ul li {
     width: 33.33%;
     float: left;
     padding: 30px 50px
 } */
 
+
 /* .counter ul li:nth-child(1) {
     background: #272b34
 } */
+
+
 /* 
 .counter ul li:nth-child(2) {
     background: #22262f
@@ -7761,6 +7765,10 @@ div.doublewrap ul li.heading:before {
 }
 
 @media only screen and (max-width:767px) and (min-width:0px) {
+    .topformcontainer .topformwrap {
+        height: 355px!important;
+        margin: 25PX auto!important;
+    }
     .bnr-slider .inner-banner-content {
         margin-top: 12%;
     }
@@ -8627,9 +8635,6 @@ p.small {
         padding: 14px 20px;
         font-size: 13px;
     }
-    .scnd-line .hlpwrap li {
-        width: 100%;
-    }
     .strugglesec .text-left {
         text-align: center !important;
     }
@@ -9152,44 +9157,55 @@ p.small {
 .jack {
     list-style-type: none;
 }
+
 .counter {
     display: block;
 }
+
 .counter ul {
     display: inline-block;
     width: 100%;
     margin-bottom: -6px;
     font-size: 0;
 }
+
 .counter ul li {
     width: 25%;
     float: left;
     padding: 30px 50px;
 }
+
 .counter ul li:nth-child(1) {
     background: #ffa739;
     padding: 33.7px 30px;
 }
+
 .counter ul li:nth-child(2) {
     background: #fb5f39;
 }
+
 .counter ul li:nth-child(3) {
     background: #921a5e;
 }
+
 .counter ul li:nth-child(4) {
     background: #32347a;
 }
+
 .counter ul li a {
     cursor: default;
 }
+
 .counter ul li a figure {
     float: left;
     width: 25%;
     margin-bottom: 0;
 }
+
 .counter ul li a figure img {
     max-width: 64px;
 }
+
 figure img {
     display: block;
     max-width: 100%;
@@ -9197,6 +9213,7 @@ figure img {
     opacity: 0.8;
     position: relative;
 }
+
 .counter ul li a .wrap {
     width: 70%;
     float: right;
@@ -9209,10 +9226,12 @@ figure img {
     color: #fff;
     font-size: 12px;
 }
+
 .counter ul li a .wrap span {
     display: inline-block;
     color: #fff;
 }
+
 .counter ul li a .wrap p {
     color: #fff;
     font-size: 13px;
@@ -9228,10 +9247,12 @@ figure img {
     display: block;
     -webkit-box-shadow: 0px 6px 20px 0px rgb(119 119 119 / 20%);
 }
+
 .carousel-inner {
     overflow: hidden;
     width: 100%;
 }
+
 .brandsslide {
     float: left;
     width: 100%;
@@ -9239,6 +9260,7 @@ figure img {
     background-color: #fff;
     background: #fff;
 }
+
 .brandsslide p {
     float: left;
     width: 100%;
@@ -9247,8 +9269,27 @@ figure img {
     text-align: center;
 }
 
-@media (max-width:1212px){
-    .counter ul li{
-        width:100%;
+@media (max-width:1212px) {
+    .counter ul li {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:767px) and (min-width:0px) {
+    .topformcontainer .topformwrap {
+        height: 355px!important;
+        margin: 25PX auto!important;
+    }
+    .topformcontainer {
+        margin: 25PX auto;
+    }
+    .bnr-slider .inner-banner-content {
+        margin-top: 12%;
+    }
+    .inner-banner-content h1 {
+        font-size: 34px!important;
+    }
+    .scnd-line .hlpwrap li {
+        width: 100%;
     }
 }
