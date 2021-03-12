@@ -89,15 +89,12 @@
 
 </div>
 
-<section class="home-form ">
+<!-- <section class="home-form ">
   <div class="container ">
     <div class="row ">
       <div class="col-lg-5 offset-lg-7">
                 <div class="topformcontainer">
                   <div class="topformwrap">
-                    <!-- <div class="formheading">
-                      <h2>Avail This Exclusive Offer <span>Book this discount offer for later use.</span></h2>
-                    </div> -->
                     <div class="main-percent">
                       <div class="per-box1">
                         <figure>
@@ -110,66 +107,64 @@
                     </div>
                     <div class="formbody">
                       <section class="banform myban">
-                <div class="">
-                  <div class="row">
-                    <div class="">
-                      <div class="ban-form">
-                        <form class="cmxform" id="bannerform" method="POST" action="/leads/">
-                          <input type="hidden" name="route" value="/">   
-                          <input type="hidden" name="brand" value="thewebfounders">   
-                          <input type="hidden" name="tag" value="modal-auto">
-                          <input type="hidden" name="price" value="null">
-                          <input type="hidden" name="news" value="1">
+                        <div class="">
                           <div class="row">
-                            <div class="col-lg-12">
-                              <div class="fldset">
-                                <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required="">
-                              </div>
-                            </div>
-                            <div class="col-lg-12">
-                              <div class="fldset">
-                                <input id="cemail" type="email" name="email" placeholder="Enter email here" required="">
-                              </div>
-                            </div>
-                            <div class="col-lg-12">
-                              <div class="fldset">
-                              <input id="phone" type="tel" name="phone" />
-                              </div>
-                            </div>
-                            <div class="col-lg-12">
-                              <div class="fldset">
-                                <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
-                              </div>
-                            </div>
-                            
-                            <div class="col-lg-12">
-                              <div class="fldset">
-                                <input name="submit" type="submit" placeholder="Connect With Us" required="">
+                            <div class="">
+                              <div class="ban-form">
+                                <form class="cmxform" id="bannerform" method="POST" action="/leads/">
+                                  <input type="hidden" name="route" value="/">   
+                                  <input type="hidden" name="brand" value="thewebfounders">   
+                                  <input type="hidden" name="tag" value="modal-auto">
+                                  <input type="hidden" name="price" value="null">
+                                  <input type="hidden" name="news" value="1">
+                                  <div class="row">
+                                    <div class="col-lg-12">
+                                      <div class="fldset">
+                                        <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required="">
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                      <div class="fldset">
+                                        <input id="cemail" type="email" name="email" placeholder="Enter email here" required="">
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                      <div class="fldset">
+                                      <input id="phone" type="tel" name="phone" />
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                      <div class="fldset">
+                                        <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
+                                      </div>
+                                    </div>
+                                    
+                                    <div class="col-lg-12">
+                                      <div class="fldset">
+                                        <input name="submit" type="submit" placeholder="Connect With Us" required="">
 
-                                <script type="text/javascript">
-                              document.getElementById('location').value = window.location.href;
-                            </script>
-                            <input class="" type="hidden" name="ctry" value="">
-                            <input type="hidden" name="pc" value="+92+92+92+92">
-                            <input type="hidden" name="hiddencapcha" value="">
-                            <input type="hidden" id="location" name="locationURL" value="https://www.thewebfounders.com/">
+                                        <script type="text/javascript">
+                                      document.getElementById('location').value = window.location.href;
+                                    </script>
+                                    <input class="" type="hidden" name="ctry" value="">
+                                    <input type="hidden" name="pc" value="+92+92+92+92">
+                                    <input type="hidden" name="hiddencapcha" value="">
+                                    <input type="hidden" id="location" name="locationURL" value="https://www.thewebfounders.com/">
+                                      </div>
+                                    </div>
+                                  </div>
+                                </form>
                               </div>
                             </div>
                           </div>
-                        </form>
                       </div>
-                    </div>
+                    </section>      </div>
                   </div>
-                </div>
-              </section>      </div>
-                  </div>
-                  <!-- <div class="topformswitch">
-                    <h4> Avail 50% Discount</h4>
-                  </div> -->
+                  
                 </div>
               </div>
   </div>
-</section>
+</section> -->
 
 <section class="partners-cta ">
   <div class="container ">
