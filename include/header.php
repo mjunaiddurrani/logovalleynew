@@ -47,8 +47,23 @@
             </a>
           </div>
         </div>
-        <div class="col-lg-9 d-flex ">
+        <div class="col-lg-7 ">
+         <!-- <ul>
+           
+           <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
+           <li><p class="countryFlag " title="UK "><span></span>UK</p></li>
+         </ul> -->
+         <div class="float-right">
+          <nav class=" ">
+                <ul class="myNav">
+                    <li><p class="countryFlag " title="UK "><span></span>UK</p></li>
+                    <li><a href="tel:+442038087061" class="phoneNumber">+44-203-808-7061</a></li>
+                </ul>
+            </nav>
+         </div>
+         <div class="clearfix"></div>
           <div class="main-menu align-self-center d-none d-lg-block ">
+        
             <ul>
               <li><a href="/">Home</a></li>
               <li><a href="/about/ ">About</a></li>
@@ -73,11 +88,12 @@
               <!-- <li><a href="https://logovalley.co.uk/blog/ ">blog</a></li> -->
               <li><a href="/Showcase/ "> Showcase</a></li>
               <li><a href="/contact/ ">Contact</a></li>
-              <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
-              <li><a href="/get-a-custom-quote/ " class="btn-main ">Get A Quote</a></li>
-              <li><p class="countryFlag " title="UK "><span></span>UK</p></li>
             </ul>
           </div>
+        </div>
+        <div class="col-lg-2">
+        <div class="btn-main"><a href="/get-a-custom-quote/ " class=" ">Place Your Order</a></div>
+
         </div>
       </div>
     </div>
