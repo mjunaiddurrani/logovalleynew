@@ -17,7 +17,7 @@ if (isset($_SERVER['HTTPS'])) {
     <meta name="description" content="Logo Valley Logo is a logo design company that has transformed the way animation was carried out. Hire us to know the difference." />
     <meta name="keywords" logo design company, logo design vector, illustration design, logo animation company ">
 <link rel="canonical " href="index.html "/><meta charset="utf-8 ">
-<meta name="viewport " content="width=device-width, initial-scale=1, shrink-to-fit=no ">
+<meta name="viewport " content="width=device-width, initial-scale=1">
 <link rel="icon " href="favicon.ico " type="image/x-icon " />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css"/>
