@@ -12,7 +12,7 @@
 
 <div class="slider-wrapper bnr-slider pdng ">
     
-<section class="inner-banner smm-banner d-flex seo "  style="background-image: url(assets/images/banners/logo-design.webp ">
+<section class="inner-banner smm-banner d-flex seo "  style="background-image: url(assets/images/banners/logo-design.webp">
 <div class="container h-100 ">
 <div class="row ">
 <div class="col-lg-7 col-md-12 ">
@@ -37,7 +37,7 @@
 </div>
 </section>  
 
-<section class="inner-banner smm-banner d-flex seo " style="background-image: url(assets/images/banners/branding.webp); ">
+<!-- <section class="inner-banner smm-banner d-flex seo " style="background-image: url(assets/images/banners/branding.webp); ">
 <div class="container h-100 ">
 <div class="row ">
 <div class="col-lg-7 col-md-12 ">
@@ -60,9 +60,9 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
-<section class="inner-banner smm-banner d-flex seo "  style="background-image: url(assets/images/banners/web-design-and-development.webp); ">
+<!-- <section class="inner-banner smm-banner d-flex seo "  style="background-image: url(assets/images/banners/web-design-and-development.webp); ">
 <div class="container h-100 ">
 <div class="row ">
 <div class="col-lg-7 col-md-12 my-auto ">
@@ -85,7 +85,7 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 </div>
 
