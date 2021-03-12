@@ -40,8 +40,8 @@
         <div class="col-lg-3 logo-area ">
           <div class="logo ">
             <a href="/">
-              <img class="img-fluid white " src="assets/images/logo-dark.png " alt="* " />
-              <img class="img-fluid black " src="assets/images/logo-light.png " alt="* " />
+              <img class="img-fluid white " src="/assets/images/logo-dark.png " alt="* " />
+              <img class="img-fluid black " src="/assets/images/logo-light.png " alt="* " />
               
               <!-- <h2 style="padding: 10px 0; ">Logo Valley  <span>   Logo </span></h2> -->
             </a>
@@ -73,7 +73,7 @@
               <!-- <li><a href="https://logovalley.co.uk/blog/ ">blog</a></li> -->
               <li><a href="/Showcase/ "> Showcase</a></li>
               <li><a href="/contact/ ">Contact</a></li>
-              <li><a href="tel:+441214680105 ">+44-121-468-0105</a></li>
+              <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
               <li><a href="/get-a-custom-quote/ " class="btn-main ">Get A Quote</a></li>
               <li><p class="countryFlag " title="UK "><span></span>UK</p></li>
             </ul>

@@ -23,7 +23,7 @@
               <li>Creativity</li>
               <li>Timely Delivery</li>
           </ul>
-          <a href="javascript:;" onclick="setButtonURL();" target="_self">Lets Get Started</a><br/>
+          <a href="javascript:;" onclick="setButtonURL();" >Lets Get Started</a><br/>
           <img src="assets/images/trustpilot.png" class="seoimg" alt="">
           <img src="assets/images/rateimg.png" class="seoimg-2" alt="" />
         </div>
@@ -227,8 +227,8 @@
           <p>We provide all services for your corporate branding services and logo design. We have years of experience in Branding and Corporate Identity for well-known companies. We have got professional expertise in creating logos, brochures, stationery, corporate identity, flyers, books, magazine covers.
             <br>Get the best Business Branding Solution under one roof! Perfect branding will enhance the importance of your company. Corporate identity design is the fundamental part of your business, it can be a pivotal part of your growth and success.</p>
           <div class="btns">
-              <a href="javascript:;" onclick="setButtonURL();" target="_self" class="btn-secondary">Chat With Us</a>
-           <a href="tel:+441214680105" class="btn-secondary btn-outline">+44-121-468-0105</a>
+              <a href="javascript:;" onclick="setButtonURL();"  class="btn-secondary">Chat With Us</a>
+           <a href="tel:+442038087061" class="btn-secondary btn-outline">+44-203-808-7061</a>
          </div>
         </div>
       </div>
@@ -2256,7 +2256,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" target="_self">Discuss your project with our Expert</a></h3>
+        <h3>Looking for a custom package? <a href="javascript:;" onclick="setButtonURL();" >Discuss your project with our Expert</a></h3>
       </div>
     </div>
   </div>
