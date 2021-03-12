@@ -9350,4 +9350,16 @@ p.small {
     .counter ul li {
         width: 100%!important;
     }
+    .iner-pkgewrp {
+        padding-top: 150px!important;
+    }
+    .iner-pkgewrp .mainwrp .btnwrp {
+        padding: 20px 0 28px;
+    }
+    .iner-pkgewrp .mainwrp .chatdiv a {
+        display: block;
+    }
+    .iner-pkgewrp .txtwrp h2 {
+        font-size: 40px;
+    }
 }
