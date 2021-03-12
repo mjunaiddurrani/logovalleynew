@@ -549,25 +549,32 @@ a {
 .top-info-list li a:hover {
     color: #fff
 }
-.phoneNumber{
+
+.phoneNumber {
     color: #fff;
 }
-.inner-pages .phoneNumber{
-    color:#000;
-}
-.fixed .phoneNumber{
+
+.inner-pages .phoneNumber {
     color: #000;
 }
-.phoneNumber:hover{
-    color: #cc007c ;
+
+.fixed .phoneNumber {
+    color: #000;
 }
+
+.phoneNumber:hover {
+    color: #cc007c;
+}
+
 .nav-area-full {
     padding: 25px 0;
     width: 100%
 }
-.myNav li{
-    float:left;
+
+.myNav li {
+    float: left;
 }
+
 .logo {
     width: 50%;
     margin: 0;
@@ -978,7 +985,12 @@ a {
     width: 100%;
     height: 100%;
 }
-.bnr-slider .inner-banner-content {margin-top:27%;}
+
+.bnr-slider .inner-banner-content {
+    margin-top: 24%;
+}
+
+
 /*.home .smm-banner .banner-from{    margin-top: 80px;}*/
 
 .inner-banner-content h1 {
@@ -3870,6 +3882,9 @@ footer .social-full {
 }
 
 @media only screen and (max-width:767px) {
+    .home-form {
+        top: 600px !important;
+    }
     .home-banner {
         height: 380px
     }
@@ -5166,9 +5181,11 @@ input:checked+.toggle:before {
     font-size: 13px;
     background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
-.btn-main a{
-    color:#fff;
+
+.btn-main a {
+    color: #fff;
 }
+
 .btn-main:hover {
     color: #fff!important;
     background: #000;
@@ -6840,6 +6857,9 @@ ul.banner-points li:before {
 }
 
 @media only screen and (max-width:360px) {
+    .topformcontainer {
+        width: 280px!important;
+    }
     .ranking {
         height: 247px;
         padding: 28px 7% 0
@@ -7207,7 +7227,7 @@ ul.banner-points li:before {
 }
 
 .btns .btn-secondary {
-    margin-right: 10px;
+    margin: 0 10px 10px 0;
 }
 
 
@@ -7741,6 +7761,12 @@ div.doublewrap ul li.heading:before {
 }
 
 @media only screen and (max-width:767px) and (min-width:0px) {
+    .bnr-slider .inner-banner-content {
+        margin-top: 12%;
+    }
+    .inner-banner-content h1 {
+        font-size: 34px!important;
+    }
     .mobile-nav nav li a.active,
     .mobile-nav-btn span,
     .mobile-nav-btn span:before,
@@ -8118,7 +8144,7 @@ div.doublewrap ul li.heading:before {
         font-size: 16px
     }
     .inner-banner-content {
-        padding: 40px 0 0;
+        padding: 80px 0 0;
         margin-top: 0
     }
     .inner-pages .inner-banner {
@@ -8597,9 +8623,6 @@ p.small {
 }
 
 @media only screen and (max-width: 375px) {
-    .home-form {
-        top: 550px;
-    }
     .btn-secondary {
         padding: 14px 20px;
         font-size: 13px;
@@ -8783,7 +8806,9 @@ p.small {
 
 .banform {}
 
-.ban-form {}
+.ban-form {
+    padding: 15px 0;
+}
 
 .ban-form input {
     width: 100%;
@@ -8924,7 +8949,7 @@ p.small {
 }
 
 .topformcontainer {
-    width: 360px;
+    width: 320px;
     z-index: 9;
     margin: 50PX auto;
 }
@@ -8940,7 +8965,7 @@ p.small {
 .topformcontainer .topformwrap {
     background: #00000059;
     /* padding: 30px; */
-    height: 470px;
+    height: 480px;
     -webkit-transition: 0.6s;
     -moz-transition: 0.6s;
     -o-transition: 0.6s;
@@ -8965,14 +8990,14 @@ p.small {
 
 .per-box1 {
     display: inline-block;
-    width: 32%;
+    width: 20%;
     vertical-align: top;
     padding: 25px 10px 0 0;
 }
 
 .per-box2 {
     display: inline-block;
-    width: 68%;
+    width: 80%;
     vertical-align: top;
     text-align: right;
 }

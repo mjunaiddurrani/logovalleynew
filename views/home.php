@@ -89,14 +89,14 @@
 
 </div>
 
-<!-- <section class="home-form ">
+<section class="home-form ">
   <div class="container ">
     <div class="row ">
-      <div class="col-lg-5 offset-lg-7">
+      <div class="col-lg-5 offset-lg-7 d-block d-md-none d-lg-block">
                 <div class="topformcontainer">
                   <div class="topformwrap">
-                    <div class="main-percent">
-                      <div class="per-box1">
+                    <div class="main-percent d-none d-md-block">
+                      <div class="per-box1 ">
                         <figure>
                           <img class="hme-nmrl-img" src="img/50percent.png" alt="">
                         </figure>
@@ -164,7 +164,7 @@
                 </div>
               </div>
   </div>
-</section> -->
+</section>
 
 <section class="partners-cta ">
   <div class="container ">
