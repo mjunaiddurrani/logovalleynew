@@ -21,26 +21,29 @@
           <div class="container">
             <div class="row">
                 <div class="ban-form">
-                  <form class="cmxform" id="bannerform"  method="POST" action="webpages/floatingFormController.php">
+                  <form class="cmxform" id="bannerform"  method="POST" action="webpages/floatingFormController.php"><input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
                     <div class="row">
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input id="username" name="fName" minlength="2" type="text" placeholder="Enter your name" required />
+                          <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                         </div>
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input id="cemail" type="email" name="fEmail" placeholder="Enter email here" required>
+                          <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                         </div>
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input id="phone-coun" name="fNumber" type="text" placeholder="Phone Number" onkeypress="return isNumberKey(event);" required />
+                          <input id="phone-coun" name="phone" type="text" placeholder="Phone Number" onkeypress="return isNumberKey(event);" required />
                         </div>
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <textarea name="fMessage" id="" rows="7" placeholder="Talk About Your Project"></textarea>
+                          <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
                         </div>
                       </div>
                       

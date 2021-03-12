@@ -79,7 +79,10 @@
                 <p class="subtitle">Audit Your Site - More Sales, More Leads, More Happy Customers... </p>
                 <div class="col-lg-8 offset-lg-2">
                   <div class="bot-form justpad">
-                    <form class="cmxform" id="contactForm"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">
+                    <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
                       <div class="row">
                         <div class="col-lg-12">
                         <div class="bot-formtop">

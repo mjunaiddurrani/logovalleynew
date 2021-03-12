@@ -140,7 +140,10 @@
         <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 40% DISCOUNT</span></h3>
         <div class="form_wrap">
           <div class="analyzeform ">
-            <form class="" id="banform" method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">
+            <form class="" id="banform" method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
               <div class="row">
                 <div class="wrap">
                   <div class="dtf">
