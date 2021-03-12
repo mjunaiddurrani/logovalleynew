@@ -192,104 +192,81 @@
           </figure>
         </li>
 
-         <!-- <li>
-          <figure>
-            <a href="https://www.designrush.com/agency/profile/seo-pro-hub-uk "><img src="assets/images/designrush.png "></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://www.goodfirms.co/companies/view/16552/seo-pro-hub-uk "><img src="assets/images/goodfirms.png "></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://www.hotfrog.co.uk/business/lancashire/manchester/seo-pro-hub-uk "><img src="assets/images/hotfrog.png "></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://www.semfirms.com/profile/seo-pro-hub-uk/ "><img src="assets/images/semfirms.png "></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://www.topdesignfirms.com/directory/international/united-kingdom-great-britain/manchester/logovalleyuk?utm_source=topdesignfirms.com&utm_medium=referral "><img src="assets/images/topdesignfirms.png "></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://topdigital.agency/agency/seo-pro-hub-2/ "><img src="assets/images/topdigitalagency.png "></a>
-          </figure>
-        </li>
-
-
-        <li>
-          <figure>
-            <img src="assets/images/partner1.png ">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="assets/images/partner6.png ">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <a href="https://topdigital.agency/agency/seo-pro-hub/ "><img src="assets/images/partner2.png "></a>
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="assets/images/partner3.png ">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="assets/images/partner4.png ">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="assets/images/partner5.png ">
-          </figure>
-        </li> -->        
+   
       </ul>
     </div>
   </div>
 </section>
-<section class="counter ">
-  <ul class="packslider ">
-    <li>
-      <a href="javascript:; ">
-        <figure>
-          <img class="lazy " src="assets/images/c1.png " height="64 " width="64 ">
-        </figure>
-        <span class="wrap ">Over 1800+ <br> Happy Customers</span>
-      </a>
-    </li>
-    <li>
-      <a href="javascript:; ">
-        <figure>
-          <img class="lazy " src="assets/images/c2.png " height="64 " width="64 ">
-        </figure>
-        <span class="wrap ">Affordable <br> Pricing</span>
-      </a>
-    </li>
-    <li class="dkblk ">
-      <a href="javascript:; ">
-        <figure>
-          <img class="lazy " src="assets/images/c3.png " height="64 " width="64 ">
-        </figure>
-        <span class="wrap ">Our Expert for B2B and <br> Enterprise Companies</span>
-      </a>
-    </li>
-  </ul>
+
+
+<section class="counter">
+    <ul class="packslider">
+      <li class="">
+        <a href="javascript:;" tabindex="-1">
+          <figure>
+            <img src="https://www.logoproficient.com/img/clock-icon.png">
+          </figure>
+          <div class="wrap">
+            <span class="small">UNIQUE LOGO DESIGN BY AWARD WINNING DESIGNERS SATISFACTION GUARANTEED</span>
+            <p></p>
+          </div>
+        </a>
+      </li>
+      <li class="" style="">
+        <a href="javascript:;" tabindex="-1">
+          <figure>
+            <img src="https://www.logoproficient.com/img/chat-icon.png">
+          </figure>
+          <div class="wrap">
+            <span class="small">10 + YEARS EXPERIENCE</span>
+            <p><span>PROVIDING</span> SERVICES <br> ALL OVER THE WORLD</p>
+          </div>
+        </a>
+      </li>
+      <li class="dkblk">
+        <a href="javascript:;" tabindex="-1">
+          <figure>
+            <img src="https://www.logoproficient.com/img/glob-icon.png">
+          </figure>
+          <div class="wrap">
+            <span class="small">24/7 LIVE ASSISTANCE</span>
+            <p><span>NEXT LEVEL</span> CUSTOMER <br> SUPPORT 24/7</p>
+          </div>
+          
+        </a>
+      </li>
+      <li class="dkblk">
+        <a href="javascript:;" tabindex="-1">
+          <figure>
+            <img src="https://www.logoproficient.com/img/money-icon.png">
+          </figure>
+          <div class="wrap">
+            <span class="small">100% MONEY BACK</span>
+            <p>WE WILL REFUND 100% <br> OF YOUR PAYMENT</p>
+          </div>
+          
+        </a>
+      </li>
+    </ul>
+</section>
+<section class="section-white brandsBg">
+  <div class="container">
+<div class="row">
+<div class="col-md-3 paddingZero">
+          
+          <a href="#" class="">
+            <div class="brandsslide">
+                <p>Over 10 Years of Experience in the Online Design Industry</p>
+            </div>
+          </a>
+
+        </div>
+        <div class="col-md-9 paddingZero"><a href="#" class="slideImg">
+
+          <img src="img/customize-logo/cust-1.jpg" class="img-fluid">
+        </a></div>
+</div>
+</div>
 </section>
 <section class="strugglesec ">
   <div class="container ">
