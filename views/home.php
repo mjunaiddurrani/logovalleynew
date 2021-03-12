@@ -12,7 +12,7 @@
 
 <div class="slider-wrapper bnr-slider pdng ">
     
-<section class="inner-banner smm-banner d-flex seo "  style="background-image: url(assets/images/banners/logo-design.webp">
+<section class="inner-banner smm-banner d-flex seo "  style="background-image: url(assets/images/banners/logo_collage_mockup.jpg">
 <div class="container h-100 ">
 <div class="row ">
 <div class="col-lg-7 col-md-12 ">
