@@ -218,7 +218,7 @@
 </section>
 
 
-<section class="savingwrp">
+<section class="savingwrp d-none">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -234,6 +234,117 @@
       <div class="col-md-6">
         <div class="imgwrp">
           <img src="assets/images/services-inner/writing.svg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section><section id="who-we-are">
+  <div class="container">
+    <div class="row top-heading_row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <div class="section_title">
+          <h3> LOGO TYPES </h3>
+        </div>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+    <div class="row tabs_row">
+      <div class="col-md-12">
+        <div class="tab-custom">
+            <ul class="tabbing-links">
+              <li class="current" data-targetit="tabs-illustl">Illustrative Design</li>
+              <li data-targetit="tabs-mascotl" class="">Mascot</li>
+              
+              <li data-targetit="tabs-wordl" class="">Wordmark Design</li>
+              <li data-targetit="tabs-design3dl" class="">3D Design</li>
+              <li data-targetit="tabs-abstractl" class="">Abstract Design</li>
+              <li data-targetit="tabs-letterl" class="">Letter Logo</li>
+              <li data-targetit="tabs-pictoriall" class="">Pictorial Mark</li>
+            </ul>
+            <div class="tabs tabs-mascotl">
+              <div class="row">
+                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/mascot.png" class="img-responsive center-block lazy" alt="image"> </div>
+                <div class="col-md-6">
+                  <div class="wrapcontents">
+                    <h6> Mascot Logo Design</h6>
+                    <p> Often colorful, sometimes cartoonish, and most always fun, the mascot logo is a great way to create your very own brand spokesperson. A mascot is simply an illustrated character that represents your company. Think of them as the ambassador for your business.</p>
+                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tabs tabs-illustl current">
+              <div class="row">
+                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/illustrative.png" alt="image" class="img-responsive center-block lazy"> </div>
+                <div class="col-md-6">
+                  <div class="wrapcontents">
+                    <h6> Illustrative Design </h6>
+                    <p> If you want to create a work of art – illustrative logos are the best fit as it contains intricate artwork. It will act as a trendy as well as contemporary image of your brand and keep the viewers attention longer than the traditional logo design. We at <span class="text-grad">Logo Cottage</span> use latest tools and technology to create a remarkable illustrative logo for your brand. </p>
+                    <a href="javascript:;" data-toggle="modal" onclick="order_now_value(this)" name="for $19" data-target="#SignupModal" class="btn-line-fill ali-fill">Let's Get Started</a> </div>
+                </div>
+              </div>
+            </div>
+            <div class="tabs tabs-wordl">
+              <div class="row">
+                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/wordmark.png" alt="image" class="img-responsive center-block lazy"> </div>
+                <div class="col-md-6">
+                  <div class="wrapcontents">
+                    <h6> Wordmark Design </h6>
+                    <p> Create your professional wordmark logo with <span class="text-grad">Logo Cottage </span>. It is a pure form of logo and a text-only representation of your brand – which makes it a good choice for start-ups and accelerating businesses that are seeking a static and no-hassle solution. We allow full customization to create your own wordmark logo design to enhance your brand visibility. </p>
+                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tabs tabs-design3dl">
+              <div class="row">
+                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/3d-logos.png" alt="image" class="img-responsive center-block lazy"> </div>
+                <div class="col-md-6">
+                  <div class="wrapcontents">
+                    <h6> 3D Design </h6>
+                    <p> If you’re looking for a modern style logo – our 3-Dimensional logo designs will serve you best. We specialize in making 3D logos which reflects your brand in an attractive way. With our abundant 3D logo designs – enjoy the rewards of attracting a large number of clients as your audience will be able to experience look and feel of your business. Ping us now and let’s add some dimensions to your boring logo designs. </p>
+                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tabs tabs-abstractl">
+              <div class="row">
+                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/abstract.png" alt="image" class="img-responsive center-block lazy"> </div>
+                <div class="col-md-6">
+                  <div class="wrapcontents">
+                    <h6> Abstract Design </h6>
+                    <p> Abstract logo designs also known as smart logos is a mix of pictures, typography and shapes. A lot of organizations today use abstract logos for their businesses. They are usually used as a conceptual strategy to represent your business idea. It also allows you to exhibit different functions of your company. Join hands with <span class="text-grad">Logo Cottage</span> to create your abstract logo that reflects an unclear vision of your business – so that you can play safe in your business operations. </p>
+                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tabs tabs-letterl">
+              <div class="row">
+                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/letter.png" alt="image" class="img-responsive center-block lazy"> </div>
+                <div class="col-md-6">
+                  <div class="wrapcontents">
+                    <h6> Letter Logo Design </h6>
+                    <p>Letter Marks are solely typographic. They use a symbol representing the company through the use of its initials or the brands first letter. Many corporations choose to use this kind of logo as their initials can be graphically illustrated in a better manner.  </p>
+                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tabs tabs-pictoriall">
+              <div class="row">
+                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/pictorial.png" alt="image" class="img-responsive center-block lazy"> </div>
+                <div class="col-md-6">
+                  <div class="wrapcontents">
+                    <h6> Pictorial Mark </h6>
+                    <p> A pictorial mark (sometimes called a brand marks or logo symbol) is an icon, or graphic-based design. A true brand mark is only an image. Because of this, it can be a tricky logo type for new companies, or those without strong brand recognition, to use.  </p>
+                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                  </div>
+                </div>
+              </div>
+            </div>
         </div>
       </div>
     </div>
