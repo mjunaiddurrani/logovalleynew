@@ -552,6 +552,9 @@ a {
 .phoneNumber{
     color: #fff;
 }
+.inner-pages .phoneNumber{
+    color:#000;
+}
 .fixed .phoneNumber{
     color: #000;
 }
