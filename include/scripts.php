@@ -116,7 +116,8 @@
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
 <script src="/assets/js/jquery.cookie.js "></script>
-<script src="/assets/js/functions.js "></script> 
+<script src="/assets/js/functions.js "></script>
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=fa76615b-cedc-455f-97df-e1c2ae408e05"></script> 
 
 
 
@@ -181,11 +182,7 @@ $(document).scroll(function () {
         $('.floating_wrap').fadeOut();
     }
 
-
-}); 
-
-
-setTimeout(function(){  
+    setTimeout(function(){  
     $("#modalForDiscount").modal("show");
     $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
     $(document).on('click','.liveChat',function(){
@@ -196,6 +193,10 @@ setTimeout(function(){
        $zopim.livechat.hideAll();
     });
 }, 15000);
+
+
+}); 
+
 
 $(".fancybox").fancybox({
         openEffect: "none",
