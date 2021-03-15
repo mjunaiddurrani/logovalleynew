@@ -14,10 +14,10 @@
         <div class="col-lg-6 ">
           <div class="wrapper ">
             <ul class="footer-nav ">
-              <li><a href="index.html ">Home</a></li>
-              <li><a href="package.html ">Packages</a></li>
-              <li><a href="Showcase.html ">Showcase</a></li>
-              <li><a href="contact.html ">Contact Us</a></li>
+              <li><a href="/index/">Home</a></li>
+              <li><a href="/package/">Packages</a></li>
+              <li><a href="/Showcase/">Showcase</a></li>
+              <li><a href="/contact/">Contact Us</a></li>
             </ul>
             <div class="tools text-right ">
               <ul>
