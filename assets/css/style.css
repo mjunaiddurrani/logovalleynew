@@ -9362,4 +9362,10 @@ p.small {
     .iner-pkgewrp .txtwrp h2 {
         font-size: 40px;
     }
+    .iner-pkgewrp .mainwrp {
+        padding: 30px 40px;
+    }
+    .iner-pkgewrp .mainwrp::after {
+        display: none;
+    }
 }
