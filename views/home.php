@@ -2485,7 +2485,7 @@ liveChat">Chat With Us</a>
 <section class="listsec ">
   <div class="container ">
     <div class="row ">
-      <h2>logovalley LOGO WORKS FOR B2B and B2C Companies </h2>
+      <h2>Logo Design Solutions for B2B and B2C Companies </h2>
       <div class="col-lg-10 offset-lg-1 ">
         <div class="wrap ">
           <ul>
