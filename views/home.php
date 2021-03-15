@@ -2555,7 +2555,7 @@ liveChat">Chat With Us</a>
     <div class="row ">
       <div class="col-lg-12 ">
         <h3>Shape a strong brand that connects with your audience!</h3>
-        <a href="tel:+442038087061">Design Brand With Us </a>
+        <a href="javascript:;" onclick="setButtonURL();">Design Brand With Us </a>
         <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();">Talk with Us </a></h5>
       </div>
     </div>
@@ -2595,7 +2595,7 @@ liveChat">Chat With Us</a>
       </div>
     </div>
     <div class="btn-wrap ">
-      <a href="get-/a-quote/="btn-secondary ">Request a Custom Quote </a>
+      <a href="javascript:;" onclick="setButtonURL();">Request a Custom Quote </a>
       <p>Any Questions?  <a href="javascript:; " onclick="setButtonURL(); "> Live Chat</a></p>
     </div>
 </div>  </div>
