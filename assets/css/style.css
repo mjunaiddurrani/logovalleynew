@@ -5178,6 +5178,7 @@ input:checked+.toggle:before {
 }
 
 .bottom-form .bot-form form .intl-tel-input.separate-dial-code .selected-dial-code {
+    color:#000;
     padding-left: 25px
 }
 
