@@ -40,7 +40,7 @@
 
 #who-we-are .tab-custom .tabbing-links li.current {
     color: #fff;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
 
 #who-we-are .tabs img {
@@ -2772,7 +2772,7 @@ input[type=radio]:not(old)+label {
     transition: .4s;
     color: #fff;
     background-color: #b960c3;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
     border: #ff7420;
     padding: 14px 60px;
     font-size: 16px;
@@ -5196,7 +5196,7 @@ input:checked+.toggle:before {
 
 .bot-form form input[type=submit] {
     border: none;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
     color: #fff;
     font-weight: 700;
     font-size: 14px;
@@ -5227,7 +5227,7 @@ input:checked+.toggle:before {
     padding: 16px 20px!important;
     margin-top: 10px;
     font-size: 13px;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
 
 .btn-main a {
@@ -5236,7 +5236,7 @@ input:checked+.toggle:before {
 
 .btn-main:hover {
     color: #fff!important;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
     cursor: pointer;
 }
 
@@ -5677,7 +5677,7 @@ input:checked+.toggle:before {
 
 .inner-banner-content a {
     background: #fff;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
     margin-bottom: 20px;
     padding: 16px 40px;
     border-radius: 5px;
@@ -6614,7 +6614,7 @@ ul.banner-points li:before {
     transform: translateY(-5.925px);
     color: #fff;
     background: #b960c3;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
 
 .tphead {
@@ -7261,7 +7261,7 @@ ul.banner-points li:before {
 
 .btn-secondary {
     background-color: #b960c3;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
     border: #b960c3;
 }
 
@@ -7272,7 +7272,7 @@ ul.banner-points li:before {
 }
 
 .btn-outline:hover {
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
 
 .btns .btn-secondary {
@@ -7341,7 +7341,7 @@ ul.banner-points li:before {
 .portfoliowrp .navwrp ul li.current {
     background: #b960c3;
     color: #fff;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
 
 
@@ -7675,7 +7675,7 @@ div.doublewrap ul li.heading:before {
 
 .wrapk .btn {
     background: #b960c3;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
 
 .chatt {
@@ -8348,7 +8348,7 @@ div.doublewrap ul li.heading:before {
 .iner-pkgewrp .txtwrp h2:after {
     content: "";
     position: absolute;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
     width: 140px;
     height: 4px;
     left: 0;
@@ -8405,7 +8405,7 @@ div.doublewrap ul li.heading:before {
     display: inline-block;
     color: #fff;
     font-size: 18px;
-    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
     padding: 17px 23px;
     border-radius: 5px;
 }
@@ -9374,8 +9374,8 @@ p.small {
     padding: 10px 14px;
     border-right: 1px solid #ded9d9;
     vertical-align: middle;
-    background: -moz-linear-gradient(left, #1a2a6c 10%,#b21f1f,#fdbb2d);
-    background: -webkit-linear-gradient(left, #1a2a6c 10%,#b21f1f,#fdbb2d)
+    background: -moz-linear-gradient(left, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background: -webkit-linear-gradient(left, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
 
 .floating_wrap .btns_wrap .call_wrap span {
@@ -9405,8 +9405,8 @@ p.small {
     padding: 10px 12px;
     border-right: 1px solid #ded9d9;
     vertical-align: middle;
-    background: -moz-linear-gradient(left, #1a2a6c 10%,#b21f1f,#fdbb2d);
-    background: -webkit-linear-gradient(left, #1a2a6c 10%,#b21f1f,#fdbb2d)
+    background: -moz-linear-gradient(left, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background: -webkit-linear-gradient(left, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153)
 }
 
 .floating_wrap .btns_wrap .chat_wrap span {
@@ -9460,7 +9460,7 @@ p.small {
     padding-top: 9px;
     position: absolute;
     transform: rotate( 360deg);
-    background-image:linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    background-image:linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
 
 .floating_wrap .float_form_box .floating_form .floating_strip .rotatekaro {
