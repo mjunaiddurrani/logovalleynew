@@ -7541,7 +7541,7 @@ ul.banner-points li:before {
 
 .doublewrap {
     margin-top: 30px;
-    padding: 25px 40px;
+    padding:40px;
     min-height: 612px;
     border: 1px solid #cc007c;
     position: relative;
@@ -9157,13 +9157,13 @@ p.small {
 .doublewrap .left {
     position: absolute;
     left: 35px;
-    top: 20px;
+    top: 40px;
 }
 
 .doublewrap .right {
     position: absolute;
     right: 50px;
-    top: 15px;
+    top: 40px;
 }
 
 .doublewrap .right img {
@@ -9369,7 +9369,7 @@ p.small {
 }
 
 .floating_wrap .btns_wrap .call_wrap i {
-    color: #000;
+    color: #fff;
     font-size: 26px;
     padding: 10px 14px;
     border-right: 1px solid #ded9d9;
@@ -9400,7 +9400,7 @@ p.small {
 }
 
 .floating_wrap .btns_wrap .chat_wrap i {
-    color: #000;
+    color: #fff;
     font-size: 25px;
     padding: 10px 12px;
     border-right: 1px solid #ded9d9;
@@ -9541,7 +9541,7 @@ p.small {
 }
 
 .floating_wrap .float_form_box .floating_form .floating_strip .rotatekaro a {
-    color: #000;
+    color: #fff;
     font-size: 20px;
     width: 300px;
     text-align: center;
