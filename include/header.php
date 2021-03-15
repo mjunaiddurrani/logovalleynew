@@ -14,7 +14,6 @@
             <li><a href="/branding/ ">branding</a></li>
             <!--<li><a href="https://logovalley.co.uk/video-animation ">Video Animation</a></li>-->
             <li><a href="/web-design/ ">website design</a></li>
-            <li><a href="/creative-copy-writing/ ">Creative Copy Writing</a></li>
              
           </ul>
       </li>
@@ -78,7 +77,6 @@
                     
                     
                     <li><a href="/web-design/ ">Website Design</a></li>
-                    <li><a href="/creative-copy-writing/ ">Creative Copy Writing</a></li>
                   </ul>
                 </div>
               </li>
