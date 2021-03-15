@@ -40,7 +40,7 @@
 
 #who-we-are .tab-custom .tabbing-links li.current {
     color: #fff;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
 }
 
 #who-we-are .tabs img {
@@ -2772,7 +2772,7 @@ input[type=radio]:not(old)+label {
     transition: .4s;
     color: #fff;
     background-color: #b960c3;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
     border: #ff7420;
     padding: 14px 60px;
     font-size: 16px;
@@ -5196,7 +5196,7 @@ input:checked+.toggle:before {
 
 .bot-form form input[type=submit] {
     border: none;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
     color: #fff;
     font-weight: 700;
     font-size: 14px;
@@ -5227,7 +5227,7 @@ input:checked+.toggle:before {
     padding: 16px 20px!important;
     margin-top: 10px;
     font-size: 13px;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
 }
 
 .btn-main a {
@@ -5236,7 +5236,8 @@ input:checked+.toggle:before {
 
 .btn-main:hover {
     color: #fff!important;
-    background: #000;
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
+    cursor: pointer;
 }
 
 .header-main.fixed .btn-main {
@@ -5676,7 +5677,7 @@ input:checked+.toggle:before {
 
 .inner-banner-content a {
     background: #fff;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
     margin-bottom: 20px;
     padding: 16px 40px;
     border-radius: 5px;
@@ -6613,7 +6614,7 @@ ul.banner-points li:before {
     transform: translateY(-5.925px);
     color: #fff;
     background: #b960c3;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
 }
 
 .tphead {
@@ -7260,7 +7261,7 @@ ul.banner-points li:before {
 
 .btn-secondary {
     background-color: #b960c3;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
     border: #b960c3;
 }
 
@@ -7271,7 +7272,7 @@ ul.banner-points li:before {
 }
 
 .btn-outline:hover {
-    color: #cd1d57;
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
 }
 
 .btns .btn-secondary {
@@ -7340,7 +7341,7 @@ ul.banner-points li:before {
 .portfoliowrp .navwrp ul li.current {
     background: #b960c3;
     color: #fff;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
 }
 
 
@@ -7674,7 +7675,7 @@ div.doublewrap ul li.heading:before {
 
 .wrapk .btn {
     background: #b960c3;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
 }
 
 .chatt {
@@ -8347,7 +8348,7 @@ div.doublewrap ul li.heading:before {
 .iner-pkgewrp .txtwrp h2:after {
     content: "";
     position: absolute;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
     width: 140px;
     height: 4px;
     left: 0;
@@ -8404,7 +8405,7 @@ div.doublewrap ul li.heading:before {
     display: inline-block;
     color: #fff;
     font-size: 18px;
-    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+    background-image: linear-gradient(to right, #1a2a6c 10%,#b21f1f,#fdbb2d);
     padding: 17px 23px;
     border-radius: 5px;
 }
