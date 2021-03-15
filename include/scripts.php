@@ -189,7 +189,7 @@ $(document).scroll(function () {
 
     setTimeout(function(){  
     $("#modalForDiscount").modal("show");
-    $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
+    // $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
     
     $(document).on('click','.liveChat',function(){
         $zopim.livechat.window.show();
