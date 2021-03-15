@@ -97,3 +97,61 @@
     </div>
   </div>
 </header>
+
+
+<section class="floating_wrap" style="">
+  <div class="btns_wrap">
+    
+    <a href="javascript:;" onclick="setButtonURL(); " class="chat_wrap liveChat">
+      <i class="fa fa-comment pur-bg"></i>
+      <span class="pur">Chat With Us</span>
+    </a>
+    <a href="tel:(646) 582-9666" class="call_wrap">
+      <i class="fa fa-phone pur-bg"></i>
+      <span class="pur">(646) 582-9666</span>
+    </a>
+  </div>
+
+  <div class="float_form_box">
+    <div class="floating_form">
+      <div class="floating_strip">
+        <div class="rotatekaro">
+          <a href="javascript:;" class="">Get Free Consultancy</a>
+        </div>
+      </div>
+      <div class="floating_inner">
+        <h3>Signup Now</h3>
+        <div class="form_wrap">
+           <form method="POST" action="/leads/" id="quoteForm" autocomplete="off">
+           <input type="hidden" name="route" value="/">   
+                  <input type="hidden" name="brand" value="thewebfounders">   
+                  <input type="hidden" name="tag" value="modal-auto">
+                  <input type="hidden" name="price" value="null">
+                  <input type="hidden" name="news" value="1">
+            <div class="row">
+            <div class="col-md-12 col-xs-12 margin-bottom-10">
+              <input type="text" autocomplete="off" class="form-control" placeholder="Full Name" name="name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required="required">
+            </div>
+            <input type="hidden" name="_token" value="N49UNLabJbUSvBDJEo7foM8hpNuXpnw4qMXgV2mo">
+            <div class="col-md-12 col-xs-12 margin-bottom-10">
+              <input type="email" autocomplete="off" class="form-control" placeholder="Email" name="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" required="required">
+            </div>
+            <div class="col-md-12 col-xs-12 margin-bottom-10 ">
+              <input type="number" min="1" autocomplete="off" class="form-control" placeholder="Phone Number" name="phone" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'" required="">
+            </div>
+              <div class="col-md-12 col-xs-12 margin-bottom-20">
+                <textarea class="form-control" col="5" name="brief" placeholder="Talk about your project" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Project Description'" required=""></textarea>
+              </div>
+              <div class="col-md-12 col-xs-12 text-center">
+                <div class="text-center mid-body">
+                  <input class="btn-fill btn-quote" type="submit" id="quoteSubmit" name="quote" value="Send Query">
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>

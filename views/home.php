@@ -274,7 +274,7 @@
   <div class="container ">
     <div class="row ">
       <div class="col-lg-7 ">
-         <h2 class="text-left ">Delivering creative designs and logovalley websites.</h2>
+         <h2 class="text-left ">We Deliver Professional Logos that Inspire Stories</h2>
          <p>We take products through every stage necessary for their creation – Product Discovery, Business and User Research, UX/UI Design, Prototyping, Usability Testing, and future Product Improvements.
          </p>
         <div class="text-left mtpx-25 btns ">
@@ -295,7 +295,7 @@ liveChat">Chat With Us</a>
   <div class="container ">
     <div class="row ">
       <div class="col-lg-12 ">
-        <h2>Services to boost your brand</h2>
+        <h2>Let your Idea be the Next Big Thing with Our Branding Solutions</h2>
       </div>
 
       <div class="col-lg-6 my-auto ">

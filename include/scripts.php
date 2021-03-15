@@ -164,6 +164,8 @@ function gotocontact(){
    $('html, body').animate({scrollTop:$(".mypackages").offset().top-100},1000);  
 }
 
+
+
 $(document).ready(function(){
     
     $('.floating_strip .rotatekaro a').on('click', function(e) {
