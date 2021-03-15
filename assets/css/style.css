@@ -4412,7 +4412,8 @@ footer .social-full {
 }
 
 .packages-sec .hightwrp .btn-detail {
-    color: #000;
+    color: #b00fb3;
+    font-weight: 600;
 }
 
 .packages-sec .pack-wrap {
@@ -7807,6 +7808,9 @@ div.doublewrap ul li.heading:before {
     width: 440px;
     max-width: 450px;
     margin: auto;
+    background: #ffffff57;
+    padding: 41px 0;
+    border-radius: 6px;
 }
 
 @media only screen and (max-width:767px) and (min-width:0px) {

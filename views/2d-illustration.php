@@ -307,7 +307,7 @@
                 <div class="col-md-6">
                   <div class="wrapcontents">
                     <h6> Illustrative Design </h6>
-                    <p> If you want to create a work of art – illustrative logos are the best fit as it contains intricate artwork. It will act as a trendy as well as contemporary image of your brand and keep the viewers attention longer than the traditional logo design. We at <span class="text-grad">Logo Cottage</span> use latest tools and technology to create a remarkable illustrative logo for your brand. </p>
+                    <p> If you want to create a work of art – illustrative logos are the best fit as it contains intricate artwork. It will act as a trendy as well as contemporary image of your brand and keep the viewers attention longer than the traditional logo design. We at <span class="text-grad">Logo Valley</span> use latest tools and technology to create a remarkable illustrative logo for your brand. </p>
                     <a href="javascript:;" data-toggle="modal" onclick="order_now_value(this)" name="for $19" data-target="#SignupModal" class="btn-line-fill ali-fill">Let's Get Started</a> </div>
                 </div>
               </div>
@@ -318,7 +318,7 @@
                 <div class="col-md-6">
                   <div class="wrapcontents">
                     <h6> Wordmark Design </h6>
-                    <p> Create your professional wordmark logo with <span class="text-grad">Logo Cottage </span>. It is a pure form of logo and a text-only representation of your brand – which makes it a good choice for start-ups and accelerating businesses that are seeking a static and no-hassle solution. We allow full customization to create your own wordmark logo design to enhance your brand visibility. </p>
+                    <p> Create your professional wordmark logo with <span class="text-grad">Logo Valley </span>. It is a pure form of logo and a text-only representation of your brand – which makes it a good choice for start-ups and accelerating businesses that are seeking a static and no-hassle solution. We allow full customization to create your own wordmark logo design to enhance your brand visibility. </p>
                     <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
                   </div>
                 </div>
@@ -342,7 +342,7 @@
                 <div class="col-md-6">
                   <div class="wrapcontents">
                     <h6> Abstract Design </h6>
-                    <p> Abstract logo designs also known as smart logos is a mix of pictures, typography and shapes. A lot of organizations today use abstract logos for their businesses. They are usually used as a conceptual strategy to represent your business idea. It also allows you to exhibit different functions of your company. Join hands with <span class="text-grad">Logo Cottage</span> to create your abstract logo that reflects an unclear vision of your business – so that you can play safe in your business operations. </p>
+                    <p> Abstract logo designs also known as smart logos is a mix of pictures, typography and shapes. A lot of organizations today use abstract logos for their businesses. They are usually used as a conceptual strategy to represent your business idea. It also allows you to exhibit different functions of your company. Join hands with <span class="text-grad">Logo Valley</span> to create your abstract logo that reflects an unclear vision of your business – so that you can play safe in your business operations. </p>
                     <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
                   </div>
                 </div>
@@ -2380,7 +2380,7 @@
           <li>Lifestyle Illustration</li>
         </ul>
         <div class="text-center mtpx-25">
-          <a href="href="javascript:;" onclick="setButtonURL();"" class="btn-secondary">Lets Get Started</a>
+          <a href="javascript:;" onclick="setButtonURL();"" class="btn-secondary">Lets Get Started</a>
         </div>
       </div>
     </div>

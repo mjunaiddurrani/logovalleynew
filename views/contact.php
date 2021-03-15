@@ -89,31 +89,31 @@
   <div class="quest-section"> <a class="quest-title " href="#accordion-1">Professional Logo Design</a>
     <div id="accordion-1" class="quest-content">
       <p>Your logo design is a key part of your brand identity. We work with businesses from around the world to help create easy to recognize logos.</p>
-      <a href="logo-design.html">Read more...</a>
+      <!-- <a href="logo-design.html">Read more...</a> -->
     </div>
   </div>
   <div class="quest-section"> <a class="quest-title" href="#accordion-2">Logo Animations</a>
     <div id="accordion-2" class="quest-content">
       <p>Our logo animations experts are creative thinkers that aim to influence your targeted audience through video content that’s out of this world. </p>
-      <a href="logo-animation.html">Read more...</a>
+      <!-- <a href="logo-animation.html">Read more...</a> -->
     </div>
   </div>
   <div class="quest-section"> <a class="quest-title" href="#accordion-3">Brand Identity Development</a>
     <div id="accordion-3" class="quest-content">
       <p>Similar to how people are judged by their personalities, companies worldwide are judged by their brand identity. </p>
-      <a href="branding.html">Read more...</a>
+      <!-- <a href="branding.html">Read more...</a> -->
     </div>
   </div>
   <div class="quest-section"> <a class="quest-title" href="#accordion-4">Video Animation Solutions</a>
     <div id="accordion-4" class="quest-content">
       <p>We are specialized in providing high-quality 2D and 3D animations to several national and foreign companies. We focus on creativity and quality and try not to make the "garden shadow" work! Yes, don't be surprised by us.</p>
-      <a href="video-animation.html">Read more...</a>
+      <!-- <a href="video-animation.html">Read more...</a> -->
     </div>
   </div>
   <div class="quest-section"> <a class="quest-title" href="#accordion-5">Get An Interactive Website Design </a>
     <div id="accordion-5" class="quest-content">
       <p>We develop and design dynamic, economical, and easy to use websites. We have a team of professional designers and developers that are proficient to handle complex projects.</p>
-      <a href="web-design.html">Read more...</a>
+      <!-- <a href="web-design.html">Read more...</a> -->
     </div>
   </div>
 </div>

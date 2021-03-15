@@ -16,7 +16,7 @@
           <!--<h5>Best SEO Agency</h5>-->
           <h1>Most affordable custom design packages online!</h1>
           <p>We can help visualize even the craziest ideas converting them into elegant designs, awesome experiences and catchy brands.</p>
-          <a href="href="javascript:;" onclick="setButtonURL();"">Request A Custom Proposal</a>
+          <a href="javascript:;" onclick="setButtonURL();"">Request A Custom Proposal</a>
         </div>
       </div>
       <div class="col-lg-4 lgonly">
@@ -139,7 +139,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>If Your Business Owns Unprofessional Solution, It lost Credibility in Market</h2>
+        <h2>A Business with an Unprofessional Design Loses its Credibility in the Market</h2>
         <p>To enhance branding or to build solid business foundation, you need a professional solution that enhance its credibility and it gives confidence to your customers to trust your business.</p>
       </div>
     </div>

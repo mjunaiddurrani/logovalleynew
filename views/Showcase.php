@@ -17,7 +17,7 @@
           <!--<h5>Best SEO Agency</h5>-->
           <h1>We deliver innovative & result-oriented IT solutions</h1>
           <p>Design excellence can’t really be achieved without working side by side with extraordinary clients from around the world.</p>
-          <a href="href="javascript:;" onclick="setButtonURL();"">Request A Custom Proposal</a>
+          <a href="javascript:;" onclick="setButtonURL();"">Request A Custom Proposal</a>
         </div>
       </div>
       <div class="col-lg-4 lgonly">
@@ -973,7 +973,7 @@
       </div>
     </div>
     <div class="btn-wrap">
-      <a href="href="javascript:;" onclick="setButtonURL();"" class="btn-secondary">Request a Custom Quote </a>
+      <a href="javascript:;" onclick="setButtonURL();"" class="btn-secondary">Request a Custom Quote </a>
       <p>Any Questions?  <a href="javascript:;" onclick="setButtonURL();" > Live Chat</a></p>
     </div>
 </div>  </div>

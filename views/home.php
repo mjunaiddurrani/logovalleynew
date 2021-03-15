@@ -322,7 +322,7 @@ liveChat">Chat With Us</a>
             </div>
             <div class="rht ">
               <h3>Logo Design</h3>
-              <p>our experienced designers make effort to create a logo that doesn’t only seem professional but also apart from other brands</p>
+              <p>our experienced designers make effort to create a logo that doesn’t only seem professional but also apart from other brands.</p>
             </div>
           </li>
           <li>
@@ -360,7 +360,7 @@ liveChat">Chat With Us</a>
             </div>
             <div class="rht ">
               <h3>Branding</h3>
-              <p>our experienced branding designers know the art of doing it and has made it possible for clients around the globe.</p>
+              <p>From custom social media banners to creative business collateral we offer professional branding solution for every industry.</p>
             </div>
           </li>
           <li>
@@ -1145,7 +1145,7 @@ liveChat">Chat With Us</a>
   <div class="container ">
     <div class="row ">
       <div class="col-lg-12 ">
-        <h2>If Your Business Owns Unprofessional Solution, It lost Credibility in Market</h2>
+        <h2>A Business with an Unprofessional Design Loses its Credibility in the Market</h2>
         <p>To enhance branding or to build solid business foundation, you need a professional solution that enhance its credibility and it gives confidence to your customers to trust your business.</p>
       </div>
     </div>
@@ -2555,7 +2555,7 @@ liveChat">Chat With Us</a>
     <div class="row ">
       <div class="col-lg-12 ">
         <h3>Shape a strong brand that connects with your audience!</h3>
-        <a href="javascript:;" onclick="setButtonURL();">Design Brand With Us </a>
+        <a href="javascript:;" onclick="setButtonURL();" class="btn-secondary">Design Brand With Us </a>
         <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();">Talk with Us </a></h5>
       </div>
     </div>
@@ -2595,7 +2595,7 @@ liveChat">Chat With Us</a>
       </div>
     </div>
     <div class="btn-wrap ">
-      <a href="javascript:;" onclick="setButtonURL();">Request a Custom Quote </a>
+      <a href="javascript:;" onclick="setButtonURL();"  class="btn-secondary">Request a Custom Quote </a>
       <p>Any Questions?  <a href="javascript:; " onclick="setButtonURL(); "> Live Chat</a></p>
     </div>
 </div>  </div>
@@ -2624,7 +2624,7 @@ liveChat">Chat With Us</a>
           <span>JV</span>
           
           <h4>John Vanderbeck, Business Owner</h4>
-          <p>in helping me build over 10+ logos for my clients in just 1 Day. I highly recommend the service to anyone who is looking to get great design options at a great price point.</p>
+          <p>They helped me build over 10+ logos for my clients in just 1 Day. I highly recommend the service to anyone who is looking to get great design options at a great price point.</p>
         </div>
       </div>
       <div class="col-md-4 ">
@@ -2732,7 +2732,7 @@ liveChat">Chat With Us</a>
 {
   "@context ": "https://schema.org ",
   "@type ": "Organization ",
-  "name ": "Logo Valley Logo ",
+  "name ": "Logo Valley ",
   "url ": "https://www.logovalley.co.uk/ ",
   "logo ": "https://www.logovalley.co.uk//assets/images/logo-dark.png "
 }

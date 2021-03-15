@@ -17,7 +17,7 @@
           <!--<h5>Best SEO Agency</h5>-->
           <h1>Assisting you with complete brand development</h1>
           <p>Combo Packages allow you to pick and choose from a variety of options that suit your requirements. </p>
-          <a href="href="javascript:;" onclick="setButtonURL();"">Request A Custom Proposal</a>
+          <a href="javascript:;" onclick="setButtonURL();"">Request A Custom Proposal</a>
         </div>
       </div>
       <div class="col-lg-4 lgonly">
