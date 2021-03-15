@@ -91,7 +91,7 @@
 
 </div>
 
-<section class="home-form ">
+<!-- <section class="home-form ">
   <div class="container ">
     <div class="row ">
       <div class="col-lg-5 offset-lg-7 d-block d-md-none d-lg-block">
@@ -166,7 +166,7 @@
                 </div>
               </div>
   </div>
-</section>
+</section> -->
 
 <section class="partners-cta ">
   <div class="container ">
