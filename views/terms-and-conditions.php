@@ -207,7 +207,7 @@
               <li><a href="Showcase.html"> Showcase</a></li>
               <li><a href="contact.html">Contact</a></li>
               <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
-              <li><a href="get-a-custom-quote.html" class="btn-main">Get A Quote</a></li>
+              <li><a href="tel:+442038087061" class="btn-main">Get A Quote</a></li>
               <li><p class="countryFlag" title="UK"><span></span>UK</p></li>
             </ul>
           </div>

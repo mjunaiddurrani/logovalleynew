@@ -90,7 +90,7 @@
           </div>
         </div>
         <div class="col-lg-2 d-none d-lg-block ">
-        <div class="btn-main"><a href="/get-a-custom-quote/ " class=" ">Place Your Order</a></div>
+        <div class="btn-main"><a href="tel:+442038087061" class=" ">Place Your Order</a></div>
 
         </div>
       </div>

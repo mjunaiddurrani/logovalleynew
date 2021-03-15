@@ -17,7 +17,7 @@
           <!--<h5>Best SEO Agency</h5>-->
           <h1>Assisting you with complete brand development</h1>
           <p>Combo Packages allow you to pick and choose from a variety of options that suit your requirements. </p>
-          <a href="get-a-custom-quote-2.html">Request A Custom Proposal</a>
+          <a href="href="javascript:;" onclick="setButtonURL();"">Request A Custom Proposal</a>
         </div>
       </div>
       <div class="col-lg-4 lgonly">
@@ -189,7 +189,7 @@
 </div>
 </div>
 <div class="pkbtn">
-<a href="get-a-custom-quote55f0.html?pack=32" class="btn-blue">Buy Your Plan</a>
+<a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
 </div>
 <a href="packages/basic-combo.html" class="btn-detail">View Details</a>
 </li>
@@ -233,7 +233,7 @@
 </div>
 </div>
 <div class="pkbtn">
-<a href="get-a-custom-quote8002.html?pack=33" class="btn-green">Buy Your Plan </a>
+<a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
 </div>
 <a href="packages/startup-combo.html" class="btn-detail">View Details</a>
 </li>
@@ -289,7 +289,7 @@
 </div>
 </div>
 <div class="pkbtn">
-<a href="get-a-custom-quotea301.html?pack=34" class="btn-red">Buy Your Plan</a>
+<a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
 </div>
 <a href="packages/professional-combo.html" class="btn-detail">View Details</a>
 </li>
@@ -355,7 +355,7 @@
 </div>
 </div>
 <div class="pkbtn">
-<a href="get-a-custom-quotead90.html?pack=35" class="btn-blue">Buy Your Plan</a>
+<a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
 </div>
 <a href="packages/corporate-combo.html" class="btn-detail">View Details</a>
 </li>
@@ -420,7 +420,7 @@
 </div>
 </div>
 <div class="pkbtn">
-<a href="get-a-custom-quotef589.html?pack=36" class="btn-red">Buy Your Plan</a>
+<a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
 </div>
 <a href="packages/elite-combo.html" class="btn-detail">View Details</a>
 </li>
@@ -537,7 +537,7 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="wrapk">
-					<a href="get-a-custom-quotec635.html?pack=37" class="btn btn-red">Buy Your Plan</a>
+					<a href="tel:+442038087061" class="btn btn-red">Buy Your Plan</a>
 				</div>
 			</div>
 		</div>
@@ -780,7 +780,7 @@
     <div class="row">
       <div class="col-lg-12">
         <h3>Shape a strong brand that connects with your audience!</h3>
-        <a href="get-a-custom-quote.html" class="btn-secondary">Design Brand With Us </a>
+        <a href="tel:+442038087061" class="btn-secondary">Design Brand With Us </a>
         <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();" >Talk with Us </a></h5>
       </div>
     </div>
