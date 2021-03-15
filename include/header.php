@@ -6,7 +6,7 @@
     <ul class="unstyled mainnav pbpx-15 ">
       <li><a href="/">Home</a></li>
       <li><a href="/about/ ">About</a></li>
-      <li><a href="javascript:; ">Services <i class="xicon icon-angle-down "></i></a>
+      <li><a href="javascript:; ">Services <i class="fa fa-angle-down"></i></a>
          <ul>
             <li><a href="/logo-design/ ">logo design</a></li>
             <li><a href="/logo-animation/ ">logo animation</a></li>
@@ -14,7 +14,6 @@
             <li><a href="/branding/ ">branding</a></li>
             <!--<li><a href="https://logovalley.co.uk/video-animation ">Video Animation</a></li>-->
             <li><a href="/web-design/ ">website design</a></li>
-            <li><a href="/creative-copy-writing/ ">Creative Copy Writing</a></li>
              
           </ul>
       </li>
@@ -53,7 +52,7 @@
            <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
            <li><p class="countryFlag " title="UK "><span></span>UK</p></li>
          </ul> -->
-         <div class="float-right">
+         <div class="float-right d-none d-lg-block">
           <nav class=" ">
                 <ul class="myNav">
                     <li><p class="countryFlag " title="UK "><span></span>UK</p></li>
@@ -78,7 +77,6 @@
                     
                     
                     <li><a href="/web-design/ ">Website Design</a></li>
-                    <li><a href="/creative-copy-writing/ ">Creative Copy Writing</a></li>
                   </ul>
                 </div>
               </li>
@@ -91,7 +89,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 d-none d-lg-block ">
         <div class="btn-main"><a href="/get-a-custom-quote/ " class=" ">Place Your Order</a></div>
 
         </div>

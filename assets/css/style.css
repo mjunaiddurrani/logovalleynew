@@ -16,6 +16,104 @@
     padding: 0
 }
 
+#who-we-are {
+    padding: 60px 0;
+}
+
+#who-we-are .tab-custom .tabbing-links li {
+    display: inline-block;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: #000;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 0 5px;
+    background: #eaeaea;
+}
+
+#who-we-are .tab-custom .tabbing-links {
+    font-size: 0;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+#who-we-are .tab-custom .tabbing-links li.current {
+    color: #fff;
+    background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
+}
+
+#who-we-are .tabs img {
+    width: 80%;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#who-we-are .wrapcontents {
+    padding-top: 40px;
+}
+
+#who-we-are .wrapcontents h6 {
+    color: #000;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#who-we-are .wrapcontents p {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.prologo .btn-fill,
+.prologo .btn-line-fill {
+    background: #145db1;
+    color: #fff;
+    background: -moz-linear-gradient(left, #f9ad1c 0%, #f9be36 100%);
+    background: -webkit-linear-gradient(left, #7e00dc 0%, #001787 100%);
+    border: 1px solid transparent;
+    -webkit-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    transform: translateY(0rem);
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+}
+
+.btn-line-fill {
+    background: none;
+    border: 0;
+    height: 45px;
+    box-sizing: border-box;
+    padding: 13px 15px;
+    font-family: 'Roboto', sans-serif;
+    color: #145db1;
+    font-size: 11px;
+    position: relative;
+    vertical-align: top;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 600;
+    min-width: 230px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px solid rgb(36, 77, 154);
+    border-radius: 5px;
+    -webkit-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    font-weight: 500;
+}
+
+.section_title h3 {
+    text-align: center;
+}
+
 ::-moz-selection {
     background: var(--primary-color);
     color: var(--theme-white);
@@ -549,22 +647,32 @@ a {
 .top-info-list li a:hover {
     color: #fff
 }
-.phoneNumber{
+
+.phoneNumber {
     color: #fff;
 }
-.fixed .phoneNumber{
+
+.inner-pages .phoneNumber {
     color: #000;
 }
-.phoneNumber:hover{
-    color: #cc007c ;
+
+.fixed .phoneNumber {
+    color: #000;
 }
+
+.phoneNumber:hover {
+    color: #cc007c;
+}
+
 .nav-area-full {
     padding: 25px 0;
     width: 100%
 }
-.myNav li{
-    float:left;
+
+.myNav li {
+    float: left;
 }
+
 .logo {
     width: 50%;
     margin: 0;
@@ -975,7 +1083,12 @@ a {
     width: 100%;
     height: 100%;
 }
-.bnr-slider .inner-banner-content {margin-top:27%;}
+
+.bnr-slider .inner-banner-content {
+    margin-top: 24%;
+}
+
+
 /*.home .smm-banner .banner-from{    margin-top: 80px;}*/
 
 .inner-banner-content h1 {
@@ -3848,10 +3961,10 @@ footer .social-full {
     .struggle-img {
         width: 100% !important;
     }
-    .counter ul li a .wrap {
+    /* .counter ul li a .wrap {
         width: 100% !important;
         font-size: 19px !important;
-    }
+    } */
     .listsec .wrap ul li {
         width: 100% !important;
     }
@@ -3867,6 +3980,9 @@ footer .social-full {
 }
 
 @media only screen and (max-width:767px) {
+    .home-form {
+        top: 600px !important;
+    }
     .home-banner {
         height: 380px
     }
@@ -4058,56 +4174,6 @@ footer .social-full {
     margin: 0 auto;
     width: 70%;
     display: table;
-}
-
-.counter {
-    display: block;
-    margin-top: -20px;
-}
-
-.counter ul {
-    display: inline-block;
-    width: 100%;
-    margin-bottom: -8px;
-}
-
-.counter ul li {
-    width: 33.33%;
-    float: left;
-    padding: 30px 50px
-}
-
-.counter ul li:nth-child(1) {
-    background: #272b34
-}
-
-.counter ul li:nth-child(2) {
-    background: #22262f
-}
-
-.counter ul li:nth-child(3) {
-    background: #171b23
-}
-
-.counter ul li a:hover {
-    color: #fff
-}
-
-.counter ul li a figure {
-    float: left;
-    width: 17%;
-    margin-bottom: 0
-}
-
-.counter ul li a figure img {
-    max-width: 64px
-}
-
-.counter ul li a .wrap {
-    width: 75%;
-    float: right;
-    color: #fff;
-    font-size: 22px
 }
 
 .strugglesec {
@@ -4567,7 +4633,7 @@ input:checked+.toggle:before {
 }
 
 .pkbtn {
-    margin-top: -28px;
+    margin-top: -61px;
     text-align: center;
     clear: both;
     z-index: 9;
@@ -5163,9 +5229,11 @@ input:checked+.toggle:before {
     font-size: 13px;
     background-image: linear-gradient(to right, #8335d6, #b00fb3, #c7008f, #cf006e, #cd2153);
 }
-.btn-main a{
-    color:#fff;
+
+.btn-main a {
+    color: #fff;
 }
+
 .btn-main:hover {
     color: #fff!important;
     background: #000;
@@ -6837,6 +6905,9 @@ ul.banner-points li:before {
 }
 
 @media only screen and (max-width:360px) {
+    .topformcontainer {
+        width: 280px!important;
+    }
     .ranking {
         height: 247px;
         padding: 28px 7% 0
@@ -7204,7 +7275,7 @@ ul.banner-points li:before {
 }
 
 .btns .btn-secondary {
-    margin-right: 10px;
+    margin: 0 10px 10px 0;
 }
 
 
@@ -7738,6 +7809,16 @@ div.doublewrap ul li.heading:before {
 }
 
 @media only screen and (max-width:767px) and (min-width:0px) {
+    .topformcontainer .topformwrap {
+        height: 355px!important;
+        margin: 25PX auto!important;
+    }
+    .bnr-slider .inner-banner-content {
+        margin-top: 12%;
+    }
+    .inner-banner-content h1 {
+        font-size: 34px!important;
+    }
     .mobile-nav nav li a.active,
     .mobile-nav-btn span,
     .mobile-nav-btn span:before,
@@ -8115,7 +8196,7 @@ div.doublewrap ul li.heading:before {
         font-size: 16px
     }
     .inner-banner-content {
-        padding: 40px 0 0;
+        padding: 80px 0 0;
         margin-top: 0
     }
     .inner-pages .inner-banner {
@@ -8594,15 +8675,9 @@ p.small {
 }
 
 @media only screen and (max-width: 375px) {
-    .home-form {
-        top: 550px;
-    }
     .btn-secondary {
         padding: 14px 20px;
         font-size: 13px;
-    }
-    .scnd-line .hlpwrap li {
-        width: 100%;
     }
     .strugglesec .text-left {
         text-align: center !important;
@@ -8780,7 +8855,9 @@ p.small {
 
 .banform {}
 
-.ban-form {}
+.ban-form {
+    padding: 15px 0;
+}
 
 .ban-form input {
     width: 100%;
@@ -8921,7 +8998,7 @@ p.small {
 }
 
 .topformcontainer {
-    width: 360px;
+    width: 320px;
     z-index: 9;
     margin: 50PX auto;
 }
@@ -8937,7 +9014,7 @@ p.small {
 .topformcontainer .topformwrap {
     background: #00000059;
     /* padding: 30px; */
-    height: 470px;
+    height: 480px;
     -webkit-transition: 0.6s;
     -moz-transition: 0.6s;
     -o-transition: 0.6s;
@@ -8962,14 +9039,14 @@ p.small {
 
 .per-box1 {
     display: inline-block;
-    width: 32%;
+    width: 20%;
     vertical-align: top;
     padding: 25px 10px 0 0;
 }
 
 .per-box2 {
     display: inline-block;
-    width: 68%;
+    width: 80%;
     vertical-align: top;
     text-align: right;
 }
@@ -9123,4 +9200,172 @@ p.small {
 
 .jack {
     list-style-type: none;
+}
+
+.brandsBg {
+    width: 100%;
+    background: #fff;
+    position: relative;
+    z-index: 2;
+    box-shadow: 0px 0px 8px 1px rgb(119 119 119 / 81%);
+    display: block;
+    -webkit-box-shadow: 0px 6px 20px 0px rgb(119 119 119 / 20%);
+}
+
+.carousel-inner {
+    overflow: hidden;
+    width: 100%;
+}
+
+.brandsslide {
+    float: left;
+    width: 100%;
+    height: 95px;
+    background-color: #fff;
+    background: #fff;
+}
+
+.brandsslide p {
+    float: left;
+    width: 100%;
+    padding: 15px 41px;
+    color: #000;
+    text-align: center;
+}
+
+@media (max-width:1212px) {
+    .counter ul li {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:767px) and (min-width:0px) {
+    .topformcontainer .topformwrap {
+        height: 355px!important;
+        margin: 25PX auto!important;
+    }
+    .topformcontainer {
+        margin: 25PX auto;
+    }
+    .bnr-slider .inner-banner-content {
+        margin-top: 12%;
+    }
+    .inner-banner-content h1 {
+        font-size: 34px!important;
+    }
+    .scnd-line .hlpwrap li {
+        width: 100%;
+    }
+}
+
+.counter {
+    display: block;
+}
+
+.counter ul {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: -6px;
+    font-size: 0;
+    display: flex;
+}
+
+.counter ul li {
+    width: 25%;
+    float: left;
+    padding: 30px 50px;
+}
+
+.counter ul li:nth-child(1) {
+    background: #ffa739;
+    padding: 33.7px 30px;
+}
+
+.counter ul li:nth-child(2) {
+    background: #fb5f39;
+}
+
+.counter ul li:nth-child(3) {
+    background: #921a5e;
+}
+
+.counter ul li:nth-child(4) {
+    background: #32347a;
+}
+
+.counter ul li a {
+    cursor: default;
+}
+
+.counter ul li a figure {
+    float: left;
+    width: 25%;
+    margin-bottom: 0;
+}
+
+.counter ul li a figure img {
+    max-width: 64px;
+}
+
+.counter figure img {
+    display: block;
+    max-width: 100%;
+    min-height: 100%;
+    opacity: 0.8;
+    position: relative;
+}
+
+.counter ul li a .wrap {
+    width: 70%;
+    float: right;
+    color: #fff;
+    font-size: 22px;
+    /* margin-left: 45px; */
+}
+
+.counter ul li a .wrap span.small {
+    color: #fff;
+    font-size: 12px;
+}
+
+.counter ul li a .wrap span {
+    display: inline-block;
+    color: #fff;
+}
+
+.counter ul li a .wrap p {
+    color: #fff;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.partners-cta ul {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .counter ul {
+        display: inline-block!important;
+    }
+    .counter ul li {
+        width: 100%!important;
+    }
+    .iner-pkgewrp {
+        padding-top: 150px!important;
+    }
+    .iner-pkgewrp .mainwrp .btnwrp {
+        padding: 20px 0 28px;
+    }
+    .iner-pkgewrp .mainwrp .chatdiv a {
+        display: block;
+    }
+    .iner-pkgewrp .txtwrp h2 {
+        font-size: 40px;
+    }
+    .iner-pkgewrp .mainwrp {
+        padding: 30px 40px;
+    }
+    .iner-pkgewrp .mainwrp::after {
+        display: none;
+    }
 }

@@ -1,7 +1,4 @@
 <?php
-ob_start();
-session_start();
-
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
@@ -44,7 +41,11 @@ $response = curl_exec($curl);
 curl_close($curl);
 
 $decodeResponse = json_decode($response);
-$_SESSION['successMsg'] = "Thankyou for contacting us! We will get back to you soon";
+$msg = $decodeResponse[1];
 
+session_start();
+$_SESSION['thanksMsg'] = $msg;
+if(isset($_SESSION['thanksMsg'])){
+header("location:/thank-you/");
+}
 
-header("location:$route");

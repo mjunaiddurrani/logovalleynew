@@ -31,7 +31,10 @@
         <p>Looking for a way to contact us? You can contact us anytime by filling out the form below or by manually sending out an email at marketing@logovalley.co.uk </p>
         <div class="form-box-main clearfix">
           <h2>We would like to hear from you</h2>
-          <form class="cmxform" id="contactForm" method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">
+          <form class="cmxform" id="contactForm" method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
             <div class="row">
               <div class="col-md-6">
                 <label class="field-txt">Name <span>*</span></label>

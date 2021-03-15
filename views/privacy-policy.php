@@ -8,110 +8,16 @@
 <title>Privacy Policy - logovalley</title>
 
 
-
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
-<link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
-<link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-<!--<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i" rel="stylesheet">-->
-<!--<link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap" rel="stylesheet">-->
-<!--<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">-->
-<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&amp;display=swap" rel="stylesheet">
-
-<!--[if IE]>
-  <script src="assets/js/html5.js"></script>
-<![endif]-->
-
-
-
-
-<meta name="google-site-verification" content="GMCEemP7NZo0d5K84S3io313i7kQYlTzl3BQXLnpOFc" />
-<link rel="canonical" href="index.html"/>
-<link rel="alternate" href="index.html" hreflang="en-gb" />
-<meta property="og:title" content="Best Logo Design Company in UK " />
-<meta property="og:type" content=" website" />
-<meta property="og:url" content="index.html">
-
-<meta property="og:site_name" content="logovalley" />
-<meta property="og:description" content="Best Logo design Company in UK, providing reliable Logo services you need to hire a top level Logo Design agency  that’s focus on providing you">
-
-
-<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","../chimpstatic.com/mcjs-connected/js/users/6796a19bfb3e8c37059d0263e/f2c59baf51d0c638a736e9c85.js");</script></head>
+<?php include_once('include/styles.php');?>
+</head>
 <body class="inner-pages policypg">
 
 
 
-<meta name="p:domain_verify" content="c51b29139901c6e3a21415ec24cae5b7"/>
-<noscript>
-    
-<div id="jqcheck"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T2NkwAHePzrxf3ebL1jWp/0oA5egGiM2pVgFQQq31uj/N/ANZvj+8T3D7aNHGDwbTxNvwKtbO/9f3dLHYJ+axfDn5w+GI/NnMRhFtTEISJtjGIIh8Pv39/87ak0ZzCLiGMRUNMCufnLxDMOlrZsY3JtOMrCwsKPowTDg3tGZ/59f2sVgFRvPkO+bAzZgwsZJDEcXzWNQtIlikDGIwG3Az+9v/+9qsGOwTc1h4JeQhhswcfMUhrcP7zEcXzyXwb3xMAMbuwDcEBTTzi7P/s/M8IFB3zccbDPMBSADQODs2sUMzFwyDIah/ZgGfHt/7/+BvmAGm+RsBl4RMawGfHr5jOHowlkMjiUbGDj55MCGwE060Of1X0RZi0Hb2Q4e3eguAElc2X2A4e2DmwwOhVsRBnx6cfH/yXm5DFZxyQxcAoJ4Dfj24T3DsUVzGcwSJjLwSxkygk3ZVmv4X805gkHZRBNXwkQRv3/+NsP1nUsYvFvOMzI+PLXo/73DSxgsouIYOHj5UBRi8wJIwY8vnxlOLV/CIGcewsC4vkDhv01yLoOIoiqG7bgMACn88Owxw8HpvQyMGwqV/vs19TMwQnxDEthYW8DAeGCC3/9XN46TpBGmWEzDkoHx06dP/z9//kyWAby8vAwAcza2SBMOSCMAAAAASUVORK5CYII=" alt="No Script" /> Javascript is disabled. Please enable it for better working experience.</div>
-</noscript>
+
 
 
 <div class="ys-layer"></div>
-<!--<div class="ys-container" id="ys-container">-->
-<!--   <div class="ys-box">-->
-<!--       <a class="ys-popup-close ys-exit" href="#">x</a>-->
-       
-<!--       <div class="ys-popup-content">-->
-            
-
-<!--           <div class="popupform tabform clearfix  ">-->
-             
-<!--             <h3 class="main-heading"><span>Get Special</span> Discount</h3>-->
-<!--             <figure>-->
-<!--               <img class="lazy" src="assets/images/pop-up-image.svg" alt="">-->
-<!--             </figure>-->
-<!--             <P>Don't miss out on special discount offer</P>-->
-<!--             <form id="popupfrm" class="cmxform"  method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">-->
-
-<!--               <div class="fldst">-->
-<!--                 <input id="username" name="Name" minlength="2" type="text" placeholder="Full Name" required />-->
-<!--               </div>-->
-
-<!--               <div class="fldst fldstrght">-->
-<!--                 <input id="cemail" type="Email" name="Email" placeholder="Email Address" required>-->
-<!--               </div>-->
-
-<!--               <div class="fldst">-->
-<!--                      <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />-->
-<!--                     <script type="text/javascript">-->
-<!--                      document.getElementById('location').value = window.location.href;-->
-<!--        </script>-->
-                      
-<!--        <input type="hidden" id="location" name="SiteUrl" value="http://logovalley.co.uk/privacy-policy" />-->
-<!--                      <input type="hidden" name="hiddencapcha" value="">-->
-<!--                      <input type="hidden" name="ctry" value="">-->
-<!--                      <input type="hidden" name="pc" value="">-->
-<!--               </div>-->
-
-<!--                <div class="fldst">-->
-<!--                 <textarea name="Message" placeholder="Enter a brief description of your Book Project"></textarea>-->
-
-<!--               </div> -->
-
-               
-<!--               <div class="fldst btnattach">-->
-<!--                 <button type="submit" value="Submit" class="btn-theme-outline btn btn-white btn-animate"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
-<!--                 <script>-->
-<!--                  document.getElementById('location').value = window.location.href;-->
-<!--                  </script>-->
-<!--                  <input type="hidden" name="hiddencapcha" value="">-->
-<!--                  <input type="hidden" id="location" name="locationURL" value="http://logovalley.co.uk/privacy-policy" />-->
-<!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+442038087061">+44-203-808-7061</a></span></p>-->
-<!--             </form>-->
-<!--           </div>-->
-<!--       </div>-->
-<!--   </div>-->
-<!--</div>-->
-
-
 
 
 
@@ -151,108 +57,7 @@
 <div class="mobile-nav-btn"> <span class="lines"></span> </div>
 <!-- Mobile Navigation Button End-->
 
-<header class="header-main">
-  <!-- <div class="top-bar d-none d-lg-block">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <ul class="top-info-list">
-            <li><span class="icon-envelope2"></span> <a href="javascript:;">info@domain.com</a> </li>
-            <li><span class="icon-phone2"></span>Call Us:  111-222-333 </li>
-            <li><span class="icon-user"></span> <a href="javascript:;" onclick="setButtonURL();" >Live Chat</a> </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div> -->
-  <div class="nav-area-full">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3 logo-area">
-          <div class="logo">
-            <a href="index.html">
-              <img class="img-fluid white" src="assets/images/logo-dark.png" alt="*" />
-              <img class="img-fluid black" src="assets/images/logo-light.png" alt="*" />
-              
-              <!-- <h2 style="padding: 10px 0;">logovalley  <span>   Logo </span></h2> -->
-            </a>
-          </div>
-        </div>
-        <div class="col-lg-9 d-flex">
-          <div class="main-menu align-self-center d-none d-lg-block">
-            <ul>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="about.html">About</a></li>
-              <li><a href="javascript:;">Services</a>
-                <div class="dropdown">
-                  <ul>
-                    <li><a href="logo-design.html">Logo Design</a></li>
-                    <li><a href="logo-animation.html">Logo Animation</a></li>
-                    <li><a href="2d-illustration.html">2D/3D Illustration</a></li>
-                    <li><a href="branding.html">Branding</a></li>
-                    <!--<li><a href="https://logovalley.co.uk/video-animation">video animation</a></li>-->
-                    
-                    
-                    <li><a href="web-design.html">Website Design</a></li>
-                    <li><a href="creative-copy-writing.html">Creative Copy Writing</a></li>
-                  </ul>
-                </div>
-              </li>
-              
-              <li><a href="package.html">Packages</a></li>
-              <li><a href="combo-package.html">Combo Packages</a></li>
-              <!-- <li><a href="https://logovalley.co.uk/blog/">blog</a></li> -->
-              <li><a href="Showcase.html"> Showcase</a></li>
-              <li><a href="contact.html">Contact</a></li>
-              <li><a href="tel:+442038087061">+44-203-808-7061</a></li>
-              <li><a href="get-a-custom-quote.html" class="btn-main">Get A Quote</a></li>
-              <li><p class="countryFlag" title="UK"><span></span>UK</p></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!--<div class="sticky-container">-->
-  <!--  <ul class="sticky">-->
-  <!--    <li><a href="https://www.facebook.com/SEO-Pro-Hub-157773991585340/"> <img alt="facebook" src="assets/images/facebook.png" />-->
-  <!--      <p>Facebook</p>-->
-  <!--      </a>-->
-  <!--    </li>-->
-  <!--    <li><a href="https://twitter.com/logovalley"> <img alt="twitter" src="assets/images/twitter.png" />-->
-  <!--      <p>Twitter</p>-->
-  <!--      </a> -->
-  <!--    </li>-->
-  <!--    <li><a href="https://plus.google.com/u/0/109457707691027840424"> <img alt="Google plus" src="assets/images/gplus.png" />-->
-  <!--      <p>Google plus</p>-->
-  <!--      </a> -->
-  <!--    </li>-->
-      
-  <!--    <li><a href="https://www.linkedin.com/company/logovalley/"> <img alt="LinkedIn" src="assets/images/linkedin.png" />-->
-  <!--      <p>LinkedIn</p>-->
-  <!--      </a> -->
-  <!--    </li>-->
-  <!--    <li><a href="https://www.instagram.com/logovalley/"> <img alt="Instagram" src="assets/images/instagram.png" />-->
-  <!--      <p>Instagram</p>-->
-  <!--      </a> -->
-  <!--    </li>-->
-  <!--    <li><a href="https://medium.com/@logovalley"> <img alt="Medium" src="assets/images/medium.png" />-->
-  <!--      <p>Medium</p>-->
-  <!--      </a> -->
-  <!--    </li>-->
-  <!--    <li><a href="https://www.pinterest.com/logovalley/"> <img alt="Pintrest" src="assets/images/pintrest.png" />-->
-  <!--      <p>Pintrest</p>-->
-  <!--      </a> -->
-  <!--    </li>-->
-  <!--    <li><a href="https://vimeo.com/logovalley"> <img alt="Vimeo" src="assets/images/vimeo.png" />-->
-  <!--      <p>Vimeo</p>-->
-  <!--      </a> -->
-  <!--    </li>-->
-  <!--  </ul>-->
-  <!--</div>-->
-</header>
-
-
+<?php include_once('include/header.php');?>
 
 
 
@@ -285,131 +90,8 @@
     </div>
   </div>
 </section>
-<footer class="footer-main">
-  <div class="footer-top">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 address-main">
-          
-          <div class="flogo">
-            <figure>
-              <img class="lazy" src="assets/images/logo-dark.png">
-            </figure>
-            <br>
-           <a href="http://www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img class="lazy" src="" data-src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a>
-            <script src="../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-           <img class="lazy" src="assets/images/verified.png" style="max-width: 50px;margin-left: 20px">
-          </div>
-          
-        </div>
 
-<!--         <div class="col-lg-4">
-          <div class="tools">
-            <h3>TOOLS / METRICS WE ARE USE: </h3>
-            <p>Semrush, ahref, SeoToolbox, Spyfu, Screaming Frog</p>
-            <ul>
-              <li>
-                <figure>
-                  <img src="assets/images/semrush.png">
-                </figure>
-              </li>
-
-              <li>
-                <figure>
-                  <img src="assets/images/thumb_ahrefs.png">
-                </figure>
-              </li>
-
-              <li>
-                <figure>
-                  <img src="assets/images/spyfu-logo.png">
-                </figure>
-              </li>
-
-              <li>
-                <figure>
-                  <img src="assets/images/seositecheckup.png">
-                </figure>
-              </li>
-
-              <li>
-                <figure>
-                  <img src="assets/images/screaming-frog.png">
-                </figure>
-              </li>
-            </ul>
-          </div>
-        </div> -->
-
-        <div class="col-lg-6">
-          <!-- <div class="subscribe-main">
-            <input type="text" placeholder="email address">
-            <input type="submit" value="Submit">
-          </div> -->
-          <div class="wrapper">
-            <ul class="footer-nav">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="package.html">Packages</a></li>
-              <li><a href="Showcase.html">Showcase</a></li>
-              <li><a href="contact.html">Contact Us</a></li>
-              
-            </ul>
-
-            <div class="tools text-right">
-            <ul>
-              <li>
-                <figure>
-                  <img class="lazy" src="assets/images/card-brands.svg">
-                </figure>
-              </li>
-            </ul>
-          </div>
-
-           
-            
-          </div>
-        </div>
-       
-      </div>
-    </div>
-  </div>
-  <div class="footer-bottom">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-8">
-          <p class="copyright">&copy;  logovalley <span id="year"></span>. All rights reserved.   &nbsp; &nbsp; </p>
-          <p class="copyright second"><span class="registerbox">DBA logovalley UK is a company registered <br>in Blackburn Lancashire</span></p>
-        </div>
-        <div class="col-sm-4">
-          <ul class="footer-nav2">
-            <li><a href="terms-and-conditions.html" title=""> Terms of Services</a></li>
-            <li><a href="privacy-policy.html" title="">Privacy Policy</a></li>
-          </ul>
-           <ul class="ftr-social">
-              <li><a target="_blank" href="https://www.facebook.com/logovalley-Logo-102555771519831/"><span class="icon-facebook"></span></a></li>
-              <li><a target="_blank" href="https://www.instagram.com/logovalley.logo/"><span class="icon-instagram"></span></a></li>
-              <li>
-                  <li><a target="_blank" href="https://twitter.com/Logologovalley"><span class="icon-twitter"></span></a></li>
-              <li>
-              <img class="lazy" src="assets/images/flags/uk.png">
-            </li>
-            </ul>
-        </div>
-        
-      </div>
-    </div>
-  </div>
-  <!-- <div class="disclaimer-area">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          <p class="disclaimer"><strong>Disclaimer:</strong><br>
-            The logo, name and graphics of GAC and its products and services are the trademarks of GAC. All other company names, brand names, trademarks and logos mentioned on this website are the property of their respective owners and do not constitute or imply endorsement, sponsorship or recommendation thereof by GAC and do not constitute or imply endorsement, sponsorship or recommendation of GAC by the respective trademark owner.</p>
-        </div>
-      </div>
-    </div>
-  </div> -->
-</footer>
+<?php include_once('include/footer.php');?>
 </main>
 
 
@@ -458,7 +140,10 @@
         <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 40% DISCOUNT</span></h3>
         <div class="form_wrap">
           <div class="analyzeform ">
-            <form class="" id="banform" method="POST" action="https://logovalley.co.uk/webpages/packageFormController.php">
+            <form class="" id="banform" method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
+          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="tag" value="home-section">
+          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
               <div class="row">
                 <div class="wrap">
                   <div class="dtf">
