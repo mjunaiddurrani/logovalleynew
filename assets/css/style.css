@@ -9608,6 +9608,35 @@ p.small {
     -o-transition: all .3s ease-out;
     transition: all .3s ease-out
 }
+.btn-fill {
+    background-color: #145db1;
+    color: #fff;
+    text-decoration: none;
+    height: 45px;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    display: inline-block;
+    padding: 15px 15px;
+    outline: 0;
+    border: none;
+    min-width: 175px;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    border-radius: 5px;
+}
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
 
 .notscroll {
     overflow: hidden
