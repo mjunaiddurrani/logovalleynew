@@ -9678,4 +9678,5 @@ p.small {
     .iner-pkgewrp .mainwrp::after {
         display: none;
     }
+    .floating_wrap{display: none;}
 }
