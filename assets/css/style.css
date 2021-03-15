@@ -8417,6 +8417,7 @@ div.doublewrap ul li.heading:before {
     font-weight: 400;
     font-size: 19px;
     margin: 0 13px;
+    display: block;
 }
 
 .iner-pkgewrp .maindiv {}
@@ -9679,4 +9680,6 @@ p.small {
         display: none;
     }
     .floating_wrap{display: none;}
+    .flogo figure{text-align: center;}
+    .iner-pkgewrp .mainwrp{height: auto;}
 }

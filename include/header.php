@@ -1,6 +1,6 @@
 <div class="ys-layer "></div>
 
-<div class="mobile-nav "> <a href="/" class="logo-main "> <img src="assets/images/logo-light.png " alt="* " /></a>
+<div class="mobile-nav "> <a href="/" class="logo-main "> <img src="/assets/images/logo-light.png " alt="* " /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15 ">
@@ -124,7 +124,7 @@
         <div class="form_wrap">
            <form method="POST" action="/leads/" id="quoteForm" autocomplete="off">
            <input type="hidden" name="route" value="/">   
-                  <input type="hidden" name="brand" value="thewebfounders">   
+                  <input type="hidden" name="brand" value="logovalley">   
                   <input type="hidden" name="tag" value="modal-auto">
                   <input type="hidden" name="price" value="null">
                   <input type="hidden" name="news" value="1">
