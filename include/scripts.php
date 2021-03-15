@@ -227,7 +227,12 @@ $(".fancybox").fancybox({
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
 
+<script>
+$('.freeCons').click(function(){
 
+$('.floating_form').toggleClass("open");
+})
+</script>
 
 
 

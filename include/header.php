@@ -116,7 +116,7 @@
     <div class="floating_form">
       <div class="floating_strip">
         <div class="rotatekaro">
-          <a href="javascript:;" class="">Get Free Consultancy</a>
+          <a href="javascript:;" class="freeCons">Get Free Consultancy</a>
         </div>
       </div>
       <div class="floating_inner">
