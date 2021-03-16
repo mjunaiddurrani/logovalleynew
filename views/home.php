@@ -1202,7 +1202,7 @@ liveChat">Chat With Us</a>
   </div>
   
   <div class="pkbtn ">
-    <a href="/get-a-qoute/" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
 
   <a href="packages/startup-logo.html " class="btn-detail ">View Details</a>
