@@ -172,30 +172,30 @@
   <div class="container ">
     <div class="row ">
       <!-- <ul class="partnerslider "> --> <!-- this is for slider -->
-      <ul>
-        <li>
-          <figure>
-            <img class="lazy " src="assets/images/logos/clutch-white.png "  alt="* ">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img class="lazy " src="assets/images/logos/good-firms-white.png "  alt="* ">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img class="lazy " src="assets/images/logos/partner1.png " alt="* ">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img class="lazy " src="assets/images/logos/partner2.png " alt="* ">
-          </figure>
-        </li>
-
-   
-      </ul>
+      <div class="col-12">
+        <ul>
+          <li>
+            <figure>
+              <img class="lazy " src="assets/images/logos/clutch-white.png "  alt="* ">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img class="lazy " src="assets/images/logos/good-firms-white.png "  alt="* ">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img class="lazy " src="assets/images/logos/partner1.png " alt="* ">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img class="lazy " src="assets/images/logos/partner2.png " alt="* ">
+            </figure>
+          </li>
+        </ul>
+      </div>  
     </div>
   </div>
 </section>
@@ -1202,7 +1202,7 @@ liveChat">Chat With Us</a>
   </div>
   
   <div class="pkbtn ">
-    <a href="tel:+442038087061 " class="btn-red ">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
 
   <a href="packages/startup-logo.html " class="btn-detail ">View Details</a>
