@@ -2584,7 +2584,7 @@
           <li>The Emblem Logo Design</li>
         </ul>
         <div class="text-center mtpx-25">
-          <a href="get-a-custom-quote-2.html" class="btn-secondary">Lets Get Started</a>
+        <a href="javascript:; " onclick="setButtonURL(); ">Lets Get Started</a>
         </div>
       </div>
     </div>
