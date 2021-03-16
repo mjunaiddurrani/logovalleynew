@@ -30,8 +30,8 @@
 
 
 <meta name="google-site-verification" content="GMCEemP7NZo0d5K84S3io313i7kQYlTzl3BQXLnpOFc" />
-<link rel="canonical" href="index.html"/>
-<link rel="alternate" href="index.html" hreflang="en-gb" />
+<link rel="canonical" href="/"/>
+<link rel="alternate" href="/" hreflang="en-gb" />
 <meta property="og:title" content="Best Logo Design Company in UK " />
 <meta property="og:type" content=" website" />
 <meta property="og:url" content="index.html">
@@ -53,14 +53,14 @@
     <div class="row">
       <div class="col-lg-3">
         <div class="logo">
-            <a href="index.html">
+            <a href="/">
               <img class="img-fluid black" src="/assets/images/logo-light.png" alt="*" />
             </a>
           </div>
       </div>
       <div class="col-lg-9">
         <div class="text-right">
-          <a href="index.html"><i class="fa fa-window-close-o fa-2x" aria-hidden="true"></i></a>
+          <a href="/"><i class="fa fa-window-close-o fa-2x" aria-hidden="true"></i></a>
         </div>
       </div>
     </div>

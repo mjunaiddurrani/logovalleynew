@@ -123,7 +123,7 @@
 </div>
 </div>
 <div class="pkbtn">
-<a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+<a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
 </div>
 <a href="packages/basic-combo.html" class="btn-detail">View Details</a>
 </li>
@@ -289,7 +289,7 @@
 </div>
 </div>
 <div class="pkbtn">
-<a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+<a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
 </div>
 <a href="packages/corporate-combo.html" class="btn-detail">View Details</a>
 </li>
