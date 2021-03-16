@@ -2818,7 +2818,7 @@
           </div>
           <div class="quest-section"> <a class="quest-title" href="#accordion-3">Can I request for revisions?</a>
             <div id="accordion-3" class="quest-content">
-              <p>Yes, you can! As part of your package you can request for revisions. The revisions vary from package to package.</p>
+              <p>Yes, you can! As part of your package you can request for revisions. the number of revisions vary from package to package.</p>
             </div>
           </div>
           <div class="quest-section"> <a class="quest-title" href="#accordion-4">Can I discuss my project with Logo Valley or will they be completely responsible?</a>
