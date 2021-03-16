@@ -24,11 +24,11 @@
 
 
 
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo-light.png" alt="*" /></a>
+<div class="mobile-nav"> <a href="/" class="logo-main"> <img src="assets/images/logo-light.png" alt="*" /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
-      <li><a href="index.html">Home</a></li>
+      <li><a href="/">Home</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
          <ul>

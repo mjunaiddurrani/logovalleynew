@@ -128,7 +128,7 @@
   </div>
   
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
 
   <a href="packages/startup-logo.html" class="btn-detail">View Details</a>
@@ -171,7 +171,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
   </div>
     <a href="packages/professional-logo.html" class="btn-detail">View Details</a>
 </li>
@@ -215,7 +215,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
     <a href="packages/elite-logo.html" class="btn-detail">View Details</a>
 
@@ -260,7 +260,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
   </div>
     <a href="packages/business-logo.html" class="btn-detail">View Details</a>
 </li>
@@ -303,7 +303,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/business-rebranding-logo.html" class="btn-detail">View Details</a>
 </li>
@@ -427,7 +427,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/3d-logo.html" class="btn-detail">View Details</a>
 </li>
@@ -471,7 +471,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/basic-website.html" class="btn-detail">View Details</a>
 </li>
@@ -508,7 +508,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/startup-website.html" class="btn-detail">View Details</a>
 </li>
@@ -548,7 +548,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
   </div>
   <a href="packages/professional-website.html" class="btn-detail">View Details</a>
 </li>
@@ -594,7 +594,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/elite-website.html" class="btn-detail">View Details</a>
 </li>
@@ -649,7 +649,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
   </div>
   <a href="packages/corporate-website.html" class="btn-detail">View Details</a>
 </li>
@@ -711,7 +711,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan </a>
   </div>
   <a href="packages/business-website.html" class="btn-detail">View Details</a>
 </li>
@@ -751,7 +751,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/startup-collateral-branding.html" class="btn-detail">View Details</a>
 </li>
@@ -786,7 +786,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan</a>
   </div>
   <a href="packages/classic-collateral-branding.html" class="btn-detail">View Details</a>
 </li>
@@ -821,7 +821,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/premium-collateral-branding.html" class="btn-detail">View Details</a>
 </li>
@@ -856,7 +856,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/unlimited-collateral-branding.html" class="btn-detail">View Details</a>
 </li>
@@ -901,7 +901,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/2d-standard-animation.html" class="btn-detail">View Details</a>
 </li>
@@ -942,7 +942,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan</a>
   </div>
   <a href="packages/2d-advance-animation.html" class="btn-detail">View Details</a>
 </li>
@@ -983,7 +983,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/3d-standard-animation.html" class="btn-detail">View Details</a>
 </li>
@@ -1024,7 +1024,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/3d-advance-animation.html" class="btn-detail">View Details</a>
 </li>
@@ -1063,7 +1063,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan</a>
   </div>
   <a href="packages/web-content.html" class="btn-detail">View Details</a>
 </li>
@@ -1098,7 +1098,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/article-writing.html" class="btn-detail">View Details</a>
 </li>
@@ -1133,7 +1133,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/creative-writing.html" class="btn-detail">View Details</a>
 </li>
@@ -1169,7 +1169,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/blog-writing.html" class="btn-detail">View Details</a>
 </li>
@@ -1204,7 +1204,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/infographics-writing.html" class="btn-detail">View Details</a>
 </li>        </ul>
@@ -1244,7 +1244,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/basic-2d-illustration.html" class="btn-detail">View Details</a>
 </li>
@@ -1283,7 +1283,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan</a>
   </div>
   <a href="packages/standard-2d-illustration.html" class="btn-detail">View Details</a>
 </li>
@@ -1322,7 +1322,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/advance-2d-illustration.html" class="btn-detail">View Details</a>
 </li>
@@ -1362,7 +1362,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/advance-pro-2d-illustration.html" class="btn-detail">View Details</a>
 </li>
@@ -1401,7 +1401,7 @@
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/premium-pro-2d-illustration.html" class="btn-detail">View Details</a>
 </li>        </ul> 

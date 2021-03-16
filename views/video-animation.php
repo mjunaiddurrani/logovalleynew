@@ -30,8 +30,8 @@
 
 
 <meta name="google-site-verification" content="GMCEemP7NZo0d5K84S3io313i7kQYlTzl3BQXLnpOFc" />
-<link rel="canonical" href="index.html"/>
-<link rel="alternate" href="index.html" hreflang="en-gb" />
+<link rel="canonical" href="/"/>
+<link rel="alternate" href="/" hreflang="en-gb" />
 <meta property="og:title" content="Best Logo Design Company in UK " />
 <meta property="og:type" content=" website" />
 <meta property="og:url" content="index.html">
@@ -126,11 +126,11 @@
 
 
 
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo-light.png" alt="*" /></a>
+<div class="mobile-nav"> <a href="/" class="logo-main"> <img src="assets/images/logo-light.png" alt="*" /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
-      <li><a href="index.html">Home</a></li>
+      <li><a href="/">Home</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
          <ul>
@@ -178,7 +178,7 @@
       <div class="row">
         <div class="col-lg-3 logo-area">
           <div class="logo">
-            <a href="index.html">
+            <a href="/">
               <img class="img-fluid white" src="assets/images/logo-dark.png" alt="*" />
               <img class="img-fluid black" src="assets/images/logo-light.png" alt="*" />
               
@@ -189,7 +189,7 @@
         <div class="col-lg-9 d-flex">
           <div class="main-menu align-self-center d-none d-lg-block">
             <ul>
-              <li><a href="index.html">Home</a></li>
+              <li><a href="/">Home</a></li>
               <li><a href="about.html">About</a></li>
               <li><a href="javascript:;">Services</a>
                 <div class="dropdown">
@@ -1416,7 +1416,7 @@ We are well aware of the fierce competition between different video companies. S
   </div>
   
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
 
   <a href="packages/startup-logo.html" class="btn-detail">View Details</a>
@@ -1459,7 +1459,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
   </div>
     <a href="packages/professional-logo.html" class="btn-detail">View Details</a>
 </li>
@@ -1503,7 +1503,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
     <a href="packages/elite-logo.html" class="btn-detail">View Details</a>
 
@@ -1548,7 +1548,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
   </div>
     <a href="packages/business-logo.html" class="btn-detail">View Details</a>
 </li>
@@ -1591,7 +1591,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/business-rebranding-logo.html" class="btn-detail">View Details</a>
 </li>
@@ -1715,7 +1715,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/3d-logo.html" class="btn-detail">View Details</a>
 </li>
@@ -1759,7 +1759,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/basic-website.html" class="btn-detail">View Details</a>
 </li>
@@ -1796,7 +1796,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/startup-website.html" class="btn-detail">View Details</a>
 </li>
@@ -1836,7 +1836,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
   </div>
   <a href="packages/professional-website.html" class="btn-detail">View Details</a>
 </li>
@@ -1882,7 +1882,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/elite-website.html" class="btn-detail">View Details</a>
 </li>
@@ -1937,7 +1937,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
   </div>
   <a href="packages/corporate-website.html" class="btn-detail">View Details</a>
 </li>
@@ -1999,7 +1999,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan </a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan </a>
   </div>
   <a href="packages/business-website.html" class="btn-detail">View Details</a>
 </li>
@@ -2039,7 +2039,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/startup-collateral-branding.html" class="btn-detail">View Details</a>
 </li>
@@ -2074,7 +2074,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan</a>
   </div>
   <a href="packages/classic-collateral-branding.html" class="btn-detail">View Details</a>
 </li>
@@ -2109,7 +2109,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/premium-collateral-branding.html" class="btn-detail">View Details</a>
 </li>
@@ -2144,7 +2144,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/unlimited-collateral-branding.html" class="btn-detail">View Details</a>
 </li>
@@ -2189,7 +2189,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/2d-standard-animation.html" class="btn-detail">View Details</a>
 </li>
@@ -2230,7 +2230,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan</a>
   </div>
   <a href="packages/2d-advance-animation.html" class="btn-detail">View Details</a>
 </li>
@@ -2271,7 +2271,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/3d-standard-animation.html" class="btn-detail">View Details</a>
 </li>
@@ -2312,7 +2312,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/3d-advance-animation.html" class="btn-detail">View Details</a>
 </li>
@@ -2352,7 +2352,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
 </li>
 
@@ -2387,7 +2387,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
 </li>
 
@@ -2422,7 +2422,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
 </li>
 
@@ -2457,7 +2457,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
 </li>        </ul>
 
@@ -2497,7 +2497,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/basic-2d-illustration.html" class="btn-detail">View Details</a>
 </li>
@@ -2536,7 +2536,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-green">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-green">Buy Your Plan</a>
   </div>
   <a href="packages/standard-2d-illustration.html" class="btn-detail">View Details</a>
 </li>
@@ -2575,7 +2575,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/advance-2d-illustration.html" class="btn-detail">View Details</a>
 </li>
@@ -2615,7 +2615,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-blue">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
   </div>
   <a href="packages/advance-pro-2d-illustration.html" class="btn-detail">View Details</a>
 </li>
@@ -2654,7 +2654,7 @@ We are well aware of the fierce competition between different video companies. S
     </div>
   </div>
   <div class="pkbtn">
-    <a href="tel:+442038087061" class="btn-red">Buy Your Plan</a>
+    <a href="/get-a-quote/" class="btn-red">Buy Your Plan</a>
   </div>
   <a href="packages/premium-pro-2d-illustration.html" class="btn-detail">View Details</a>
 </li>        </ul> 
@@ -2931,7 +2931,7 @@ We are well aware of the fierce competition between different video companies. S
           </div> -->
           <div class="wrapper">
             <ul class="footer-nav">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="/">Home</a></li>
               <li><a href="package.html">Packages</a></li>
               <li><a href="Showcase.html">Showcase</a></li>
               <li><a href="contact.html">Contact Us</a></li>
