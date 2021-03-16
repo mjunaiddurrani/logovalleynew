@@ -2472,6 +2472,88 @@
   </div>
 </div>
 
+<div class="contest-list__item fullwidth">
+            <div class="doublewrap">
+                <figure class="left">
+                  <img src="https://logocottage.co.uk/img/packages-icon/comb.svg">
+                </figure>
+                <figure class="right">
+                  <img src="https://logocottage.co.uk/img/packages-icon/badge.svg">
+                </figure>
+              <h6>COMBO PACKAGE</h6>
+              <h3>GROWTH SEEKER PACKAGE</h3>
+              
+              <div class="row">
+                <ul class="col-lg-4 jack">
+                  <li class="heading">Logo Design</li>
+                  <li>5 Custom Logo Design Concepts</li>
+                  <li>By 2 Designers</li>
+                  <li>Icon Design</li>
+                  <li>File Formats (PSD, PDF, AI, JPEG, PNG)</li>
+                  <li class="heading">Stationary</li>
+                  <li>Business Card, Letterhead, Envelope, Fax Template</li>
+                  <li>MS Word Letterhead</li>
+                  <li class="heading">Social Media</li>
+                  <li>Facebook Page Design</li>
+                  <li>Twitter Page Design</li>
+                  
+                  
+                </ul>
+                <ul class="col-lg-4 jack">
+                  <li class="heading">&nbsp;</li>
+                  <li>YouTube Page Design</li>
+                  <li>Google+ Page Design</li>
+                  <li>Instagram Page Design </li>
+                  <li>All Final File Formats</li>
+                  <li class="heading">Website</li>
+                  <li>10 Pages Website</li>
+                  <li>CMS / Admin Panel</li>
+                  <li>Mobile Responsive</li>
+                  <li>Team of Expert Designers &amp; Developers</li>
+                  <li>8 Stock images</li>
+                  <li>5 Banner Designs</li>
+                  
+                </ul>
+                <ul class="col-lg-4 jack">
+                <li class="heading">&nbsp;</li>
+                <li>jQuery Sliders</li>
+                  <li>Free Google Friendly Sitemap</li>
+                  <li>Complete W3C Certified HTML</li>
+                  <li>Complete Deployment</li>
+                  <li class="heading">Value Added Services</li>
+                  <li>All Final File Formats</li>
+                  <li>Dedicated Account Manager</li>
+                  <li>100% Ownership Rights</li>
+                  <li>100% Satisfaction Guarantee</li>
+                  <li>100% Unique Design Guarantee</li>
+                  <li>100% Money Back Guarantee</li>
+                  
+
+                </ul>
+              </div>
+
+              <div class="row">
+                <div class="col-lg-7">
+                  <div class="chatt">
+                    <div class="actions"> <a class="action-no"> <i class="fa fa-phone-square"></i> +442038087061 </a> <a class="action-chat" onclick="$zopim.livechat.window.toggle()"> <i class="fa fa-wechat"></i> LIVE CHAT</a> </div>
+                    <h2>For more information speak with us</h2>
+                  </div>
+                </div>
+                <div class="col-lg-5">
+                  <div class="priccc">
+                    
+                    <span class="old-price">£1,798<small></small><i class="cut"></i></span> 
+                    <span class="price">£899<small></small></span>
+                  </div>
+                  <div class="wrapk">
+                    <input class="btn btn-green" onclick="$zopim.livechat.window.toggle()" type="submit" value="ORDER NOW">
+                    <p class="nichaywala">20% more OFF on Next Order</p>
+                    <a onclick="$zopim.livechat.window.toggle()" style="cursor:pointer" class="view-detail">GET DETAILS</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
 <section class="cta">
   <div class="container">
