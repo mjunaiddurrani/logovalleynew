@@ -307,7 +307,7 @@
                   <div class="wrapcontents">
                     <h6> Illustrative Design </h6>
                     <p> If you want to create a work of art – illustrative logos are the best fit as it contains intricate artwork. It will act as a trendy as well as contemporary image of your brand and keep the viewers attention longer than the traditional logo design. We at <span class="text-grad">Logo Valley</span> use latest tools and technology to create a remarkable illustrative logo for your brand. </p>
-                    <a href="javascript:;" data-toggle="modal" onclick="order_now_value(this)" name="for $19" data-target="#SignupModal" class="btn-line-fill ali-fill">Let's Get Started</a> </div>
+                    <a href="javascript:;" onclick="setButtonURL();" >Let's Get Started</a> </div>
                 </div>
               </div>
             </div>

@@ -81,11 +81,11 @@
       <div class="row">
         <div class="col-lg-6">
           <h2>Our Culture</h2>
-          <p>Logovalley Logo encourages a positive and friendly team culture from which naturally transpires creativity, eagerness, innovation and excitement about the results we yield for our customers. Our work philosophy and tireless team efforts are reflected in the relationships we build with our customers where outstanding customer service and transparency is guaranteed. Our customers are our priority and this service based attitude is what got us here and made us an award winning digital agency.</p>
+          <p>Logo Valley encourages a positive and friendly team culture from which naturally transpires creativity, eagerness, innovation and excitement about the results we yield for our customers. Our work philosophy and tireless team efforts are reflected in the relationships we build with our customers where outstanding customer service and transparency is guaranteed. Our customers are our priority and this service based attitude is what got us here and made us an award winning digital agency.</p>
           <h5>Our valued client</h5>
           <p>Our performances are directly proportional to the satisfaction of our clients which is why we focus on going new lengths to make sure we engrave our name in gold. We’ve partnered with corporations and rising startups all over the world.</p>
           <h5>Team</h5>
-          <p>Logovalley Logo is the team of bright creative people from various areas: logo design, logo animation, branding, 2D illustration, web development, video animation. We are all united with a desire to do our work the best way possible. We aren’t afraid of challenges and know the power of teamwork. Let’s work together!</p>
+          <p>Logo Valley is the team of bright creative people from various areas: logo design, logo animation, branding, 2D illustration, web development, video animation. We are all united with a desire to do our work the best way possible. We aren’t afraid of challenges and know the power of teamwork. Let’s work together!</p>
         </div>
         <div class="col-lg-6">
           <figure>
@@ -101,7 +101,7 @@
       <div class="row">
         <div class="col-lg-12">
           <h1>Why Partnership With US?</h1>
-          <p>Logovalley Logo is a user experience, design and innovation company. We find true happiness in delivering digital solutions across all industries. Lift your relationship with the users through unique human-centered experiences. Based on research, we design for both your users and business needs. </p>
+          <p>Logo Valley is a user experience, design and innovation company. We find true happiness in delivering digital solutions across all industries. Lift your relationship with the users through unique human-centered experiences. Based on research, we design for both your users and business needs. </p>
         </div>
       </div>
       <div class="row">
@@ -264,7 +264,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Logovalley Logo",
+  "name": "Logo Valley",
   "url": "https://logovalley.co.uk/",
   "logo": "https://logovalley.co.uk/assets/images/logo-dark.png"
 }

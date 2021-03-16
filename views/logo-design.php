@@ -310,7 +310,7 @@
                   <div class="wrapcontents">
                     <h6> Illustrative Design </h6>
                     <p> If you want to create a work of art – illustrative logos are the best fit as it contains intricate artwork. It will act as a trendy as well as contemporary image of your brand and keep the viewers attention longer than the traditional logo design. We at <span class="text-grad">Logo Valley</span> use latest tools and technology to create a remarkable illustrative logo for your brand. </p>
-                    <a href="javascript:;" data-toggle="modal" onclick="order_now_value(this)" name="for $19" data-target="#SignupModal" class="btn-line-fill ali-fill">Let's Get Started</a> </div>
+                    <a href="javascript:;" onclick="setButtonURL();" >Let's Get Started</a> </div>
                 </div>
               </div>
             </div>
@@ -423,7 +423,7 @@
                   <div class="wrapcontents">
                     <h6> Illustrative Design </h6>
                     <p> If you want to create a work of art – illustrative logos are the best fit as it contains intricate artwork. It will act as a trendy as well as contemporary image of your brand and keep the viewers attention longer than the traditional logo design. We at <span class="text-grad">Logo valley</span> use latest tools and technology to create a remarkable illustrative logo for your brand. </p>
-                    <a href="javascript:;" data-toggle="modal" onclick="order_now_value(this)" name="for $19" data-target="#SignupModal" class="btn-line-fill ali-fill">Let's Get Started</a> </div>
+                    <a href="javascript:;" onclick="setButtonURL();" >Let's Get Started</a> </div>
                 </div>
               </div>
             </div>
@@ -2724,9 +2724,9 @@
     <div class="row">
       <div class="col">
         <div class="accordion">
-          <div class="quest-section"> <a class="quest-title " href="#accordion-1">What is logovalley Logo?</a>
+          <div class="quest-section"> <a class="quest-title " href="#accordion-1">What is Logo Valley?</a>
             <div id="accordion-1" class="quest-content">
-              <p>logovalley Logo is a creative design agency with expertise in brand identity development solutions. Our services include brand development & re-branding, back-end development, web design and development, brand identity solutions and much more.</p>
+              <p>Logo Valley is a creative design agency with expertise in brand identity development solutions. Our services include brand development & re-branding, back-end development, web design and development, brand identity solutions and much more.</p>
             </div>
           </div>
           <div class="quest-section"> <a class="quest-title" href="#accordion-2">I can’t choose a package, what do I do?</a>
@@ -2739,7 +2739,7 @@
               <p>Yes, you can! As part of your package you can request for revisions. The revisions vary from package to package.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-4">Can I discuss my project with logovalley Logo or will they be completely responsible?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-4">Can I discuss my project with Logo Valley or will they be completely responsible?</a>
             <div id="accordion-4" class="quest-content">
               <p>We encourage customers in talking to us. We love to push ideas that they already have, partly why we also require a design brief from our customer. However, if you don’t have anything specific in mind regarding your project, our professionals can take care of the projects ourselves.</p>
             </div>
@@ -2765,7 +2765,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "logovalley Logo",
+  "name": "Logo Valley",
   "url": "https://logovalley.co.uk/",
   "logo": "https://logovalley.co.uk/assets/images/logo-dark.png"
 }

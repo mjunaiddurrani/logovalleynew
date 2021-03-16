@@ -11,7 +11,7 @@ if (isset($_SERVER['HTTPS'])) {
 
 <base href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].'/' ?>">
 
-<title>#1 Logo Design Company in the UK | logovalley Logo</title>
+<title>#1 Logo Design Company in the UK | Logo Valley</title>
     <meta name="description" content="Logo Valley is a logo design company that has transformed the way animation was carried out. Hire us to know the difference." />
     <meta name="keywords" logo design company, logo design vector, illustration design, logo animation company ">
 <link rel="canonical " href="index.html "/><meta charset="utf-8 ">
