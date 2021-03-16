@@ -77,7 +77,28 @@
   </div>
 </section>
 
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+<?php 
+       	if(isset($_REQUEST['successMsg'])){
+          if ($_REQUEST['status']==1) {
+              echo "<script>Swal.fire({
+                  position: 'center-center',
+                  icon: 'success',
+                  title: '$_REQUEST[successMsg]'
+                })</script>";
+          } else {
+              echo "<script>Swal.fire({
+                  position: 'center-center',
+                  icon: 'warning',
+                  title: '$_REQUEST[successMsg]'
+                })</script>";
+          }
+          
+         
+      }
+      ?>
 
 
 
