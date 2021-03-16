@@ -1467,7 +1467,7 @@ a {
 
 .testimonials-slider-main .slick-dots {
     position: absolute;
-    bottom: 0;
+    bottom: -20px;
     right: 0;
     left: 0;
     padding: 0;
@@ -1492,13 +1492,13 @@ a {
     cursor: pointer;
     color: transparent;
     outline: 0;
-    background: url(../images/slick-dots.png) no-repeat 0 0;
+    /* background: url(../images/slick-dots.png) no-repeat 0 0; */
     border: none
 }
 
 .testimonials-slider-main .slick-dots li.slick-active button {
     border: none;
-    background: url(../images/slick-dots.png) no-repeat top 0 left -11px
+    /* background: url(../images/slick-dots.png) no-repeat top 0 left -11px */
 }
 
 .testimonials-slider-main .slick-next,
@@ -4266,7 +4266,6 @@ footer .social-full {
     clear: both;
     padding-bottom: 20px;
     display: inline-block;
-    margin-left: 20px;
 }
 
 .hlpwrap li .lft {
@@ -7805,7 +7804,7 @@ div.doublewrap ul li.heading:before {
 
 .inner-banner.smm-banner .btopform {
     right: 0;
-    top: -40px;
+    top: 10px;
     width: 440px;
     max-width: 450px;
     margin: auto;
@@ -7887,7 +7886,7 @@ div.doublewrap ul li.heading:before {
         padding: 20px 0;
     }
     .slidpack.tab-custom {
-        padding: 0 30px;
+        padding: 35px 30px;
         background: #f0f1f6;
     }
     .packages-sec .pack-wrap {
@@ -9695,4 +9694,14 @@ p.small {
     .floating_wrap{display: none;}
     .flogo figure{text-align: center;}
     .iner-pkgewrp .mainwrp{height: auto;}
+    .doublewrap .left{position: relative;top: 0;left: 0;}
+    .doublewrap .right{top: 0;right: 0;text-align: right;}
+    
 }
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+    .hlpwrap li .lft figure img{width: 100%;}
+    .doublewrap .left img{width: 100px;}
+    .doublewrap .right img{width: 180px;}
+    .strugglesec ul li{width: 100%;}
+}
+
