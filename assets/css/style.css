@@ -9658,6 +9658,13 @@ p.small {
     background: rgba(0, 0, 0, .82);
     z-index: 10000
 }
+.tphead {
+    padding: 20px 0;
+    position: absolute;
+    top: 0;
+    z-index: 9;
+    width: 100%;
+}
 
 @media only screen and (max-width: 767px) and (min-width: 0px) {
     .counter ul {

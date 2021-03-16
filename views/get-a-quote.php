@@ -13,9 +13,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
-<link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
-<link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+<link rel="icon" href="/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="/assets/css/m-style.css" rel="stylesheet" type="text/css" />
+<link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
 <!--<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i" rel="stylesheet">-->
 <!--<link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap" rel="stylesheet">-->
 <!--<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">-->
@@ -53,13 +54,13 @@
       <div class="col-lg-3">
         <div class="logo">
             <a href="index.html">
-              <img class="img-fluid black" src="assets/images/logo-light.png" alt="*" />
+              <img class="img-fluid black" src="/assets/images/logo-light.png" alt="*" />
             </a>
           </div>
       </div>
       <div class="col-lg-9">
         <div class="text-right">
-          <a href="index.html"><span class="icon-x-square"></span></a>
+          <a href="index.html"><i class="fa fa-window-close-o fa-2x" aria-hidden="true"></i></a>
         </div>
       </div>
     </div>
