@@ -7926,7 +7926,8 @@ div.doublewrap ul li.heading:before {
         font-size: 26px
     }
     .inner-banner.smm-banner {
-        height: auto
+        height: auto!important;
+        padding-bottom: 50px; 
     }
     .modal.services-modal .modal-dialog {
         max-width: 100%
