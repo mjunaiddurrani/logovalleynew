@@ -100,96 +100,30 @@
   <div class="container">
     <div class="row">
       <!-- <ul class="partnerslider"> --> <!-- this is for slider -->
-      <ul>
-        <li>
-          <figure>
-            <img class="lazy" src="assets/images/logos/clutch-white.png" alt="*">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img class="lazy" src="assets/images/logos/good-firms-white.png" alt="*">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img class="lazy" src="assets/images/logos/partner1.png" alt="*">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img class="lazy" src="assets/images/logos/partner2.png" alt="*">
-          </figure>
-        </li>
-
-         <!-- <li>
-          <figure>
-            <a href="https://www.designrush.com/agency/profile/seo-pro-hub-uk"><img src="assets/images/designrush.png"></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://www.goodfirms.co/companies/view/16552/seo-pro-hub-uk"><img src="assets/images/goodfirms.png"></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://www.hotfrog.co.uk/business/lancashire/manchester/seo-pro-hub-uk"><img src="assets/images/hotfrog.png"></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://www.semfirms.com/profile/seo-pro-hub-uk/"><img src="assets/images/semfirms.png"></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://www.topdesignfirms.com/directory/international/united-kingdom-great-britain/manchester/logovalleyuk?utm_source=topdesignfirms.com&utm_medium=referral"><img src="assets/images/topdesignfirms.png"></a>
-          </figure>
-        </li>
-
-        <li>
-          <figure>
-            <a href="https://topdigital.agency/agency/seo-pro-hub-2/"><img src="assets/images/topdigitalagency.png"></a>
-          </figure>
-        </li>
-
-
-        <li>
-          <figure>
-            <img src="assets/images/partner1.png">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="assets/images/partner6.png">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <a href="https://topdigital.agency/agency/seo-pro-hub/"><img src="assets/images/partner2.png"></a>
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="assets/images/partner3.png">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="assets/images/partner4.png">
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <img src="assets/images/partner5.png">
-          </figure>
-        </li> -->        
-      </ul>
+      <div class="col-12">
+        <ul>
+          <li>
+            <figure>
+              <img class="lazy " src="assets/images/logos/clutch-white.png "  alt="* ">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img class="lazy " src="assets/images/logos/good-firms-white.png "  alt="* ">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img class="lazy " src="assets/images/logos/partner1.png " alt="* ">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img class="lazy " src="assets/images/logos/partner2.png " alt="* ">
+            </figure>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </section>

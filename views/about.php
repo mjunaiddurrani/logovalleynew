@@ -50,28 +50,30 @@
         </div>
       </div>
       <div class="row">
-        <ul>
-          <li>
-            <figure>
-              <img src="assets/images/logos/clutch-white.png" alt="*">
-            </figure>
-          </li>
-          <li>
-            <figure>
-              <img src="assets/images/logos/good-firms-white.png" alt="*">
-            </figure>
-          </li>
-          <li>
-            <figure>
-              <img src="assets/images/logos/partner1.png" alt="*">
-            </figure>
-          </li>
-          <li>
-            <figure>
-              <img src="assets/images/logos/partner2.png" alt="*">
-            </figure>
-          </li>       
-        </ul>
+        <div class="col-12">
+          <ul>
+            <li>
+              <figure>
+                <img class="lazy " src="assets/images/logos/clutch-white.png "  alt="* ">
+              </figure>
+            </li>
+            <li>
+              <figure>
+                <img class="lazy " src="assets/images/logos/good-firms-white.png "  alt="* ">
+              </figure>
+            </li>
+            <li>
+              <figure>
+                <img class="lazy " src="assets/images/logos/partner1.png " alt="* ">
+              </figure>
+            </li>
+            <li>
+              <figure>
+                <img class="lazy " src="assets/images/logos/partner2.png " alt="* ">
+              </figure>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </section>
