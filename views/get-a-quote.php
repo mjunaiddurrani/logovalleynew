@@ -80,10 +80,10 @@
                 <p class="subtitle">Audit Your Site - More Sales, More Leads, More Happy Customers... </p>
                 <div class="col-lg-8 offset-lg-2">
                   <div class="bot-form justpad">
-                    <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
-          <input type="hidden" name="brand" value="logovalleynew">   
-          <input type="hidden" name="tag" value="home-section">
-          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
+                    <form class="cmxform" id="contactForm"  method="POST" action="/quote/"> <input type="hidden" name="route" value="/">   
+                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+                    <input type="hidden" name="brand" value="logovalley">
+                    <input type="hidden" class="form-control shadow" name="company" value="logovalley">
                       <div class="row">
                         <div class="col-lg-12">
                         <div class="bot-formtop">
@@ -91,20 +91,20 @@
                           <div class="fldset">
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <input onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+                                    <input onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                                 </div>
                                 <div class="col-lg-6">
-                                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                                    <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                                 </div>
                             </div>
                           </div>
                         
                           <div class="fldset">
-                            <input id="phone-coun" maxlength="10" name="Number" type="number" placeholder="Phone Number" required />
+                            <input id="phone-coun" maxlength="10" name="phone" type="number" placeholder="Phone Number" required />
                           </div>
                         
                           <div class="fldset">
-                            <select name="Services" id="selectcat" class="valid" aria-invalid="false" >
+                            <select name="amount" id="selectcat" class="valid" aria-invalid="false" >
                               <option  value="" pack="0">Package Name</option>
                               <optgroup>
                                 <option disabled value="" pack="0" class="colr">Logo Design</option>
@@ -194,7 +194,7 @@
                       </div>    
                         <div class="col-lg-12">
                           <div class="fldset">
-                            <textarea name="Message" placeholder="Enter message here" /></textarea>
+                            <textarea name="subject" placeholder="Enter message here"></textarea>
                           </div>
                         </div>
                         <div class="col-lg-12">
