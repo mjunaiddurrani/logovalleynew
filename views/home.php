@@ -1223,7 +1223,7 @@ liveChat">Chat With Us</a>
           <li>4 Revisions</li>
           <li>By 2 Designers</li>
           <li>48 to 72 hours TAT</li>
-          <li>All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li>
+          <!-- <li>All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li> -->
           <li>100% Ownership Rights</li>
           <li>100% Satisfaction Guarantee</li>
           <li>100% Unique Design Guarantee</li>
