@@ -1296,7 +1296,7 @@ liveChat">Chat With Us</a>
 </li>
 
 <li class="hightwrp ">
-  <div class="pack-wrap green ">
+  <div class="pack-wrap purple ">
     <div class="hdarea ">
       <!-- <h2>Popular</h2> -->
       <!--<h4>Essentials  </h4>-->
@@ -1333,7 +1333,7 @@ liveChat">Chat With Us</a>
     </div>
   </div>
   <div class="pkbtn ">
-    <a href="/get-a-quote/ " class="btn-green ">Buy Your Plan </a>
+    <a href="/get-a-quote/ " class="btn-purple">Buy Your Plan </a>
   </div>
     <a href="packages/business-logo.html " class="btn-detail ">View Details</a>
 </li>

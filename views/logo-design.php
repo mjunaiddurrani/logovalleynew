@@ -1215,17 +1215,17 @@
 </li>
 
 
-<li class="hightwrp">
-  <div class="pack-wrap green">
-    <div class="hdarea">
+<li class="hightwrp ">
+  <div class="pack-wrap purple ">
+    <div class="hdarea ">
       <!-- <h2>Popular</h2> -->
       <!--<h4>Essentials  </h4>-->
       <h3>Business Logo Package</h3>
       <p>Suitable for potential super-startups and brand revamps for companies.</p>
 
     </div>
-    <div class="bdarea">
-      <ul class="list-scroll">
+    <div class="bdarea ">
+      <ul class="list-scroll ">
         <li>10 Concepts</li>
         <li>By 4 Design Artist</li>
         <li>10 Revisions</li>
@@ -1243,19 +1243,19 @@
         
       </ul>
     </div>
-    <div class="ftarea">
-      <div class="lft">
-        <h4 class="capss"><!-- <span class="cutting_price">£800</span> --><strong>£</strong>129.99</h4>
+    <div class="ftarea ">
+      <div class="lft ">
+        <h4 class="capss "><!-- <span class="cutting_price ">£800</span> --><strong>£</strong>129.99</h4>
       </div>
-      <div class="rht">
+      <div class="rht ">
         <p>Add on: £20 for 24 Hours Rush Delivery</p>
       </div>
     </div>
   </div>
-  <div class="pkbtn">
-    <a href="get-a-custom-quote4645.html?pack=4" class="btn-green">Buy Your Plan </a>
+  <div class="pkbtn ">
+    <a href="/get-a-quote/ " class="btn-purple">Buy Your Plan </a>
   </div>
-    <a href="packages/business-logo.html" class="btn-detail">View Details</a>
+    <a href="packages/business-logo.html " class="btn-detail ">View Details</a>
 </li>
 
 <li class="hightwrp">
