@@ -1209,7 +1209,7 @@ liveChat">Chat With Us</a>
 </li>
 
 <li class="hightwrp ">
-  <div class="pack-wrap green ">
+  <div class="pack-wrap blue">
     <div class="hdarea ">
       <!-- <h2>Popular</h2> -->
       <!--<h4>Essentials  </h4>-->
@@ -1245,13 +1245,13 @@ liveChat">Chat With Us</a>
     </div>
   </div>
   <div class="pkbtn ">
-    <a href="/get-a-quote/ " class="btn-green ">Buy Your Plan </a>
+    <a href="/get-a-quote/ " class="btn-blue">Buy Your Plan </a>
   </div>
     <a href="packages/professional-logo.html " class="btn-detail ">View Details</a>
 </li>
 
 <li class="hightwrp ">
-  <div class="pack-wrap blue ">
+  <div class="pack-wrap green">
     <div class="hdarea ">
       <!--<h4>Business Plus</h4>-->
       <h3>Elite Logo <br>Package</h3>
@@ -1262,7 +1262,7 @@ liveChat">Chat With Us</a>
       <ul class="list-scroll ">
       
           <li>8 Logo Concepts</li>
-          <li>8 Revisions</li>
+          <li>Unlimited Revisions</li>
           <li>By 4 Design Artist</li>
           <li>FREE Stationary Design Set</li>
           <li>FREE MS Word Letterhead</li>
@@ -1289,7 +1289,7 @@ liveChat">Chat With Us</a>
     </div>
   </div>
   <div class="pkbtn ">
-    <a href="/get-a-quote/ " class="btn-blue ">Buy Your Plan</a>
+    <a href="/get-a-quote/ " class="btn-green">Buy Your Plan</a>
   </div>
     <a href="packages/elite-logo.html " class="btn-detail ">View Details</a>
 
