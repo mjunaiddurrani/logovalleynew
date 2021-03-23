@@ -4681,6 +4681,26 @@ input:checked+.toggle:before {
     color: #fff
 }
 
+.btn-purple {
+    color: #fff;
+    background: #e212d2;
+    padding: 14px 50px;
+    font-size: 16px;
+    font-weight: 700;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -o-transition: .4s;
+    transition: .4s;
+    display: inline-block;
+    border-radius: 30px;
+    border: 1px solid #fff
+}
+
+.btn-purple:hover {
+    transform: translateY(-3.925px);
+    color: #fff
+}
+
 .btn-red {
     color: #fff;
     background: #f45948;
@@ -4714,6 +4734,21 @@ input:checked+.toggle:before {
 
 .packages-sec .pack-wrap.green .ftarea .lft h4 {
     color: #20cb98;
+}
+
+.packages-sec .pack-wrap.purple .hdarea h4 {
+    color: #e212d2;
+    line-height: 1;
+    text-transform: capitalize;
+    background: #00a1593d;
+}
+
+.packages-sec .pack-wrap.purple .bdarea ul li:before {
+    background-color: #e212d2;
+}
+
+.packages-sec .pack-wrap.purple .ftarea .lft h4 {
+    color: #e212d2;
 }
 
 .packages-sec .pack-wrap.yellow .hdarea h4 {

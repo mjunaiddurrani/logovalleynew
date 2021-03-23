@@ -134,17 +134,17 @@
   <a href="packages/startup-logo.html" class="btn-detail">View Details</a>
 </li>
 
-<li class="hightwrp">
-  <div class="pack-wrap green">
-    <div class="hdarea">
+<li class="hightwrp ">
+  <div class="pack-wrap blue">
+    <div class="hdarea ">
       <!-- <h2>Popular</h2> -->
       <!--<h4>Essentials  </h4>-->
       <h3>Professional Logo Package</h3>
       <p>Suitable for potential super-startups and brand revamps for companies.</p>
 
     </div>
-    <div class="bdarea">
-      <ul class="list-scroll">
+    <div class="bdarea ">
+      <ul class="list-scroll ">
           <li>4 Logo Concepts </li>
           <li>4 Revisions</li>
           <li>By 2 Designers</li>
@@ -157,38 +157,38 @@
           <li>10% Discount on your next order</li>
       </ul>
     </div>
-    <div class="ftarea">
-      <div class="lft">
-        <h4 class="caps"><!-- <span class="cutting_price">£800</span> --><strong>£</strong>39.99 </h4>
+    <div class="ftarea ">
+      <div class="lft ">
+        <h4 class="caps "><!-- <span class="cutting_price ">£800</span> --><strong>£</strong>39.99 </h4>
       </div>
-      <div class="rht">
+      <div class="rht ">
         <p>Add on: £20 for 24 Hours Rush Delivery</p>
       </div>
 
-      <!--<div class="cut-price">-->
+      <!--<div class="cut-price ">-->
       <!--      <span><strike>£39.99</strike></span>-->
       <!--  </div>-->
     </div>
   </div>
-  <div class="pkbtn">
-    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
+  <div class="pkbtn ">
+    <a href="/get-a-quote/ " class="btn-blue">Buy Your Plan </a>
   </div>
-    <a href="packages/professional-logo.html" class="btn-detail">View Details</a>
+    <a href="packages/professional-logo.html " class="btn-detail ">View Details</a>
 </li>
 
-<li class="hightwrp">
-  <div class="pack-wrap blue">
-    <div class="hdarea">
+<li class="hightwrp ">
+  <div class="pack-wrap green">
+    <div class="hdarea ">
       <!--<h4>Business Plus</h4>-->
       <h3>Elite Logo <br>Package</h3>
       <p>Suitable for potential super-startups and brand revamps for companies.</p>
 
     </div>
-    <div class="bdarea">
-      <ul class="list-scroll">
+    <div class="bdarea ">
+      <ul class="list-scroll ">
       
           <li>8 Logo Concepts</li>
-          <li>8 Revisions</li>
+          <li>Unlimited Revisions</li>
           <li>By 4 Design Artist</li>
           <li>FREE Stationary Design Set</li>
           <li>FREE MS Word Letterhead</li>
@@ -203,36 +203,36 @@
       </ul>
     </div>
     <div class="ftarea ">
-      <div class="lft">
-        <h4 class="caps"><!-- <span class="cutting_price">£1200</span> --><strong>£</strong>79.99</h4>
+      <div class="lft ">
+        <h4 class="caps "><!-- <span class="cutting_price ">£1200</span> --><strong>£</strong>79.99</h4>
       </div>
-      <div class="rht">
+      <div class="rht ">
         <p>Add on: £20 for 24 Hours Rush Delivery</p>
       </div>
-      <!--<div class="cut-price">-->
+      <!--<div class="cut-price ">-->
       <!--      <span><strike>£79.99</strike></span>-->
       <!--  </div>-->
     </div>
   </div>
-  <div class="pkbtn">
-    <a href="/get-a-quote/" class="btn-blue">Buy Your Plan</a>
+  <div class="pkbtn ">
+    <a href="/get-a-quote/ " class="btn-green">Buy Your Plan</a>
   </div>
-    <a href="packages/elite-logo.html" class="btn-detail">View Details</a>
+    <a href="packages/elite-logo.html " class="btn-detail ">View Details</a>
 
 </li>
 
 
-<li class="hightwrp">
-  <div class="pack-wrap green">
-    <div class="hdarea">
+<li class="hightwrp ">
+  <div class="pack-wrap purple ">
+    <div class="hdarea ">
       <!-- <h2>Popular</h2> -->
       <!--<h4>Essentials  </h4>-->
       <h3>Business Logo Package</h3>
       <p>Suitable for potential super-startups and brand revamps for companies.</p>
 
     </div>
-    <div class="bdarea">
-      <ul class="list-scroll">
+    <div class="bdarea ">
+      <ul class="list-scroll ">
         <li>10 Concepts</li>
         <li>By 4 Design Artist</li>
         <li>10 Revisions</li>
@@ -250,19 +250,19 @@
         
       </ul>
     </div>
-    <div class="ftarea">
-      <div class="lft">
-        <h4 class="capss"><!-- <span class="cutting_price">£800</span> --><strong>£</strong>129.99</h4>
+    <div class="ftarea ">
+      <div class="lft ">
+        <h4 class="capss "><!-- <span class="cutting_price ">£800</span> --><strong>£</strong>129.99</h4>
       </div>
-      <div class="rht">
+      <div class="rht ">
         <p>Add on: £20 for 24 Hours Rush Delivery</p>
       </div>
     </div>
   </div>
-  <div class="pkbtn">
-    <a href="/get-a-quote/" class="btn-green">Buy Your Plan </a>
+  <div class="pkbtn ">
+    <a href="/get-a-quote/ " class="btn-purple">Buy Your Plan </a>
   </div>
-    <a href="packages/business-logo.html" class="btn-detail">View Details</a>
+    <a href="packages/business-logo.html " class="btn-detail ">View Details</a>
 </li>
 
 <li class="hightwrp">
