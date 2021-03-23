@@ -63,7 +63,10 @@
         <div class="inner-banner-content">
           <!--<h5>Best SEO Agency</h5>-->
                  <h1 class="title for-anim-1">
-                    <span><i><?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?></i></span>
+                    <span><i>
+                    <?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?>
+                    <?php if(isset($_REQUEST['successMsg'])){ echo $_REQUEST['successMsg'];} ?>
+                    </i></span>
 
                 </h1>
         </div>
