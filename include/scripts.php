@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="ban-form">
                   <form class="cmxform" id="bannerform"  method="POST" action="webpages/floatingFormController.php"><input type="hidden" name="route" value="/">   
-          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="brand" value="logovalley">   
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
                     <div class="row">
