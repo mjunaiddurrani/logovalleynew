@@ -9734,7 +9734,7 @@ p.small {
         display: none;
     }
     .floating_wrap{display: none;}
-    .flogo figure{text-align: center;}
+    .flogo figure{text-align: center;padding-top: 30px;}
     .iner-pkgewrp .mainwrp{height: auto;}
     .doublewrap .left{position: relative;top: 0;left: 0;}
     .doublewrap .right{top: 0;right: 0;text-align: right;}
