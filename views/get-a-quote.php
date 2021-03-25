@@ -76,7 +76,7 @@
           <div class="row">
             <div class=" col-lg-12 col-xl-12 text-center">
               <div class="home-banner-content">
-                <h1>logovalley Agency for Startup, <br>Midsize and Enterprise Companies</h1>
+                <h1>Bespoke Design Agency for Startup, <br>Midsize and Enterprise Companies</h1>
                 <p class="subtitle">Audit Your Site - More Sales, More Leads, More Happy Customers... </p>
                 <div class="col-lg-8 offset-lg-2">
                   <div class="bot-form justpad">
