@@ -111,10 +111,10 @@
                                 <option disabled value="" pack="0" class="colr">Logo Design</option>
                               </optgroup>
                               <optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;--------------------------------------------">
-                                <option  value="Start Up Logo Package - £15.99" pack="1" >Start Up Logo Package - £15.99</option>
-                                <option  value="Professional Logo Package - £24.99" pack="2" >Professional Logo Package - £24.99</option>
-                                <option  value="Elite Logo Package - £48.99" pack="3" >Elite Logo Package - £48.99</option>
-                                <option  value="Business Logo Package - £99.99" pack="4" >Business Logo Package - £129.99</option>
+                                <option  value="Start Up Logo Package - £19.00" pack="1" >Start Up Logo Package - £19.00</option>
+                                <option  value="Professional Logo Package - £39.99" pack="2" >Professional Logo Package - £39.99</option>
+                                <option  value="Elite Logo Package - £79.99" pack="3" >Elite Logo Package - £79.99</option>
+                                <option  value="Business Logo Package - £129.99" pack="4" >Business Logo Package - £129.99</option>
                                 <option  value="Silver Logo Package - £119.99" pack="5" >Business Rebranding Logo Package - £199.99</option>
                                 <!--<option  value="Gold Logo Package - £199.99" pack="6" >Gold Logo Package - £199.99</option>-->
                                 <!--<option  value="Illustrative  Logo Package - £109.99" pack="7" >Illustrative  Logo Package - £109.99</option>-->
@@ -185,7 +185,7 @@
                               <option  value="Professional Combo package - £1,199.00" pack="34" >Professional Combo package - £1,199.00</option>
                               <option  value="Corporate Combo Package - £1,599.00" pack="35" >Corporate Combo Package - £1,599.00</option>
                               <option  value="Elite Combo package - £2,999.00" pack="36" >Elite Combo package - £2,999.00</option>
-                              <option  value="Advance Combo Packages - £4,994.00" pack="37" >ADVANCE COMBO Packages - £4,994.00</option>
+                              <!-- <option  value="Advance Combo Packages - £4,994.00" pack="37" >ADVANCE COMBO Packages - £4,994.00</option> -->
                               </optgroup>
 
 
