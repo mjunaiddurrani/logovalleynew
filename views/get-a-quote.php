@@ -76,13 +76,13 @@
           <div class="row">
             <div class=" col-lg-12 col-xl-12 text-center">
               <div class="home-banner-content">
-                <h1>logovalley Agency for Startup, <br>Midsize and Enterprise Companies</h1>
+                <h1>Bespoke Design Agency for Startup, <br>Midsize and Enterprise Companies</h1>
                 <p class="subtitle">Audit Your Site - More Sales, More Leads, More Happy Customers... </p>
                 <div class="col-lg-8 offset-lg-2">
                   <div class="bot-form justpad">
                     <form class="cmxform" id="contactForm"  method="POST" action="/quote/"> 
-                    <input type="hidden" name="route" value="/get-a-quote/">   
-          <input type="hidden" name="brand" value="logovalleynew">   
+                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+          <input type="hidden" name="brand" value="logovalley">   
           <input type="hidden" name="company" value="null">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
                       <div class="row">
@@ -195,7 +195,7 @@
                       </div>    
                         <div class="col-lg-12">
                           <div class="fldset">
-                            <textarea name="subject" placeholder="Enter message here" /></textarea>
+                            <textarea name="subject" placeholder="Enter message here"></textarea>
                           </div>
                         </div>
                         <div class="col-lg-12">

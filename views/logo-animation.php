@@ -32,21 +32,21 @@
           <div class="banner-from seoform">
             <h3 class="seohd text-center">Get Free Consultancy</h3>
               <div class="bot-form">
-  <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
-          <input type="hidden" name="brand" value="logovalleynew">   
+  <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
+          <input type="hidden" name="brand" value="logovalley">   
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
     <div class="row">
       <div class="col-lg-12 ">
         <div class="bot-formtop">
           <div class="fldset">
-          <input onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+          <input onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
         </div>
         <div class="fldset">
-          <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+          <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
         </div>
         <div class="fldset">
-          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
+          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
         </div>
         <!--<div class="fldset">-->
         <!--  <select name="Services">-->
@@ -68,7 +68,7 @@
       <!--</div>-->
       <div class="col-lg-12">
         <div class="fldset">
-          <textarea name="Message" placeholder="I need a ... logo, website" /></textarea>
+          <textarea name="brief" placeholder="I need a ... logo, website" /></textarea>
         </div>
       </div>
       <div class="col-lg-12">
@@ -2383,7 +2383,7 @@
       <div class="col-lg-6 ">
         <div class="bot-form">
   <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
-          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="brand" value="logovalley">   
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
     <div class="row">

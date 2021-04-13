@@ -100,7 +100,7 @@ ini_set('display_errors', 1);
     <meta name="description" content=""> 
    
  
-   <?php include_once('includes/styles.php');?>
+   <?php include_once('include/styles.php');?>
    
 <style>
 	.inner_bg{
@@ -426,7 +426,10 @@ $(document).ready(function(){
 	    	$('#navbar').removeClass('sticky');
 	    }
 	});
-})
+	$("#payment-form").submit(function (e) {
+	$('.submitPay').prop('disabled',true);
+});
+});
 </script>
 
 <?php

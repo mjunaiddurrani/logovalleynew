@@ -36,21 +36,21 @@
           <div class="banner-from seoform ">
             <h3 class="seohd text-center">Get Free Consultancy</h3>
               <div class="bot-form">
-  <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
-          <input type="hidden" name="brand" value="logovalleynew">   
+  <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
+          <input type="hidden" name="brand" value="logovalley">   
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
     <div class="row">
       <div class="col-lg-12 ">
         <div class="bot-formtop">
           <div class="fldset">
-          <input onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+          <input onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
         </div>
         <div class="fldset">
-          <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+          <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
         </div>
         <div class="fldset">
-          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
+          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
         </div>
         <!--<div class="fldset">-->
         <!--  <select name="Services">-->
@@ -72,7 +72,7 @@
       <!--</div>-->
       <div class="col-lg-12">
         <div class="fldset">
-          <textarea name="Message" placeholder="I need a ... logo, website" /></textarea>
+          <textarea name="brief" placeholder="I need a ... logo, website" /></textarea>
         </div>
       </div>
       <div class="col-lg-12">
@@ -1097,7 +1097,7 @@
         <li>2 Revisions</li>
         <li>2 Design Artists</li>
         <li>48 to 72 hours TAT</li>
-        <li>All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li>
+        <li>Final File Format (JPG)</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
         <li>100% Money Back Guarantee *</li>
@@ -1127,22 +1127,22 @@
   <a href="packages/startup-logo.html" class="btn-detail">View Details</a>
 </li>
 
-<li class="hightwrp">
-  <div class="pack-wrap green">
-    <div class="hdarea">
+<li class="hightwrp ">
+  <div class="pack-wrap blue">
+    <div class="hdarea ">
       <!-- <h2>Popular</h2> -->
       <!--<h4>Essentials  </h4>-->
       <h3>Professional Logo Package</h3>
       <p>Suitable for potential super-startups and brand revamps for companies.</p>
 
     </div>
-    <div class="bdarea">
-      <ul class="list-scroll">
+    <div class="bdarea ">
+      <ul class="list-scroll ">
           <li>4 Logo Concepts </li>
           <li>4 Revisions</li>
           <li>By 2 Designers</li>
           <li>48 to 72 hours TAT</li>
-          <li>All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li>
+          <li>Final Files Format (JPG, PDF)</li>
           <li>100% Ownership Rights</li>
           <li>100% Satisfaction Guarantee</li>
           <li>100% Unique Design Guarantee</li>
@@ -1150,38 +1150,38 @@
           <li>10% Discount on your next order</li>
       </ul>
     </div>
-    <div class="ftarea">
-      <div class="lft">
-        <h4 class="caps"><!-- <span class="cutting_price">£800</span> --><strong>£</strong>39.99 </h4>
+    <div class="ftarea ">
+      <div class="lft ">
+        <h4 class="caps "><!-- <span class="cutting_price ">£800</span> --><strong>£</strong>39.99 </h4>
       </div>
-      <div class="rht">
+      <div class="rht ">
         <p>Add on: £20 for 24 Hours Rush Delivery</p>
       </div>
 
-      <!--<div class="cut-price">-->
+      <!--<div class="cut-price ">-->
       <!--      <span><strike>£39.99</strike></span>-->
       <!--  </div>-->
     </div>
   </div>
-  <div class="pkbtn">
-    <a href="get-a-custom-quote94ea.html?pack=2" class="btn-green">Buy Your Plan </a>
+  <div class="pkbtn ">
+    <a href="/get-a-quote/ " class="btn-blue">Buy Your Plan </a>
   </div>
-    <a href="packages/professional-logo.html" class="btn-detail">View Details</a>
+    <a href="packages/professional-logo.html " class="btn-detail ">View Details</a>
 </li>
 
-<li class="hightwrp">
-  <div class="pack-wrap blue">
-    <div class="hdarea">
+<li class="hightwrp ">
+  <div class="pack-wrap green">
+    <div class="hdarea ">
       <!--<h4>Business Plus</h4>-->
       <h3>Elite Logo <br>Package</h3>
       <p>Suitable for potential super-startups and brand revamps for companies.</p>
 
     </div>
-    <div class="bdarea">
-      <ul class="list-scroll">
+    <div class="bdarea ">
+      <ul class="list-scroll ">
       
           <li>8 Logo Concepts</li>
-          <li>8 Revisions</li>
+          <li>Unlimited Revisions</li>
           <li>By 4 Design Artist</li>
           <li>FREE Stationary Design Set</li>
           <li>FREE MS Word Letterhead</li>
@@ -1196,36 +1196,36 @@
       </ul>
     </div>
     <div class="ftarea ">
-      <div class="lft">
-        <h4 class="caps"><!-- <span class="cutting_price">£1200</span> --><strong>£</strong>79.99</h4>
+      <div class="lft ">
+        <h4 class="caps "><!-- <span class="cutting_price ">£1200</span> --><strong>£</strong>79.99</h4>
       </div>
-      <div class="rht">
+      <div class="rht ">
         <p>Add on: £20 for 24 Hours Rush Delivery</p>
       </div>
-      <!--<div class="cut-price">-->
+      <!--<div class="cut-price ">-->
       <!--      <span><strike>£79.99</strike></span>-->
       <!--  </div>-->
     </div>
   </div>
-  <div class="pkbtn">
-    <a href="get-a-custom-quotec983.html?pack=3" class="btn-blue">Buy Your Plan</a>
+  <div class="pkbtn ">
+    <a href="/get-a-quote/ " class="btn-green">Buy Your Plan</a>
   </div>
-    <a href="packages/elite-logo.html" class="btn-detail">View Details</a>
+    <a href="packages/elite-logo.html " class="btn-detail ">View Details</a>
 
 </li>
 
 
-<li class="hightwrp">
-  <div class="pack-wrap green">
-    <div class="hdarea">
+<li class="hightwrp ">
+  <div class="pack-wrap purple ">
+    <div class="hdarea ">
       <!-- <h2>Popular</h2> -->
       <!--<h4>Essentials  </h4>-->
       <h3>Business Logo Package</h3>
       <p>Suitable for potential super-startups and brand revamps for companies.</p>
 
     </div>
-    <div class="bdarea">
-      <ul class="list-scroll">
+    <div class="bdarea ">
+      <ul class="list-scroll ">
         <li>10 Concepts</li>
         <li>By 4 Design Artist</li>
         <li>10 Revisions</li>
@@ -1243,19 +1243,19 @@
         
       </ul>
     </div>
-    <div class="ftarea">
-      <div class="lft">
-        <h4 class="capss"><!-- <span class="cutting_price">£800</span> --><strong>£</strong>129.99</h4>
+    <div class="ftarea ">
+      <div class="lft ">
+        <h4 class="capss "><!-- <span class="cutting_price ">£800</span> --><strong>£</strong>129.99</h4>
       </div>
-      <div class="rht">
+      <div class="rht ">
         <p>Add on: £20 for 24 Hours Rush Delivery</p>
       </div>
     </div>
   </div>
-  <div class="pkbtn">
-    <a href="get-a-custom-quote4645.html?pack=4" class="btn-green">Buy Your Plan </a>
+  <div class="pkbtn ">
+    <a href="/get-a-quote/ " class="btn-purple">Buy Your Plan </a>
   </div>
-    <a href="packages/business-logo.html" class="btn-detail">View Details</a>
+    <a href="packages/business-logo.html " class="btn-detail ">View Details</a>
 </li>
 
 <li class="hightwrp">
@@ -2589,7 +2589,7 @@
       <div class="col-lg-6 ">
         <div class="bot-form">
   <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
-          <input type="hidden" name="brand" value="logovalleynew">   
+          <input type="hidden" name="brand" value="logovalley">   
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
     <div class="row">

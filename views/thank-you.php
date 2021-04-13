@@ -63,7 +63,10 @@
         <div class="inner-banner-content">
           <!--<h5>Best SEO Agency</h5>-->
                  <h1 class="title for-anim-1">
-                    <span><i><?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?></i></span>
+                    <span><i>
+                    <?php if(isset($_SESSION['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?>
+                    <?php if(isset($_REQUEST['successMsg'])){ echo $_REQUEST['successMsg'];} ?>
+                    </i></span>
 
                 </h1>
         </div>
@@ -77,7 +80,28 @@
   </div>
 </section>
 
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+<?php 
+       	if(isset($_REQUEST['successMsg'])){
+          if ($_REQUEST['status']==1) {
+              echo "<script>Swal.fire({
+                  position: 'center-center',
+                  icon: 'success',
+                  title: '$_REQUEST[successMsg]'
+                })</script>";
+          } else {
+              echo "<script>Swal.fire({
+                  position: 'center-center',
+                  icon: 'warning',
+                  title: '$_REQUEST[successMsg]'
+                })</script>";
+          }
+          
+         
+      }
+      ?>
 
 
 

@@ -8,6 +8,8 @@
               <img class="lazy " src="/assets/images/logo-dark.png ">
             </figure>
             <br>
+            86-90 Paul Street, London
+EC2A 4NE, UK
           </div>
         </div>
 
@@ -25,6 +27,7 @@
                   <figure>
                     <img class="lazy " src="/assets/images/card-brands.svg ">
                   </figure>
+
                 </li>
               </ul>
             </div>
