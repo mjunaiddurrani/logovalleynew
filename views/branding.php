@@ -1,6 +1,11 @@
 <!doctype html>
 <html lang="en">
 
+<style type="text/css">
+  #who-we-are .tab-custom .tabbing-links li{
+    font-size:11px !important;
+  }
+</style>
 <head>
 
 <?php include_once('include/styles.php') ?>
@@ -16,13 +21,26 @@
       <div class="col-lg-7 col-md-12 my-auto">
         <div class="inner-banner-content">
           <!--<h5>Best Logo Design Services in the UK</h5>-->
-          <h1>Branding Changes Everything</h1>
-          <p class="custom-para">Working with a professional designer to codify font, color and style choices can sure make it look good.</p>
-          <ul class="points">
-              <li>Unique Branding</li>
-              <li>Creativity</li>
-              <li>Timely Delivery</li>
-          </ul>
+          <h1>Professional Branding 
+Services for Lasting Impact 
+on Your Audience</h1>
+          <p class="custom-para">Create your corporate brand identity with the top branding company that knows all the industry's ins and outs. Differentiate your business from the pools of the same cookie-cutter brands.</p>
+          <div class="row">
+            <div class="col-md-6">
+                 <ul class="points">
+                      <li>Brand Development Strategy</li>
+                      <li>Brand Identity Package</li>
+                      <li>Custom Stationery Design</li>
+                  </ul>
+            </div>
+            <div class="col-md-6">
+                 <ul class="points">
+                      <li>Marketing and Branding Materials</li>
+                      <li>Logo Design and Web Development</li>
+                  </ul>
+            </div>
+          </div>
+       
           <a href="javascript:;" onclick="setButtonURL();" >Lets Get Started</a><br/>
           <img src="assets/images/trustpilot.png" class="seoimg" alt="">
           <img src="assets/images/rateimg.png" class="seoimg-2" alt="" />
@@ -49,24 +67,10 @@
         <div class="fldset">
           <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
         </div>
-        <!--<div class="fldset">-->
-        <!--  <select name="Services">-->
-        <!--    <option value="-1">Interested In</option>-->
-        <!--    <option value="logo design">Logo Design</option>-->
-        <!--    <option value="logo Animation">logo Animation</option>-->
-        <!--    <option value="Branding">Branding</option>-->
-        <!--    <option value="2D/3D Illustration">2D/3D Illustration</option>-->
-        <!--    <option value="Creative Copy Writing">Creative Copy Writing</option>-->
-        <!--    <option value="Website Design">Website Design</option>-->
-        <!--  </select>-->
-        <!--</div>-->
+
         </div>
       </div>
-      <!--<div class="col-lg-12">-->
-      <!--  <div class="fldset">-->
-      <!--    <input id="urlarea" name="SiteUrl" minlength="5" type="text" placeholder="Enter website" required />-->
-      <!--  </div>-->
-      <!--</div>-->
+    
       <div class="col-lg-12">
         <div class="fldset">
           <textarea name="brief" placeholder="I need a ... logo, website" /></textarea>
@@ -74,15 +78,8 @@
       </div>
       <div class="col-lg-12">
         <div class="fldset formbtn">
-          <script type="text/javascript">document.getElementById('location').value = window.location.href;</script>
-          <input type="hidden" id="location" name="locationURL" value="http://logovalley.co.uk/branding" />
           <input class="submit" type="submit" value="Get Started" />
-          <input class="" type="hidden" name="ctry" value="" />
-          <input type="hidden" name="pc" value="">
-          <input type="hidden" name="hiddencapcha" value="">
            
-                <input type="hidden" name="cip" value="">
-             
         </div>
       </div>
     </div>
@@ -204,7 +201,7 @@
       <div class="col-md-2"></div>
       <div class="col-md-8">
         <div class="section_title">
-          <h3> LOGO TYPES </h3>
+          <h3> Custom Stationery Design to Creative Brand Needs </h3>
         </div>
       </div>
       <div class="col-md-2"></div>
@@ -213,46 +210,56 @@
       <div class="col-md-12">
         <div class="tab-custom">
             <ul class="tabbing-links">
-              <li class="current" data-targetit="tabs-illustl">Illustrative Design</li>
-              <li data-targetit="tabs-mascotl" class="">Mascot</li>
+              <li data-targetit="tabs-mascotl" class="current">Brand Development</li>
+              <li class="" data-targetit="tabs-illustl">Brand Identity  </li>
               
-              <li data-targetit="tabs-wordl" class="">Wordmark Design</li>
-              <li data-targetit="tabs-design3dl" class="">3D Design</li>
-              <li data-targetit="tabs-abstractl" class="">Abstract Design</li>
-              <li data-targetit="tabs-letterl" class="">Letter Logo</li>
+              
+              <li data-targetit="tabs-wordl" class="">Logo Creation </li>
+              <li data-targetit="tabs-design3dl" class="">Website Development </li>
+              <li data-targetit="tabs-abstractl" class="">Product Designing </li>
+              <li data-targetit="tabs-letterl" class="">Stationery Design </li>
               <li data-targetit="tabs-pictoriall" class="">Pictorial Mark</li>
             </ul>
-            <div class="tabs tabs-mascotl">
+            <div class="tabs tabs-mascotl current">
               <div class="row">
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/mascot.png" class="img-responsive center-block lazy" alt="image"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Mascot Logo Design</h6>
-                    <p> Often colorful, sometimes cartoonish, and most always fun, the mascot logo is a great way to create your very own brand spokesperson. A mascot is simply an illustrated character that represents your company. Think of them as the ambassador for your business.</p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> Brand Development Strategy </h6>
+                    <p> Starting a new business is incomplete unless you have complete branding services. It also includes having a brand development strategy to launch your business online. We develop your corporate brand identity by conducting research and in-depth audience analysis. We have an in-house branding services team that is ready to take your brand to the newest heights.</p>
+                    <p><strong>Bring Exceptional Value to Design</strong></p>
+                    <p>
+                      We aim to bring value to your business. Thus, we achieve this by asking the fundamental questions regarding the company, which cheap services seem to ignore. Our brand identity packages are affordable. Dominate your business competitors by developing your distinct corporate brand identity.
+                    </p>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="tabs tabs-illustl current">
+            <div class="tabs tabs-illustl ">
               <div class="row">
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/illustrative.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Illustrative Design </h6>
-                    <p> If you want to create a work of art – illustrative logos are the best fit as it contains intricate artwork. It will act as a trendy as well as contemporary image of your brand and keep the viewers attention longer than the traditional logo design. We at <span class="text-grad">Logo Valley</span> use latest tools and technology to create a remarkable illustrative logo for your brand. </p>
-                    <a href="javascript:;" onclick="setButtonURL();" >Let's Get Started</a> </div>
+                    <h6> Corporate Brand Identity Designs </h6>
+                    <p> Our proficient brand development strategy creates your unique value proposition. This valued slogan will be your highest selling point. We will help you think out of the box and maximise your results by building your brand's personality. Whether it's a business card design online or a business brochure design, we will make your design consistent. </p>
+                    <p><strong>Your Logo is the Brand Identity Design</strong></p>
+                    <p>
+                      Your corporate brand identity is incomplete without a professional business logo. A logo is a symbol, an identity representing your business name and what you stand for among the large audience. If your business lacks a stunning logo, you might want to reconsider this decision and get your identity made.
+
+                    </p>
                 </div>
               </div>
             </div>
+          </div>
             <div class="tabs tabs-wordl">
               <div class="row">
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/wordmark.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Wordmark Design </h6>
-                    <p> Create your professional wordmark logo with <span class="text-grad">Logo Valley </span>. It is a pure form of logo and a text-only representation of your brand – which makes it a good choice for start-ups and accelerating businesses that are seeking a static and no-hassle solution. We allow full customization to create your own wordmark logo design to enhance your brand visibility. </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> Create Vibrant and Impressive Logos </h6>
+                    <p>For creating compelling, vibrant, and eye-catchy logos for your brand, you need to have the perfect team. Regardless of your industry, connect to your audience with a flawless logo design. We will help you create your unique logo according to your desire. </p>
+                    <p><strong>Logos to Strike the Consumer's senses</strong></p>
+                    <p>Our top brand agency's brand identity package includes logos of every type, 2D, 3D, or business. Indeed, custom stationery design helps you become irresistible. See our logo designing services to know more about what we can do for you.</p>
                   </div>
                 </div>
               </div>
@@ -262,9 +269,12 @@
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/3d-logos.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> 3D Design </h6>
-                    <p> If you’re looking for a modern style logo – our 3-Dimensional logo designs will serve you best. We specialize in making 3D logos which reflects your brand in an attractive way. With our abundant 3D logo designs – enjoy the rewards of attracting a large number of clients as your audience will be able to experience look and feel of your business. Ping us now and let’s add some dimensions to your boring logo designs. </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> Website Development for Digital Exposure </h6>
+                    <p> Without a professional website, your online business does not have any real existence. You need to have a professional website design. This website will be your brand identity design. Your website is the only guarantee that will help your visitors turn into clients. Hiring our top branding company means having an affordable brand identity package.</p>
+                    <p><strong>Grow your business opportunities twice the fold.</strong></p>
+                    <p>
+                      Create a stellar looking website design with the top brand agency. Logo Valley helps you avoid short term business creation goals. We focus on the design aspects that matter most for your brand. Thus, we create a long term brand strategy to know where you want to lead in the next few years.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -274,9 +284,13 @@
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/abstract.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Abstract Design </h6>
-                    <p> Abstract logo designs also known as smart logos is a mix of pictures, typography and shapes. A lot of organizations today use abstract logos for their businesses. They are usually used as a conceptual strategy to represent your business idea. It also allows you to exhibit different functions of your company. Join hands with <span class="text-grad">Logo Valley</span> to create your abstract logo that reflects an unclear vision of your business – so that you can play safe in your business operations. </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> Product Design that catches your consumer's attention </h6>
+                    <p> Our branding services also include designing products that solve the customers' problems. We have a systematic design approach to bring productive outcomes to your brand. Inspire your customers, and move closer to your goals in no time. </p>
+                    <p><strong>Top Branding Company's Strategy</strong></p>
+                    <p>
+                      We look into your product market to understand the end-users behavioural patterns. Using this approach helps us install design thinking to presents a creative solution.
+                    </p>
+
                   </div>
                 </div>
               </div>
@@ -286,9 +300,12 @@
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/letter.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Letter Logo Design </h6>
-                    <p>Letter Marks are solely typographic. They use a symbol representing the company through the use of its initials or the brands first letter. Many corporations choose to use this kind of logo as their initials can be graphically illustrated in a better manner.  </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> Custom Stationery Design </h6>
+                    <p>One of the crucial elements of the branding services is the stationery design. Create business brochure design, business card design online with perfect brand development strategy. Our goal is to create beautiful and eye-catching custom stationery designs.  </p>
+                    <p><strong>Brand Identity Package packed with Love.</strong></p>
+                    <p>
+                      We have a tailor-made brand identity package to make your corporate brand identity at an affordable price. Our top brand agency is always a single message away! You can ask for any custom designs, and we will help you bring the best of your brand in front of the people.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -317,8 +334,8 @@
     <div class="row">
       <div class="col-md-12">
         <div class="txtwrp">
-          <h2>Focused, bold solutions, for an evolving world</h2>
-          <p>We take an integrated approach to creating highly engaging digital properties & brand focused creative solutions.</p>
+          <h2>Brand Development Strategy for Amazing Results</h2>
+          <p>Our top branding company is here to deliver you the results. We will help you change your business profile. Our professional have decades of experience in branding service. We will provide you with the quality of work that will make you stand out from your competitors.</p>
         </div>
         <!--<div class="navwrp">-->
         <!--  <ul>-->
@@ -955,8 +972,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>If Your Business Owns Unprofessional Solution, It lost Credibility in Market</h2>
-        <p>To enhance branding or to build solid business foundation, you need a professional solution that enhance its credibility and it gives confidence to your customers to trust your business.</p>
+        <h2>Our Efforts are Never Futile</h2>
+        <p>What makes us unique is the actual effort and soul we put into every project. This is why most of our clients come back to us if they need something tweaked or created from scratch. You will never find us sleeping off on your project. We work diligently to deliver impressive results for our clients.</p>
       </div>
     </div>
     <div class="row">
@@ -1191,88 +1208,6 @@
   <a href="packages/business-rebranding-logo.html" class="btn-detail">View Details</a>
 </li>
 
-<!--<li class="hightwrp">-->
-<!--  <div class="pack-wrap blue">-->
-<!--    <div class="hdarea">-->
-      <!--<h4>Business Plus</h4>-->
-<!--      <h3>Gold Logo <br>Package</h3>-->
-<!--      <p>Suitable for potential super-startups and brand revamps for companies.</p>-->
-
-<!--    </div>-->
-<!--    <div class="bdarea">-->
-<!--      <ul class="list-scroll">-->
-      
-<!--          <li>Unlimited Logo</li>-->
-<!--          <li>8 Design Artist</li>-->
-<!--          <li>2 Stationery Designs</li>-->
-<!--          <li> UNLIMITED Revisions</li>-->
-<!--          <li> FREE MS Word Letterhead</li>-->
-<!--          <li> Free Email Signature</li>-->
-<!--          <li> Content Management System</li>-->
-<!--          <li> 2 Stock Photos</li>-->
-<!--          <li> 2 Banner Designs</li>-->
-<!--          <li> jQuery Slider</li>-->
-<!--          <li> All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li>-->
-<!--          <li> 100% Ownership Rights</li>-->
-<!--          <li> 100% Satisfaction Guarantee</li>-->
-<!--          <li> 100% Unique Design Guarantee</li>-->
-<!--          <li> 100% Money Back Guarantee *</li>-->
-<!--      </ul>-->
-<!--    </div>-->
-<!--    <div class="ftarea">-->
-<!--      <div class="lft">-->
-<!--        <h4><span class="cutting_price">£1200</span><strong>£</strong>199.99</h4>-->
-<!--      </div>-->
-<!--      <div class="rht">-->
-<!--        <p>Add on: £20 for 24 Hours Rush Delivery</p>-->
-<!--      </div>-->
-
-      
-<!--    </div>-->
-<!--  </div>-->
-<!--  <div class="pkbtn">-->
-<!--    <a href="https://logovalley.co.uk/get-a-custom-quote?pack=6" class="btn-blue">Buy Your Plan</a>-->
-<!--  </div>-->
-<!--  <a href="https://logovalley.co.uk/packages/gold-logo" class="btn-detail">View Details</a>-->
-<!--</li>-->
-
-<!--<li class="hightwrp">-->
-<!--  <div class="pack-wrap red">-->
-<!--    <div class="hdarea">-->
-      <!--<h4>Business Plus</h4>-->
-<!--      <h3> Illustrative Logo Package</h3>-->
-<!--      <p>Suitable for potential super-startups and brand revamps for companies.</p>-->
-
-<!--    </div>-->
-<!--    <div class="bdarea">-->
-<!--      <ul class="list-scroll">-->
-<!--        <li>3 Custom Logo Design Concepts</li>-->
-<!--        <li>By 2 Designers</li>-->
-<!--        <li>UNLIMITED Revisions</li>-->
-<!--        <li>48 to 72 hours TAT</li>-->
-<!--        <li>All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li>-->
-<!--        <li>100% Ownership Rights</li>-->
-<!--        <li>100% Satisfaction Guarantee</li>-->
-<!--        <li>100% Unique Design Guarantee</li>-->
-<!--        <li>100% Money Back Guarantee *</li>  -->
-<!--      </ul>-->
-<!--    </div>-->
-<!--    <div class="ftarea">-->
-<!--      <div class="lft">-->
-<!--        <h4><span class="cutting_price">£1200</span><strong>£</strong>109.99 </h4>-->
-<!--      </div>-->
-<!--      <div class="rht">-->
-<!--        <p>Add on: £20 for 24 Hours Rush Delivery</p>-->
-<!--      </div>-->
-
-      
-<!--    </div>-->
-<!--  </div>-->
-<!--  <div class="pkbtn">-->
-<!--    <a href="https://logovalley.co.uk/get-a-custom-quote?pack=7" class="btn-red">Buy Your Plan</a>-->
-<!--  </div>-->
-<!--  <a href="https://logovalley.co.uk/packages/illustrative-logo" class="btn-detail">View Details</a>-->
-<!--</li>-->
 
 
 <li class="hightwrp">
@@ -2302,15 +2237,18 @@
 <section class="strugglesec">
   <div class="container">
     <div class="row">
-      <h2>We create identities that are evergreen and have the potential to help your brand grow into a revolutionary label.Stationary Design</h2>
+      <h2>We're a top brand agency that offers cutting edge 
+design, animation, and web solutions. </h2>
+<p>We also provide branding services with integrated marketing campaigns for startups. We aim to take your corporate brand identity to the next level.</p>
 
       <div class="col-lg-8 offset-lg-2">
         <ul>
-          <li>Product Design</li>
-          <li>Business Card Design</li>
-          <li>Merchandise Design </li>
-          <li>Mascots Logo Design</li>
-          <li>Letterhead Design</li>
+          <li>brand development strategy</li>
+          <li>business brochure design</li>
+          <li>business card design online </li>
+          <li>brand identity design</li>
+          <li>custom stationery design</li>
+          <li>brand identity package</li> 
         </ul>
         <div class="text-center mtpx-25">
           <a href="javascript:;" onclick="setButtonURL();"" class="btn-secondary">Lets Get Started</a>
@@ -2348,7 +2286,7 @@
           <span>OG</span>
           
           <h4>Olivia George, Business Owner</h4>
-          <p>I was so pleased to find a great designer who actually followed my design brief and provide the perfect Logo design and a great looking Product Sticker. I am so thankful I chose to use work with logovalley!</p>
+          <p>Logo Valley is the complete gateway solution for brand building and designing. I recommend services to everyone who is looking for quality work.</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -2356,7 +2294,7 @@
           <span>JV</span>
           
           <h4>John Vanderbeck, Business Owner</h4>
-          <p>in helping me build over 10+ logos for my clients in just 1 Day. I highly recommend the service to anyone who is looking to get great design options at a great price point.</p>
+          <p>Logo Valley helped me from ideation to reputation management and helped me overcome my problems. Their services increased my audience and grew my brand.</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -2364,17 +2302,10 @@
           <span>CA</span>
           
           <h4>Christian Adam, Business Owner</h4>
-          <p>when it comes to offering logos to my clients. Plus, the product design and website development team makes me and my agency look super sharp.</p>
+          <p>They have multi-talented individuals in their designing team! Indeed, they provided me with excellent results at an affordable price.</p>
         </div>
       </div>
-      <div class="col-md-4">
-        <div class="mainwrp">
-          <span>LM</span>
-          
-          <h4>Lynne Murphy – MILO’s Mission Rescue</h4>
-          <p class="list-scroll">We were guided through the process with great care and focus to detail and felt supported throughout the whole process by Arnold & the team. We really appreciated them getting to understand the nature of our work in order to best come up with a new logo and website for us and felt that they had both a creative & advisory role in helping us with our end product.</p>
-        </div>
-      </div>
+ 
     </div>
   </div>
 </section>
@@ -2385,9 +2316,9 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Discuss with Our Experts & Choose the Best Solution</h2>
+          <h2>From design to a website to m arketing, we help you with your digital needs.</h2>
          
-          <p>We have your back. We are available 365x24x7 so leave us a line if you have any query or If you wish to discuss a project. We will get back to you as soon as possible.</p>
+          <p>Discuss with our digital consultant to see what services you need. We are available 24/7 at any time throughout the year. Talk to us at any time of the day. We'd be delighted to assist you!</p>
         </div>
       </div>
       <div class="col-lg-6 ">

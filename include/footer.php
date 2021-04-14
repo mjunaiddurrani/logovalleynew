@@ -10,6 +10,8 @@
             <br>
             86-90 Paul Street, London
 EC2A 4NE, UK
+<p>Logo Valley is a strategy-led complete brand development company that empowers 
+online businesses and help them take the corporate identity to the next level.</p>
           </div>
         </div>
 
@@ -49,10 +51,7 @@ EC2A 4NE, UK
             <li><a href="/privacy-policy/" title=" ">Privacy Policy</a></li>
           </ul>
            <ul class="ftr-social">
-              <!-- <li><a target="_blank " href="https://www.facebook.com/logovalley-Logo-102555771519831/ " class="text-white"><i class="fa fa-facebook" aria-hidden="true"></i></span></a></li>
-              <li><a target="_blank " href="https://www.instagram.com/logovalley.logo/ " class="text-white"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-              <li>
-                  <li><a target="_blank " href="https://twitter.com/Logologovalley " class="text-white"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+             
               <li>
               <img class="lazy " src="/assets/images/flags/uk.png ">
             </li>

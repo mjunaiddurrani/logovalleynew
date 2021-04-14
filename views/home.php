@@ -2557,24 +2557,10 @@ of your campaigns.</p>
         <div class="fldset">
         <input type="number" min="1" autocomplete="off" class="form-control" placeholder="Phone Number" name="phone" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'" required="">
         </div>
-        <!--<div class="fldset">-->
-        <!--  <select name="Services">-->
-        <!--    <option value="-1">Interested In</option>-->
-        <!--    <option value="logo design">Logo Design</option>-->
-        <!--    <option value="logo Animation">logo Animation</option>-->
-        <!--    <option value="Branding">Branding</option>-->
-        <!--    <option value="2D/3D Illustration">2D/3D Illustration</option>-->
-        <!--    <option value="Creative Copy Writing">Creative Copy Writing</option>-->
-        <!--    <option value="Website Design">Website Design</option>-->
-        <!--  </select>-->
-        <!--</div>-->
+
         </div>
       </div>
-      <!--<div class="col-lg-12">-->
-      <!--  <div class="fldset">-->
-      <!--    <input id="urlarea" name="SiteUrl" minlength="5" type="text" placeholder="Enter website" required />-->
-      <!--  </div>-->
-      <!--</div>-->
+    
       <div class="col-lg-12">
         <div class="fldset">
           <textarea name="brief" placeholder="I need a ... logo, website"></textarea>

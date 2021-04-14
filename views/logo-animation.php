@@ -14,12 +14,14 @@
       <div class="col-lg-7 col-md-12 my-auto">
         <div class="inner-banner-content">
           <!--<h5>Best Logo Design Services in the UK</h5>-->
-          <h1>Work With logovalley To Bring Them To Life</h1>
-          <p class="custom-para">logovalley is a one stop solution for all illustration related jobs. our company has an exclusively dedicated department to illustrations comprising of highly skilled illustrators working day and night to bring your ideas to life.</p>
+          <h1>Professional Logo 
+Animation Services with 
+Expert Logo Animators</h1>
+          <p class="custom-para">Custom logo animation company that provides high-quality logo animation services. Animate your logo to increase the value of your brand and make your brand memorable. Our work is a mix of classic styles with a fresh, modern twist. We create videos that convey a strong and positive message to your target audience.</p>
           <ul class="points">
               <li>2D Logo Animation</li>
               <li>3D Logo Animation</li>
-              <li>Logo Mockup Animation</li>
+              <li>Logo Mockup Animation</li>  
               <li>Logo Animation with VFX</li>
           </ul>
           <a href="javascript:;" onclick="setButtonURL();" >Lets Get Started</a><br/>
