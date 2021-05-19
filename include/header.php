@@ -130,7 +130,7 @@
                   <input type="hidden" name="news" value="1">
             <div class="row">
             <div class="col-md-12 col-xs-12 margin-bottom-10">
-              <input type="text" autocomplete="off" class="form-control" placeholder="Full Name" name="name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required="required">
+              <input type="text" onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" autocomplete="off" class="form-control" placeholder="Full Name" name="name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required="required">
             </div>
             <input type="hidden" name="_token" value="N49UNLabJbUSvBDJEo7foM8hpNuXpnw4qMXgV2mo">
             <div class="col-md-12 col-xs-12 margin-bottom-10">

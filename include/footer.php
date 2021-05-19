@@ -18,7 +18,7 @@ online businesses and help them take the corporate identity to the next level.</
         <div class="col-lg-6 ">
           <div class="wrapper ">
             <ul class="footer-nav ">
-              <li><a href="/index/">Home</a></li>
+              <li><a href="/">Home</a></li>
               <li><a href="/package/">Packages</a></li>
               <li><a href="/Showcase/">Showcase</a></li>
               <li><a href="/contact/">Contact Us</a></li>
