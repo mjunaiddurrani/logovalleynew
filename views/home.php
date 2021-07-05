@@ -19,17 +19,20 @@
 <div class="row ">
 <div class="col-lg-7 col-md-12 ">
 <div class="inner-banner-content ">
-<h1>Ready to create your new logo design?</h1>
-<p class="custom-para ">Your logo design is a key part of your brand identity. We work with businesses from around the world to help create easy to recognize logos.</p>
+<h1>Empower Online Businesses & Services Through Creative Designs.</h1>
+<p class="custom-para ">We empower brands and entrepreneurs by providing perfect design solutions for digital needs. Whether it's about logo design or website development, we'll take your brand to the next level.</p>
 <ul class="points ">
-<li>Professional designers—all rated and reviewed</li>
-<li>Dozens of design concepts to explore</li>
-<li>A custom logo in just hours</li>
+<li>Professional Designers</li>
+<li>Custom Video Animators</li>
+<li>Thousands of digital possibilities</li>
 <li>  100% money back guarantee</li>
+<li>  Improve Your Designs to Expand your Business Online</li>
+<li>  Award-Winning Logo Designing and Animation Services</li>
+<li>  10+ Years of Professional Experience</li>
+<li>  24/7 Live Customer Support</li>
+<li>  Money-Back Guarantee</li>
 </ul>
-<a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary ">Lets Get Started</a><br/>
-<img class="lazy seoimg " src="assets/images/trustpilot.png " alt=" ">
-<img class="lazy seoimg-2 " src="assets/images/rateimg.png " alt=" " />
+<a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary ">Lets Get Started</a>
 </div>
 </div>
 <div class="col-lg-5 col-md-12 ">
@@ -39,134 +42,10 @@
 </div>
 </section>  
 
-<!-- <section class="inner-banner smm-banner d-flex seo " style="background-image: url(assets/images/banners/branding.webp); ">
-<div class="container h-100 ">
-<div class="row ">
-<div class="col-lg-7 col-md-12 ">
-<div class="inner-banner-content ">
-<h1>Looking to get your web design right?</h1>
-<p class="custom-para ">Your website is always working for you. We work with businesses from around the world to help them get their web design right.</p>
-<ul class="points ">
-<li>A custom-designed website - Starting at  $199</li>
-<li>Dozens of design concepts to explore</li>
-<li>Full copyright and production ready files</li>
-<li>100% money back guarantee</li>
-</ul>
-<a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary ">Lets Get Started</a><br/>
-<img class="lazy seoimg " src="assets/images/trustpilot.png " data-src=" " alt=" ">
-<img class="lazy seoimg-2 " src="assets/images/rateimg.png " alt=" " />
-</div>
-</div>
-<div class="col-lg-5 col-md-12 btopform ">
 
-</div>
-</div>
-</div>
-</section> -->
-
-<!-- <section class="inner-banner smm-banner d-flex seo "  style="background-image: url(assets/images/banners/web-design-and-development.webp); ">
-<div class="container h-100 ">
-<div class="row ">
-<div class="col-lg-7 col-md-12 my-auto ">
-<div class="inner-banner-content ">
-<h1>Wants your idea to be next big thing?</h1>
-<p class="custom-para ">Our app design personnel have what it takes to craft innovative, client-centric mobile apps.</p>
-<ul class="points ">
-<li>We help startups develop their MVP</li>
-<li>Unique and user centric designs</li>
-<li>Full copyright and production ready files.</li>
-
-</ul>
-<a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary ">Lets Get Started</a><br/>
-<img class="lazy seoimg " src="assets/images/trustpilot.png " alt="banner ">
-<img class="lazy seoimg-2 " src="assets/images/rateimg.png " alt="banner " />
-</div>
-</div>
-<div class="col-lg-5 col-md-12 btopform ">
-
-</div>
-</div>
-</div>
-</section> -->
 
 </div>
 
-<!-- <section class="home-form ">
-  <div class="container ">
-    <div class="row ">
-      <div class="col-lg-5 offset-lg-7 d-block d-md-none d-lg-block">
-                <div class="topformcontainer">
-                  <div class="topformwrap">
-                    <div class="main-percent d-none d-md-block">
-                      <div class="per-box1 ">
-                        <figure>
-                          <img class="hme-nmrl-img" src="img/50percent.png" alt="">
-                        </figure>
-                      </div>
-                      <div class="per-box2">
-                        <h3><span>chat</span> <p>with us to avail</p> 50% off</h3>
-                      </div>
-                    </div>
-                    <div class="formbody">
-                      <section class="banform myban">
-                        <div class="">
-                          <div class="row">
-                            <div class="">
-                              <div class="ban-form">
-                                <form class="cmxform" id="bannerform" method="POST" action="/leads/">
-                                  <input type="hidden" name="route" value="/">   
-                                  <input type="hidden" name="brand" value="thewebfounders">   
-                                  <input type="hidden" name="tag" value="modal-auto">
-                                  <input type="hidden" name="price" value="null">
-                                  <input type="hidden" name="news" value="1">
-                                  <div class="row">
-                                    <div class="col-lg-12">
-                                      <div class="fldset">
-                                        <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required="">
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                      <div class="fldset">
-                                        <input id="cemail" type="email" name="email" placeholder="Enter email here" required="">
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                      <div class="fldset">
-                                      <input id="phone" type="tel" name="phone" />
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                      <div class="fldset">
-                                        <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
-                                      </div>
-                                    </div>
-                                    
-                                    <div class="col-lg-12">
-                                      <div class="fldset">
-                                        <input name="submit" type="submit" placeholder="Connect With Us" required="">
-
-                                        <script type="text/javascript">
-                                      document.getElementById('location').value = window.location.href;
-                                    </script>
-                                    <input class="" type="hidden" name="ctry" value="">
-                                    <input type="hidden" name="pc" value="+92+92+92+92">
-                                    <input type="hidden" name="hiddencapcha" value="">
-                                    <input type="hidden" id="location" name="locationURL" value="https://www.thewebfounders.com/">
-                                      </div>
-                                    </div>
-                                  </div>
-                                </form>
-                              </div>
-                            </div>
-                          </div>
-                      </div>
-                    </section>      </div>
-                  </div>
-                  
-                </div>
-              </div>
-  </div>
-</section> -->
 
 <section class="partners-cta ">
   <div class="container ">
@@ -274,8 +153,8 @@
   <div class="container ">
     <div class="row ">
       <div class="col-lg-7 ">
-         <h2 class="text-left ">We Deliver Professional Logos that Inspire Stories</h2>
-         <p>We take products through every stage necessary for their creation – Product Discovery, Business and User Research, UX/UI Design, Prototyping, Usability Testing, and future Product Improvements.
+         <h2 class="text-left ">Create Inspirational Logos and  Brands.</h2>
+         <p>We take every step with considerate design thinking. This makes our approach to design is different from cheap branding and designing services. Thus, we dig deep into your consumers' behaviour patterns to understand what they want to see. From research to UX/UI design and testing, we improve your product and services' future.
          </p>
         <div class="text-left mtpx-25 btns ">
           <a href="javascript:; " onclick="setButtonURL(); "  class="btn-secondary 
@@ -295,7 +174,7 @@ liveChat">Chat With Us</a>
   <div class="container ">
     <div class="row ">
       <div class="col-lg-12 ">
-        <h2>Let your Idea be the Next Big Thing with Our Branding Solutions</h2>
+        <h2>Meet All Your KPIs and Targets Through Our Branding Services.</h2>
       </div>
 
       <div class="col-lg-6 my-auto ">
@@ -322,7 +201,7 @@ liveChat">Chat With Us</a>
             </div>
             <div class="rht ">
               <h3>Logo Design</h3>
-              <p>our experienced designers make effort to create a logo that doesn’t only seem professional but also apart from other brands.</p>
+              <p>We aim to make your business memorable for your audience. Above all, our expert logo designers will create an eye-catchy logo for your business.</p>
             </div>
           </li>
           <li>
@@ -333,7 +212,7 @@ liveChat">Chat With Us</a>
             </div>
             <div class="rht ">
               <h3>Logo Animation</h3>
-              <p>A logo is what represents your business and acts as an ambassador for your brand.Our expert animators create the perfect blend of images and emotions which leads to brand recognition and profitability.</p>
+              <p>Blow liveliness into your static logo designs with our experience logo animators. We are here to take your logo to the next level through our services.</p>
             </div>
           </li>
           <li>
@@ -344,7 +223,7 @@ liveChat">Chat With Us</a>
             </div>
             <div class="rht ">
               <h3>2D/3D Illustration</h3>
-              <p>We acknowledge the technicality of illustrations, make sure that we create exclusive and highly creative ones.</p>
+              <p>Show the technical aspect of the business through our services. Our premium quality 2D and 3D illustrations keep your audience hooked.</p>
             </div>
           </li>
           
@@ -360,7 +239,7 @@ liveChat">Chat With Us</a>
             </div>
             <div class="rht ">
               <h3>Branding</h3>
-              <p>From custom social media banners to creative business collateral we offer professional branding solution for every industry.</p>
+              <p>Focused and exceptional branding services for growth-oriented businesses and entrepreneurs. We offer professional services for every industry.</p>
             </div>
           </li>
           <li>
@@ -371,7 +250,7 @@ liveChat">Chat With Us</a>
             </div>
             <div class="rht ">
               <h3>Website Design & Development</h3>
-              <p>We Create Websites that Make You Look Good in the Digital World. Hire our team of experts who can deal with your design and development requirements.</p>
+              <p>We create functional customer-centric websites. The more user-friendly and responsive web, the higher the conversion rate. Thus, we design to make your web traffic becomes your loyal clients. make your web traffic becomes your loyal clients</p>
             </div>
           </li>
           <li>
@@ -382,7 +261,7 @@ liveChat">Chat With Us</a>
             </div>
             <div class="rht ">
               <h3>Creative Content Writing</h3>
-              <p>Client-focused, customer-centric, creating website solutions that deliver tangible business results.</p>
+              <p>We are always ready to go beyond the accepted norms. Get your website, social media, blog, or articles written by a professional team of writers.</p>
             </div>
           </li>
           </ul>
@@ -395,8 +274,8 @@ liveChat">Chat With Us</a>
   <div class="container ">
     <div class="row ">
       <div class="col-lg-8 offset-lg-2 ">
-        <h2>We’re just as excited about your idea as you are</h2>
-        <p>We are a full service digital consultancy with experience and capacity to meet the needs of even the largest most complex of organizations in the world. Our services portfolio enables us to offer clients the best of experiences.</p>
+        <h2>We are as passionate about your next big idea as you are!</h2>
+        <p>Logo Valley is the perfect place to fuel your passions. Here, you can turn all imaginations into reality. Our professional designers hold decades of experience in delivering design solutions to brands. Be it illustrations, website designing, or animations. We turn ideas into virtual reality.</p>
 
 
 
@@ -409,8 +288,8 @@ liveChat">Chat With Us</a>
     <div class="row">
       <div class="col-md-12">
         <div class="txtwrp">
-          <h2>Focused, bold solutions, for an evolving world</h2>
-          <p>We take an integrated approach to creating highly engaging digital properties & brand focused creative solutions.</p>
+          <h2>Focused on winning strategies and creating clean,  beautiful work</h2>
+          <p>Our strategists, copywriters, and developers spend countless hours crafting beautiful products. See our exemplary sample work.</p>
         </div>
         <div class="navwrp">
           <ul>
@@ -1145,8 +1024,8 @@ liveChat">Chat With Us</a>
   <div class="container ">
     <div class="row ">
       <div class="col-lg-12 ">
-        <h2>A Business with an Unprofessional Design Loses its Credibility in the Market</h2>
-        <p>To enhance branding or to build solid business foundation, you need a professional solution that enhance its credibility and it gives confidence to your customers to trust your business.</p>
+        <h2>Bold and Creative Ideas Empower You to Achieve Bigger Goals.</h2>
+        <p>Do not let unprofessional designs hinder your way to success. Logo Valley is the digital solution to enhance your business credibility online.</p>
       </div>
     </div>
     <div class="row ">
@@ -2485,7 +2364,7 @@ liveChat">Chat With Us</a>
 <section class="listsec ">
   <div class="container ">
     <div class="row ">
-      <h2>Logo Design Solutions for B2B and B2C Companies </h2>
+      <h2>We Cater to B2B and B2C Companies </h2>
       <div class="col-lg-10 offset-lg-1 ">
         <div class="wrap ">
           <ul>
@@ -2530,9 +2409,9 @@ liveChat">Chat With Us</a>
             <li class="br ">
               <p><i class="fa fa-check-circle-o" aria-hidden="true"></i> Manufacturers</p>
             </li>
-            <li class=" br ">
+            <!-- <li class=" br ">
               <p><i class="fa fa-check-circle-o" aria-hidden="true"></i> Medical professionals</p>
-            </li>
+            </li> -->
             <li class=" ">
               <p><i class="fa fa-check-circle-o" aria-hidden="true"></i> Government agencies</p>
             </li>
@@ -2554,7 +2433,7 @@ liveChat">Chat With Us</a>
   <div class="container ">
     <div class="row ">
       <div class="col-lg-12 ">
-        <h3>Shape a strong brand that connects with your audience!</h3>
+        <h3>Deepen your Connection with the Audience through Logo Valley.</h3>
         <a href="javascript:;" onclick="setButtonURL();" class="btn-secondary">Design Brand With Us </a>
         <h5>Have a Question, <a href="javascript:;" onclick="setButtonURL();">Talk with Us </a></h5>
       </div>
@@ -2573,7 +2452,9 @@ liveChat">Chat With Us</a>
           <img class="lazy " src="assets/images/testbox1.png ">
         </figure>
         <h3>Branded<br>Presence Optimisation</h3>
-        <p>Helping your audience understand your brand ideology clearly with strategised content.</p>
+        <p>Strategy-led branding services
+to help your audience
+understand your ideology.</p>
       </div>
     </div>
     <div class="col-lg-4 ">
@@ -2582,7 +2463,9 @@ liveChat">Chat With Us</a>
           <img class="lazy " src="assets/images/testbox2.png ">
         </figure>
         <h3>Complete <br>Digital Management</h3>
-        <p>Helping you engage better by managing your complete digital brand persona efficiently.</p>
+        <p>Engage your both online
+and offline customers for
+brand effectiveness.</p>
       </div>
     </div>
     <div class="col-lg-4 ">
@@ -2591,7 +2474,9 @@ liveChat">Chat With Us</a>
           <img class="lazy " src="assets/images/testbox3.png ">
         </figure>
         <h3>Real-time <br>Campaign Edits</h3>
-        <p>Helping you perform efficiently with real-time edits on the project for proven results.</p>
+        <p>Goal-oriented digital
+agency to improve the quality
+of your campaigns.</p>
       </div>
     </div>
     <div class="btn-wrap ">
@@ -2616,7 +2501,7 @@ liveChat">Chat With Us</a>
           <span>OG</span>
           
           <h4>Olivia George, Business Owner</h4>
-          <p>I was so pleased to find a great designer who actually followed my design brief and provide the perfect Logo design and a great looking Product Sticker. I am so thankful I chose to use work with logovalley!</p>
+          <p>Logo Valley is the complete gateway solution for brand building and designing. I recommend services to everyone who is looking for quality work.</p>
         </div>
       </div>
       <div class="col-md-4 ">
@@ -2624,7 +2509,7 @@ liveChat">Chat With Us</a>
           <span>JV</span>
           
           <h4>John Vanderbeck, Business Owner</h4>
-          <p>They helped me build over 10+ logos for my clients in just 1 Day. I highly recommend the service to anyone who is looking to get great design options at a great price point.</p>
+          <p>Logo Valley helped me from ideation to reputation management and helped me overcome my problems. Their services increased my audience and grew my  brand</p>
         </div>
       </div>
       <div class="col-md-4 ">
@@ -2632,17 +2517,10 @@ liveChat">Chat With Us</a>
           <span>CA</span>
           
           <h4>Christian Adam, Business Owner</h4>
-          <p>when it comes to offering logos to my clients. Plus, the product design and website development team makes me and my agency look super sharp.</p>
+          <p>They have multi-talented individuals in their designing team! Indeed, they provided me with excellent results at an affordable  price.</p>
         </div>
       </div>
-      <div class="col-md-4 ">
-        <div class="mainwrp ">
-          <span>LM</span>
-          
-          <h4>Lynne Murphy – MILO’s Mission Rescue</h4>
-          <p class="list-scroll ">We were guided through the process with great care and focus to detail and felt supported throughout the whole process by Arnold & the team. We really appreciated them getting to understand the nature of our work in order to best come up with a new logo and website for us and felt that they had both a creative & advisory role in helping us with our end product.</p>
-        </div>
-      </div>
+   
     </div>
   </div>
 </section>
@@ -2654,9 +2532,9 @@ liveChat">Chat With Us</a>
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Discuss with Our Experts &amp; Choose the Best Solution</h2>
+          <h2>From design to a website to marketing, we help you with your digital needs</h2>
          
-          <p>We have your back. We are available 365x24x7 so leave us a line if you have any query or If you wish to discuss a project. We will get back to you as soon as possible.</p>
+          <p>Discuss with our digital consultant to see what services you need. We are available 24/7 at any time throughout the year. Talk to us at any time of the day. We'd be delighted to assist you!</p>
         </div>
       </div>
       <div class="col-lg-6 ">
@@ -2679,24 +2557,10 @@ liveChat">Chat With Us</a>
         <div class="fldset">
         <input type="number" min="1" autocomplete="off" class="form-control" placeholder="Phone Number" name="phone" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'" required="">
         </div>
-        <!--<div class="fldset">-->
-        <!--  <select name="Services">-->
-        <!--    <option value="-1">Interested In</option>-->
-        <!--    <option value="logo design">Logo Design</option>-->
-        <!--    <option value="logo Animation">logo Animation</option>-->
-        <!--    <option value="Branding">Branding</option>-->
-        <!--    <option value="2D/3D Illustration">2D/3D Illustration</option>-->
-        <!--    <option value="Creative Copy Writing">Creative Copy Writing</option>-->
-        <!--    <option value="Website Design">Website Design</option>-->
-        <!--  </select>-->
-        <!--</div>-->
+
         </div>
       </div>
-      <!--<div class="col-lg-12">-->
-      <!--  <div class="fldset">-->
-      <!--    <input id="urlarea" name="SiteUrl" minlength="5" type="text" placeholder="Enter website" required />-->
-      <!--  </div>-->
-      <!--</div>-->
+    
       <div class="col-lg-12">
         <div class="fldset">
           <textarea name="brief" placeholder="I need a ... logo, website"></textarea>

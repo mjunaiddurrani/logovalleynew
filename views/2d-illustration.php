@@ -15,14 +15,26 @@
     <div class="row">
       <div class="col-lg-7 col-md-12 my-auto">
         <div class="inner-banner-content">
-          <!--<h5>Best Logo Design Services in the UK</h5>-->
-          <h1>Sketching Out Beautiful 2D & 3D Illustrations</h1>
-          <p class="custom-para">We provide you with gorgeously designed 2D and 3D illustrations for your business.</p>
-          <ul class="points">
-              <li>Advertising Illustration</li>
-              <li>Illustration of Any Type</li>
-              <li>100% Satisfaction</li>
-          </ul>
+          <h1>Professional Video  Animation Services</h1>
+          <p class="custom-para " style="clear:both;">A moving picture is what attracts digital consumers these days. The world of 2D and 3D illustration is imaginative. We bring powerful results for those who enter this realm.</p>
+          <div class="row">
+            <div class="col-md-6">
+              <ul class="points">
+                  <li>Custom Animated Video</li>
+                  <li>Creative Illustrations of any type</li>
+                  <li>Explainer video production</li>
+              </ul>
+            
+            </div>
+            <div class="col-md-6">
+
+              <ul class="points">
+                  <li>Whiteboard explainer videos</li>
+                  <li>2D and 3D illustrations services and Much More</li>
+              </ul>
+            
+            </div>
+          </div>
           <a href="javascript:;" onclick="setButtonURL();" >Lets Get Started</a><br/>
           <img src="assets/images/trustpilot.png" class="seoimg" alt="">
           <img src="assets/images/rateimg.png" class="seoimg-2" alt="" />
@@ -205,7 +217,7 @@
       <div class="col-md-2"></div>
       <div class="col-md-8">
         <div class="section_title">
-          <h3> LOGO TYPES </h3>
+          <h3> Startup Video Production Online Will Help You Achieve Your Digital Dreams </h3>
         </div>
       </div>
       <div class="col-md-2"></div>
@@ -214,23 +226,31 @@
       <div class="col-md-12">
         <div class="tab-custom">
             <ul class="tabbing-links">
-              <li class="current" data-targetit="tabs-illustl">Illustrative Design</li>
-              <li data-targetit="tabs-mascotl" class="">Mascot</li>
+              <li class="current" data-targetit="tabs-illustl">2D Illustrations  </li>
+              <li data-targetit="tabs-mascotl" class="">3D Illustrations</li>
               
-              <li data-targetit="tabs-wordl" class="">Wordmark Design</li>
-              <li data-targetit="tabs-design3dl" class="">3D Design</li>
-              <li data-targetit="tabs-abstractl" class="">Abstract Design</li>
-              <li data-targetit="tabs-letterl" class="">Letter Logo</li>
-              <li data-targetit="tabs-pictoriall" class="">Pictorial Mark</li>
+              <li data-targetit="tabs-wordl" class="">Animated Explainer Videos</li>
+              <li data-targetit="tabs-design3dl" class="">Whiteboard Explainer Videos </li>
+              <!-- content updated till here -->
+              <li data-targetit="tabs-abstractl" class="">2D/ 3D </li>
             </ul>
             <div class="tabs tabs-mascotl">
               <div class="row">
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/mascot.png" class="img-responsive center-block lazy" alt="image"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Mascot Logo Design</h6>
-                    <p> Often colorful, sometimes cartoonish, and most always fun, the mascot logo is a great way to create your very own brand spokesperson. A mascot is simply an illustrated character that represents your company. Think of them as the ambassador for your business.</p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> 3D Illustrations</h6>
+                    <p> Bring life to the designs and create a familiar realm through 3D illustrations. Businesses are moving from basic graphic designing to 3D illustrations. It catches the viewer's attention more and engages their senses more. Our goal is to keep more people viewing your custom animated videos.</p>
+                    <p><strong>Illustration design agency for 3D illustration Product Designing</strong></p>
+                    <p>
+                    Whether you want 3D illustrations for a product, mockup or website, you have got our full support. We have years of experience in 3D product designing, illustrations, and animations. With our cutting-edge designing technology, bring the missing element of your product. We'll help you craft striking 3D illustrations for all marketing and branding purposes.
+
+                    </p>
+                    <p><strong>Stunning 3D video Animation Services</strong></p>
+                    <p>
+                    Our custom illustrators have the expertise that will make the world move. Be it 3D illustrations, animated explainer. You've got our back. We design real-world like custom animated videos that depict our modern-day society. We have the best team of custom illustrators and designers in the UK. Are you ready to get exceptional results for your brand?
+
+                    </p>
                   </div>
                 </div>
               </div>
@@ -240,20 +260,45 @@
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/illustrative.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Illustrative Design </h6>
-                    <p> If you want to create a work of art – illustrative logos are the best fit as it contains intricate artwork. It will act as a trendy as well as contemporary image of your brand and keep the viewers attention longer than the traditional logo design. We at <span class="text-grad">Logo Valley</span> use latest tools and technology to create a remarkable illustrative logo for your brand. </p>
-                    <a href="javascript:;" onclick="setButtonURL();" >Let's Get Started</a> </div>
+                    <h6> 2D Illustrations</h6>
+                    <p> Illustration design agency offers you a 2D illustration of your choice. Our in-house custom illustrators create unique 2D illustrations for you. Your viewers can never ignore our high-quality illustrative design agency services outcomes. We also create 2D whiteboard explainer videos. </p>
+                    <p><strong>2D video animation services</strong></p>
+                    <p>
+                    
+ 
+Logo Valley is proud of its video animation services. We create a smooth and engaging custom animated video for the 2D world. Our custom illustrators have the expertise to work on any design and idea. All you need to do is to provide us with the initial brief. Our 2D illustrations and video animation services will turn the tables around.
+ 
+
+                    </p>
+                    <p><strong>Illustration design agency with influential custom illustrators</strong></p>
+                    <p>
+                    
+Our distinctive approach makes us remarkable from cheap video animation services. All our 2D illustrations and custom animated videos are hand-drawn. Cheap tools or cookie-cutter style of 2D illustration are rather dull to the bones. Thus, we bring liveliness into your world of 2D illustration. Create whiteboard explainer videos in budget.
+                    </p>
                 </div>
               </div>
             </div>
+          </div>
             <div class="tabs tabs-wordl">
               <div class="row">
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/wordmark.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Wordmark Design </h6>
-                    <p> Create your professional wordmark logo with <span class="text-grad">Logo Valley </span>. It is a pure form of logo and a text-only representation of your brand – which makes it a good choice for start-ups and accelerating businesses that are seeking a static and no-hassle solution. We allow full customization to create your own wordmark logo design to enhance your brand visibility. </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> Animated Explainer Videos </h6>
+                    <p> If you want to engage your online viewers, then animated explainer videos are the best way to do it. Your consumer is not looking for products or searching for new companies. Instead, they google to understand how your product or services work. As an excellent explainer video company in the UK, we help you create incredible videos.</p>
+                    <p><strong>2D and 3D Animated Explainer Videos</strong></p>
+                    <p>
+                    
+                     Our explainer video company in the UK understands the importance of explainer videos. Your consumers seek to understand the services you give. If you leave room for any confusion, then it will be troublesome for you. The competition has become in the digital times. Thus, do not lag in creating custom animated videos.
+
+
+                    </p>
+                    <p><strong>Startup Video Production Online</strong></p>
+                    <p>
+                    Our explainer video company believes in perfect explainer video production. If it is only done for marketing purpose, it is not a bad idea as you are still engaging the online consumer. So, our custom illustrators bring in more to the video animation services.
+
+                    </p>
+
                   </div>
                 </div>
               </div>
@@ -263,9 +308,14 @@
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/3d-logos.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> 3D Design </h6>
-                    <p> If you’re looking for a modern style logo – our 3-Dimensional logo designs will serve you best. We specialize in making 3D logos which reflects your brand in an attractive way. With our abundant 3D logo designs – enjoy the rewards of attracting a large number of clients as your audience will be able to experience look and feel of your business. Ping us now and let’s add some dimensions to your boring logo designs. </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> Whiteboard Explainer Videos  </h6>
+                    <p> Whiteboard explainer video production is a creative way to keep your viewers engaged. A lot of time, your brand needs a quick and effective explainer video production. This is where our explainer video company comes in. We create affordable whiteboard explainer videos. Hire the perfect animation video production company. </p>
+                    <p><strong>Video Animation Company for Whiteboard Animation Video</strong></p>
+                    <p>
+                    Our animation video production company offer you exceptional 2D and 3D illustration services. Our extensive services also include whiteboard animated explainer videos. These videos are also affordable, original, and super creative. Thus, our whiteboard explainer video explains a difficult concept in an exciting manner. Get the perfect whiteboard explainer videos.
+
+                    </p>
+
                   </div>
                 </div>
               </div>
@@ -275,37 +325,16 @@
                 <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/abstract.png" alt="image" class="img-responsive center-block lazy"> </div>
                 <div class="col-md-6">
                   <div class="wrapcontents">
-                    <h6> Abstract Design </h6>
-                    <p> Abstract logo designs also known as smart logos is a mix of pictures, typography and shapes. A lot of organizations today use abstract logos for their businesses. They are usually used as a conceptual strategy to represent your business idea. It also allows you to exhibit different functions of your company. Join hands with <span class="text-grad">Logo Valley</span> to create your abstract logo that reflects an unclear vision of your business – so that you can play safe in your business operations. </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
+                    <h6> Indigenous 2D and 3D illustrations Services </h6>
+                    <p> Be it the 2D or 3D illustrations; our designers have natural video creation talent. They create every design without using cheap online tools. This makes our work different and original from others. Consult the unique animation video production company. </p>
+                    <p><strong>Custom Animated Videos for Startup Video Production Online</strong></p>
+                    <p>Our illustration design agency offers imaginative 2D and 3D illustrations services. It's alright if the design in your mind. We will help you create it. Looking for a professional animation video production company or an illustration design agency? You're covered. Our in-office custom illustrators are always ready to spark up your digital world.
+                    </p>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="tabs tabs-letterl">
-              <div class="row">
-                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/letter.png" alt="image" class="img-responsive center-block lazy"> </div>
-                <div class="col-md-6">
-                  <div class="wrapcontents">
-                    <h6> Letter Logo Design </h6>
-                    <p>Letter Marks are solely typographic. They use a symbol representing the company through the use of its initials or the brands first letter. Many corporations choose to use this kind of logo as their initials can be graphically illustrated in a better manner.  </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="tabs tabs-pictoriall">
-              <div class="row">
-                <div class="col-md-6"> <img src="https://logocottage.co.uk/img/typelogos/pictorial.png" alt="image" class="img-responsive center-block lazy"> </div>
-                <div class="col-md-6">
-                  <div class="wrapcontents">
-                    <h6> Pictorial Mark </h6>
-                    <p> A pictorial mark (sometimes called a brand marks or logo symbol) is an icon, or graphic-based design. A true brand mark is only an image. Because of this, it can be a tricky logo type for new companies, or those without strong brand recognition, to use.  </p>
-                    <a href="javascript:;" onclick="$zopim.livechat.window.toggle()" class="btn-line-fill ali-fill">Let's Get Started</a> 
-                  </div>
-                </div>
-              </div>
-            </div>
+     
         </div>
       </div>
     </div>
@@ -318,19 +347,10 @@
     <div class="row">
       <div class="col-md-12">
         <div class="txtwrp">
-          <h2>Focused, bold solutions, for an evolving world</h2>
-          <p>We take an integrated approach to creating highly engaging digital properties & brand focused creative solutions.</p>
+          <h2>2D and 3D Illustration Services</h2>
+          <p>Logo Valley is a new way to showcase your brand by adding motion to the still logo or product image. Our animation video production company provides your audience with an exciting customer-centric experience. See our online 2D and 3D illustrations services and animation portfolio down below.</p>
         </div>
-        <!--<div class="navwrp">-->
-        <!--  <ul>-->
-        <!--    <li data-targetit="logodegn">Logo Design</li>-->
-        <!--    <li data-targetit="webdesgn">Website Design</li>-->
-        <!--    <li  data-targetit="logoani">Logo Animation</li>-->
-        <!--    <li class="current" data-targetit="2d">2D/3D Illustration</li>-->
-        <!--    <li data-targetit="brand">Branding</li>-->
-            
-        <!--  </ul>-->
-        <!--</div>-->
+
       </div>
     </div>
  <div class="tab logodegn mytabs ">
@@ -952,21 +972,14 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>If Your Business Owns Unprofessional Solution, It lost Credibility in Market</h2>
-        <p>To enhance branding or to build solid business foundation, you need a professional solution that enhance its credibility and it gives confidence to your customers to trust your business.</p>
+        <h2>Our Packages </h2>
+        <p>Our illustration design agency is the answer to your design problem. Find the package that best suits your designing budget.</p>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12 nopad_left nopad_right">
         <div class="tab-custom slidpack">
-        <!--<ul class="tabbing-links">-->
-        <!--  <li data-targetit="tabs-logo">logo</li>-->
-        <!--  <li data-targetit="tabs-logoani">logo Animations</li>-->
-        <!--  <li data-targetit="tabs-brnd">Corporate Branding</li>-->
-        <!--  <li class="current" data-targetit="tabs-illust">2D/3D Illustration </li>-->
-        <!--  <li data-targetit="tabs-cw">Content Writing</li>-->
-        <!--  <li data-targetit="tabs-web">Web</li>-->
-        <!--</ul>-->
+
 
         <ul class="tabs tabs-logo pkg-sliders">    
           
@@ -2298,8 +2311,12 @@
 <section class="strugglesec">
   <div class="container">
     <div class="row">
-      <h2>Our teams are committed to your success and we work hard to provide excellent work for all our clients. </h2>
-
+      <div class="col-md-8 offset-md-2">
+          <h2>Move your Brand Identity to the Next Level </h2>
+          <p>
+            Our video animation company will help you communicate with effectiveness. Thanks to our creative process that helps you define the business's goals. With us, your brand will stay consistent all the time.
+          </p>
+      </div>
       <div class="col-lg-8 offset-lg-2">
         <ul>
           <li>2D Illustration</li>
@@ -2348,7 +2365,7 @@
           <span>OG</span>
           
           <h4>Olivia George, Business Owner</h4>
-          <p>I was so pleased to find a great designer who actually followed my design brief and provide the perfect Logo design and a great looking Product Sticker. I am so thankful I chose to use work with logovalley!</p>
+          <p>Logo Valley focuses on quality and emphasis on clients satisfaction. This approach is what I love about them.</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -2356,7 +2373,7 @@
           <span>JV</span>
           
           <h4>John Vanderbeck, Business Owner</h4>
-          <p>in helping me build over 10+ logos for my clients in just 1 Day. I highly recommend the service to anyone who is looking to get great design options at a great price point.</p>
+          <p>Logo Valley is the best animation video production company in the UK. That's the truth!</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -2364,7 +2381,7 @@
           <span>CA</span>
           
           <h4>Christian Adam, Business Owner</h4>
-          <p>when it comes to offering logos to my clients. Plus, the product design and website development team makes me and my agency look super sharp.</p>
+          <p>I love this video animation company for many reasons. Above all the reasons, they provide high-quality design and animation. Also, their services are affordable that wins my heart.</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -2372,7 +2389,7 @@
           <span>LM</span>
           
           <h4>Lynne Murphy – MILO’s Mission Rescue</h4>
-          <p class="list-scroll">We were guided through the process with great care and focus to detail and felt supported throughout the whole process by Arnold & the team. We really appreciated them getting to understand the nature of our work in order to best come up with a new logo and website for us and felt that they had both a creative & advisory role in helping us with our end product.</p>
+          <p class="list-scroll">If you are looking for startup video production online, don't wait and hire Logo Valley! I am super happy with their services. I'd repeat that this company is worth giving a shot. Thank you a bunch for the fantastic and quick services.</p>
         </div>
       </div>
     </div>
@@ -2386,9 +2403,9 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Discuss with Our Experts & Choose the Best Solution</h2>
+          <h2>Logo Valley is the key to your Online Marketing and Branding Success.</h2>
          
-          <p>We have your back. We are available 365x24x7 so leave us a line if you have any query or If you wish to discuss a project. We will get back to you as soon as possible.</p>
+          <p>Discuss your imaginative ideas to turn them into digital reality. Get in touch with our free consultation services, or drop your query in the given form. We are always available to deliver exceptional results.</p>
         </div>
       </div>
       <div class="col-lg-6 ">
@@ -2409,24 +2426,10 @@
         <div class="fldset">
           <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
         </div>
-        <!--<div class="fldset">-->
-        <!--  <select name="Services">-->
-        <!--    <option value="-1">Interested In</option>-->
-        <!--    <option value="logo design">Logo Design</option>-->
-        <!--    <option value="logo Animation">logo Animation</option>-->
-        <!--    <option value="Branding">Branding</option>-->
-        <!--    <option value="2D/3D Illustration">2D/3D Illustration</option>-->
-        <!--    <option value="Creative Copy Writing">Creative Copy Writing</option>-->
-        <!--    <option value="Website Design">Website Design</option>-->
-        <!--  </select>-->
-        <!--</div>-->
+      
         </div>
       </div>
-      <!--<div class="col-lg-12">-->
-      <!--  <div class="fldset">-->
-      <!--    <input id="urlarea" name="SiteUrl" minlength="5" type="text" placeholder="Enter website" required />-->
-      <!--  </div>-->
-      <!--</div>-->
+     
       <div class="col-lg-12">
         <div class="fldset">
           <textarea name="Message" placeholder="I need a ... logo, website" /></textarea>
@@ -2434,14 +2437,8 @@
       </div>
       <div class="col-lg-12">
         <div class="fldset formbtn">
-          <script type="text/javascript">document.getElementById('location').value = window.location.href;</script>
-          <input type="hidden" id="location" name="locationURL" value="http://logovalley.co.uk/2d-illustration" />
           <input class="submit" type="submit" value="Get Started" />
-          <input class="" type="hidden" name="ctry" value="" />
-          <input type="hidden" name="pc" value="">
-          <input type="hidden" name="hiddencapcha" value="">
-           
-                <input type="hidden" name="cip" value="">
+
              
         </div>
       </div>
@@ -2463,29 +2460,36 @@
     <div class="row">
       <div class="col">
         <div class="accordion">
-          <div class="quest-section"> <a class="quest-title " href="#accordion-1">What is logovalley?</a>
+          <div class="quest-section"> <a class="quest-title " href="#accordion-1">What is video animation?</a>
             <div id="accordion-1" class="quest-content">
-              <p>logovalley is a creative design agency with expertise in brand identity development solutions. Our services include brand development & re-branding, back-end development, web design and development, brand identity solutions and much more.</p>
+              <p>Video Animation helps you bring your characters, texts, or visuals into life. Our video animation company has been providing services for a decade now. We deal with 1D, 2D, 3D video animations. It is alright if you are seeking to hire a cheap video animation company. We can assure you that our services are market competitive and affordable. Get the advantage of premium video animation services on a budget. For affordable video production online packages, please consult our customer support centre. Using the packages, you can achieve your marketing goals.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-2">I can’t choose a package, what do I do?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-2">What is a whiteboard animation video?</a>
             <div id="accordion-2" class="quest-content">
-              <p>That’s no problem! You can get a custom quote tailored to your project. Head on to our contact form right above our footer and fill it up with the details of your project. We’ll reach you with a custom prepared package via email very soon.</p>
+              <p>A whiteboard animation video uses minimal colours and graphics. Our whiteboard animation videos help you make your brand message memorable. We are the whiteboard animation video agency that provides excellent 2D designs. Engage your customer's senses to make your brand worth remembering.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-3">Can I request for revisions?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-3">What is explainer video production?</a>
             <div id="accordion-3" class="quest-content">
-              <p>Yes, you can! As part of your package you can request for revisions. The revisions vary from package to package.</p>
+              <p>An explainer video production helps your brand message become a reality. As a brand, your marketing goal should be to engage your customers or viewers online. But how do you become successful in gaining their attention? You create explainer videos. Our explainer video company will dive deep into your customers' pains and problems. We will help you highlight every single aspect of your brand using design thinking.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-4">Can I discuss my project with logovalley or will they be completely responsible?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-4">What is Startup Video Production Online?</a>
             <div id="accordion-4" class="quest-content">
-              <p>We encourage customers in talking to us. We love to push ideas that they already have, partly why we also require a design brief from our customer. However, if you don’t have anything specific in mind regarding your project, our professionals can take care of the projects ourselves.</p>
+              <p>Our Startup Video Production Online is the gateway to achieve your branding goals. We tell your brand story to make your brand irresistible. Thus, clarify your brand message through videos that will hook your audience. See our 2D and 3D illustration services to understand more what we have to offer to your brand.</p>
             </div>
           </div>
-          <div class="quest-section"> <a class="quest-title" href="#accordion-5">Will there be someone handling my project?</a>
+          <div class="quest-section"> <a class="quest-title" href="#accordion-5">What other services do we offer?</a>
             <div id="accordion-5" class="quest-content">
-              <p>Yes! There will always be a dedicated account manager handling your project completely. You can also be in coordination with the dedicated account manager to discuss your project.</p>
+              <p>We are a Video Animation Company for Whiteboard Animation Video. Our video animation company offers various affordable designing and animation packages. We are the video animation services with expertise:</p>
+              <ul>
+                <li>explainer video production</li>
+                <li>startup video production online</li>
+                <li>whiteboard explainer videos</li>
+                <li>whiteboard animation video</li>
+                <li>2D and 3D illustrations services</li>
+              </ul>
             </div>
           </div>
         </div>

@@ -38,19 +38,19 @@
             <div class="row">
               <div class="col-md-6">
                 <label class="field-txt">Name <span>*</span></label>
-                  <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+                  <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
              </div>
               <div class="col-md-6">
                 <label class="field-txt">Email <span>*</span></label>
-                <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
              </div>
              <div class="col-md-6">
                 <label class="field-txt">Phone Number<span>*</span></label>
-               <input id="phone-country" name="Number" type="number" placeholder="Phone Number" required/>
+               <input id="phone-country" name="phone" type="number" placeholder="Phone Number" required/>
              </div>
              <div class="col-md-6">
                 <label class="field-txt">Service Name <span>*</span></label>
-                <select  name="Services">
+                <select>
                   <option value="-1">Interested In</option>
                 <option value="logo design">Logo Design</option>
                 <option value="logo Animation">logo Animation</option>
@@ -70,7 +70,7 @@
               
             <div class="col-md-12">
                 <label class="field-txt">Detail about your business. <span>*</span></label>
-                <textarea name="Message" placeholder="Enter message here" /></textarea>
+                <textarea name="brief" placeholder="Enter message here" /></textarea>
              </div>
             <div class="col-md-12">
                 <input class="submit" type="submit" value="Submit" />
