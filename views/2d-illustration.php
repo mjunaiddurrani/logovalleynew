@@ -2418,13 +2418,13 @@ Our distinctive approach makes us remarkable from cheap video animation services
       <div class="col-lg-12 ">
         <div class="bot-formtop">
           <div class="fldset">
-          <input onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+          <input onkeypress="return ((event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode == 32))" id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
         </div>
         <div class="fldset">
-          <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+          <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
         </div>
         <div class="fldset">
-          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
+          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
         </div>
       
         </div>

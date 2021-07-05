@@ -147,13 +147,13 @@
               <div class="row">
                 <div class="wrap">
                   <div class="dtf">
-                    <input id="fname" name="Name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
+                    <input id="fname" name="name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
                   </div>
                   <div class="dtf">
-                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required="">
+                    <input id="cemail" type="email" name="email" placeholder="Enter email here" required="">
                   </div>
                   <div class="dtf">
-                    <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required="" autocomplete="off">
+                    <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required="" autocomplete="off">
                   </div>
                   <div class="dtf text-left">
                   

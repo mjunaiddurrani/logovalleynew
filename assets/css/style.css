@@ -67,7 +67,7 @@
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
-    margin-bottom: 20px;
+
 }
 
 .prologo .btn-fill,
@@ -1098,7 +1098,7 @@ a {
     border-bottom: 1px solid #fff;
     padding-bottom: 15px;
     margin-bottom: 15px;
-    font-weight: 700;
+    font-weight: 600;
     color: #fff;
     position: relative;
     letter-spacing: -2px;
@@ -5672,11 +5672,11 @@ input:checked+.toggle:before {
 }
 
 .inner-banner-content h1 {
-    font-size: 50px !important;
+    font-size: 30px !important;
     color: #fff;
     /* padding-bottom: 25px; */
     line-height: 1;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: capitalize;
 }
 
@@ -5690,6 +5690,7 @@ input:checked+.toggle:before {
     line-height: 1.4;
     padding-bottom: 40px;
     font-weight: 400;
+    clear: both;
 }
 
 .inner-banner-content p.custom-para {

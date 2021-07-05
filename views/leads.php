@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
@@ -8,6 +10,22 @@ $route = $_REQUEST['route'];
 $brand = $_REQUEST['brand'];
 $tag = $_REQUEST['tag'];
 $price = $_REQUEST['price'];
+
+
+
+if(strlen($phone)>15){
+    $_SESSION['error_msg'] = "Phone Number is not valid";
+    header("location: $route");
+    die();
+}
+
+if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    $_SESSION['error_msg'] = "Email Is not valid";
+    header("location: $route");
+    die();
+}
+
+
 
 $data=array(
     'name'=> $name,
@@ -43,7 +61,6 @@ curl_close($curl);
 $decodeResponse = json_decode($response);
 $msg = $decodeResponse[1];
 
-session_start();
 $_SESSION['thanksMsg'] = $msg;
 
 header("location:/thank-you/");

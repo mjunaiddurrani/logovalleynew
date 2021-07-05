@@ -54,15 +54,15 @@
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">-->
 
 <!--               <div class="fldst">-->
-<!--                 <input id="username" name="Name" minlength="2" type="text" placeholder="Full Name" required />-->
+<!--                 <input id="username" name="name" minlength="2" type="text" placeholder="Full Name" required />-->
 <!--               </div>-->
 
 <!--               <div class="fldst fldstrght">-->
-<!--                 <input id="cemail" type="Email" name="Email" placeholder="Email Address" required>-->
+<!--                 <input id="cemail" type="Email" name="email" placeholder="Email Address" required>-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
-<!--                      <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />-->
+<!--                      <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />-->
 <!--                     <script type="text/javascript">-->
 <!--                      document.getElementById('location').value = window.location.href;-->
 <!--        </script>-->

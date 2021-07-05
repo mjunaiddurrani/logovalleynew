@@ -194,6 +194,42 @@ $('.freeCons').click(function(){
 
 $('.floating_form').toggleClass("open");
 })
+
+
+function validatePhoneNumber(input_str) {
+    var re = /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im;
+
+    return re.test(input_str);
+}
+
+function isNumberKey(event) {
+    // var phone = event.target.value;
+    // if (!validatePhoneNumber(phone)) {
+    //    console.log('error phone');
+    //     // document.getElementById('phone_error').classList.remove('hidden');
+    // } else {
+    //    console.log('error phone');
+      
+    //     document.getElementById('phone_error').classList.add('hidden');
+    //     alert("validation success")
+    // }
+    // event.preventDefault();
+}
+
+// document.getElementById('myform').addEventListener('submit', isNumberKey);
+<?php if(isset($_SESSION['error_msg'])): ?>
+
+swal.fire({
+  title: "Error",
+  text: "<?= $_SESSION['error_msg']?>",
+  icon: "warning"
+});
+
+
+
+<?php
+unset($_SESSION['error_msg']);
+endif;?>
 </script>
 
 

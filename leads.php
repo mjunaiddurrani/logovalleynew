@@ -9,6 +9,11 @@ $brand = $_REQUEST['brand'];
 $tag = $_REQUEST['tag'];
 $price = $_REQUEST['price'];
 
+
+
+
+
+
 $data=array(
     'name'=> $name,
     'email'=>$email,
