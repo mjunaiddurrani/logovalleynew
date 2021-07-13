@@ -10,7 +10,7 @@ require_once('class/mail.class.php');
 
 $mail = new Mail;
 
-if($mail->send('akashrajput9@hotmail.com','test from phnp','test msegesagds 2ASD')){
+if($mail->send('akashrajput3129@gmail.com','test from phnp','test msegesagds 2ASD')){
   echo "mail send";
 }else{
   echo "mail faild0";
