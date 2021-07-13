@@ -47,7 +47,7 @@
           <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
         </div>
         <div class="fldset">
-          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
+          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
         </div>
         <!--<div class="fldset">-->
         <!--  <select name="Services">-->
@@ -2381,7 +2381,7 @@
           <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
         </div>
         <div class="fldset">
-          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
+          <input onkeypress="return isNumberKey(event);" maxlength="10" id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
         </div>
         <!--<div class="fldset">-->
         <!--  <select name="Services">-->

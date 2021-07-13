@@ -4,6 +4,24 @@
 <head>
 <?php include_once('include/styles.php') ?>
 
+<?php
+
+require_once('class/mail.class.php');
+
+$mail = new Mail;
+
+if($mail->send('akashrajput9@hotmail.com','test from phnp','test msegesagds 2ASD')){
+  echo "mail send";
+}else{
+  echo "mail faild0";
+}
+
+
+
+
+?>
+
+
 <style>
 
 </style>
