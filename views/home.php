@@ -4,17 +4,7 @@
 <head>
 <?php include_once('include/styles.php') ?>
 
-<?php
 
-require_once('class/mail.class.php');
-
-$mail = new Mail;
-
-$mail->send('akashrajput3129@gmail.com','test from phnp','test msegesagds 2ASD');
-
-
-
-?>
 
 
 <style>
