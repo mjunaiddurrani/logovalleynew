@@ -1,5 +1,5 @@
 <?php
-session_start();
+// session_start();
 
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
@@ -41,7 +41,7 @@ $data=array(
 $payload=json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://dashboard.ghostwritingfounder.com/api/customer",
+    CURLOPT_URL => "https://dashboard.websitevalley.co.uk/api/customer",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
@@ -57,7 +57,7 @@ curl_setopt_array($curl, array(
 $response = curl_exec($curl);
 
 curl_close($curl);
-
+var_dump($response);die;
 $decodeResponse = json_decode($response);
 $msg = $decodeResponse[1];
 

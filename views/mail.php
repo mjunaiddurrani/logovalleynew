@@ -6,11 +6,20 @@ require 'vendor/phpmailer/phpmailer/src/PHPMailer.php';
 require 'vendor/phpmailer/phpmailer/src/SMTP.php';
 $mail = new PHPMailer();
 $mail->IsSMTP();
+
+
+$mail->SMTPOptions = array(
+    'ssl' => array(
+    'verify_peer' => false,
+    'verify_peer_name' => false,
+    'allow_self_signed' => true
+    )
+    );
 $mail->Mailer = "smtp";
 $mail->SMTPDebug  = 1;  
 $mail->SMTPAuth   = TRUE;
-$mail->SMTPSecure = "starttls";
-$mail->Port       = 465;
+$mail->SMTPSecure = "none";
+$mail->Port       = 587;
 $mail->Host       = "mail.logovalley.co.uk";
 $mail->Username   = "junaid@logovalley.co.uk";
 $mail->Password   = "zNfPqVJSow9WJOwh";
