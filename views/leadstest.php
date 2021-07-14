@@ -36,7 +36,8 @@ $data=array(
     'route'=>$route,
     'brand'=>$brand,
     'tag' => $tag,
-    'price'=> $price
+    'price'=> $price,
+    'url' => $_SERVER['HTTP_HOST']
 );
 $payload=json_encode($data);
 $curl = curl_init();
