@@ -59,7 +59,7 @@ curl_setopt_array($curl, array(
 $response = curl_exec($curl);
 
 curl_close($curl);
-var_dump($response);die;
+// var_dump($response);die;
 $decodeResponse = json_decode($response);
 $msg = $decodeResponse[1];
 
