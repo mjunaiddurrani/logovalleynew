@@ -26,13 +26,12 @@ if (isset($_SERVER['HTTPS'])) {
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7QZYTBVTXM"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-207300513-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-7QZYTBVTXM');
+  gtag('config', 'UA-207300513-3');
 </script>
-
 
