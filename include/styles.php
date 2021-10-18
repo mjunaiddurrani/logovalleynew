@@ -25,4 +25,13 @@ if (isset($_SERVER['HTTPS'])) {
 <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&amp;display=swap " rel="stylesheet ">
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-207300513-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-207300513-3');
+</script>
 
