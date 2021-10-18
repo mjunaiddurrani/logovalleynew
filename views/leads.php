@@ -37,13 +37,13 @@ $data=array(
     'brand'=>$brand,
     'tag' => $tag,
     'price'=> $price,
-    'domain' => $_SERVER['HTTP_HOST']
+    'domain' => 'www.logovalley.co.uk'
 );
 
 $payload=json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://dashboard.ghostwritingfounder.com/api/customer",
+    CURLOPT_URL => "https://dashboard.ourbase.camp/api/customer",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
