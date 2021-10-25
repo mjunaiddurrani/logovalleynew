@@ -9,7 +9,7 @@
 // ini_set('display_startup_errors', 1);
 // error_reporting(E_ALL);
 
-
+include_once("token.php");
 if (isset($_SERVER['HTTPS'])) {
 	$requesMet = "https";
 }else{

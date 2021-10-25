@@ -1,3 +1,6 @@
+<?php
+include_once("include/token.php");
+?>
 <!doctype html>
 <html lang="en">
 
@@ -83,6 +86,7 @@
                     <form class="cmxform" id="contactForm"  method="POST" action="/quote/"> 
                     <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
           <input type="hidden" name="brand" value="logovalley">   
+                  <input type="hidden" name="token" value="<?= $token;?>">  
           <input type="hidden" name="company" value="null">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
                       <div class="row">

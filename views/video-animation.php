@@ -75,6 +75,7 @@
 <!--             <P>Don't miss out on special discount offer</P>-->
 <!--             <form id="popupfrm" class="cmxform"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
           <input type="hidden" name="brand" value="logovalley">   
+                  <input type="hidden" name="token" value="<?= $token;?>">  
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">-->
 
@@ -294,6 +295,7 @@
               <div class="bot-form">
   <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
           <input type="hidden" name="brand" value="logovalley">   
+                  <input type="hidden" name="token" value="<?= $token;?>">  
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
     <div class="row">
@@ -2767,6 +2769,7 @@ We are well aware of the fierce competition between different video companies. S
         <div class="bot-form">
   <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
           <input type="hidden" name="brand" value="logovalley">   
+                  <input type="hidden" name="token" value="<?= $token;?>">  
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
     <div class="row">
@@ -3043,6 +3046,7 @@ We are well aware of the fierce competition between different video companies. S
           <div class="analyzeform ">
             <form class="" id="banform" method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
           <input type="hidden" name="brand" value="logovalley">   
+                  <input type="hidden" name="token" value="<?= $token;?>">  
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
               <div class="row">

@@ -39,6 +39,10 @@ $data=array(
     'price'=> $price,
     'domain' => 'www.logovalley.co.uk'
 );
+if($_REQUEST['phone'] == '5556660606' || $_REQUEST['phone'] == '555-666-0606'){
+    exit(header("location:/"));
+}
+if ($_POST['token'] == $_SESSION['token']) {
 
 $payload=json_encode($data);
 $curl = curl_init();
@@ -66,4 +70,8 @@ $msg = $decodeResponse[1];
 $_SESSION['thanksMsg'] = $msg;
 
 header("location:/thank-you/");
+}
+else{
+    exit(header("location:/"));
+}
 

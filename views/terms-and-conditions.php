@@ -50,6 +50,7 @@
 <!--             <P>Don't miss out on special discount offer</P>-->
 <!--             <form id="popupfrm" class="cmxform"  method="POST" action="/leads/"> <input type="hidden" name="route" value="/">   
           <input type="hidden" name="brand" value="logovalley">   
+                  <input type="hidden" name="token" value="<?= $token;?>">  
           <input type="hidden" name="tag" value="home-section">
           <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">-->
 
