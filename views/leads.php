@@ -37,12 +37,17 @@ $data=array(
     'brand'=>$brand,
     'tag' => $tag,
     'price'=> $price,
-    
+    'domain' => 'www.logovalley.co.uk'
 );
+if($_REQUEST['phone'] == '5556660606' || $_REQUEST['phone'] == '555-666-0606'){
+    exit(header("location:/"));
+}
+if ($_POST['token'] == $_SESSION['token']) {
+
 $payload=json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://dashboard.ghostwritingfounder.com/api/customer",
+    CURLOPT_URL => "https://dashboard.ourbase.camp/api/customer",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
@@ -58,11 +63,15 @@ curl_setopt_array($curl, array(
 $response = curl_exec($curl);
 
 curl_close($curl);
-
+// var_dump($response);die;
 $decodeResponse = json_decode($response);
 $msg = $decodeResponse[1];
 
 $_SESSION['thanksMsg'] = $msg;
 
 header("location:/thank-you/");
+}
+else{
+    exit(header("location:/"));
+}
 

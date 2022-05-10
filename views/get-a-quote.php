@@ -1,3 +1,6 @@
+<?php
+include_once("include/token.php");
+?>
 <!doctype html>
 <html lang="en">
 
@@ -80,11 +83,13 @@
                 <p class="subtitle">Audit Your Site - More Sales, More Leads, More Happy Customers... </p>
                 <div class="col-lg-8 offset-lg-2">
                   <div class="bot-form justpad">
-                    <form class="cmxform" id="contactForm"  method="POST" action="/quote/"> 
-                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-          <input type="hidden" name="brand" value="logovalley">   
-          <input type="hidden" name="company" value="null">
-          <input type="hidden" name="news" value="1"><input type="hidden" name="price" value="null">
+                    <form class="cmxform" id="contactForm"  method="POST" action="/leads/"> 
+                    <input type="hidden" name="route" value="/">   
+                  <input type="hidden" name="brand" value="logovalley">   
+                  <input type="hidden" name="token" value="<?= $token;?>">  
+                  <input type="hidden" name="tag" value="modal-auto">
+                  <input type="hidden" name="price" value="null">
+                  <input type="hidden" name="news" value="1">
                       <div class="row">
                         <div class="col-lg-12">
                         <div class="bot-formtop">
@@ -195,7 +200,7 @@
                       </div>    
                         <div class="col-lg-12">
                           <div class="fldset">
-                            <textarea name="subject" placeholder="Enter message here"></textarea>
+                            <textarea name="brief" placeholder="Enter message here"></textarea>
                           </div>
                         </div>
                         <div class="col-lg-12">
@@ -238,9 +243,7 @@
 
 
 
-<script src="assets/js/mlib.js"></script> 
-<script src="assets/js/functions.js"></script> 
-
+<?php include_once('include/scripts.php') ?>
 
 
 <!-- scroll top car

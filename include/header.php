@@ -125,6 +125,7 @@
            <form method="POST" action="/leads/" id="quoteForm" autocomplete="off">
            <input type="hidden" name="route" value="/">   
                   <input type="hidden" name="brand" value="logovalley">   
+                  <input type="hidden" name="token" value="<?= $token;?>">  
                   <input type="hidden" name="tag" value="modal-auto">
                   <input type="hidden" name="price" value="null">
                   <input type="hidden" name="news" value="1">
