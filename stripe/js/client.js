@@ -5,7 +5,7 @@ $.get('https://dashboard.ourbase.camp/api/accountkey', { brandurl: domainName },
         pk = msg[0]['publishable_key'];
 
         var stripe = Stripe(pk);
-        // var stripe = Stripe("pk_live_51IHtDwCqRn7S2f1udaPu306FkNTfg75KhtQ6N3w1DHCOK1ROPncTfCfi7BtlnKpIvvP0354C3gvnbFHQQ1yt88sT000Ok9hoxO");
+        var stripe = Stripe("pk_live_51L0rlaHOuu1ctvQkuahA5xOQCPEpdULILKW9i7I9dIutnDgo0EtBMBBgdpjCJ5pqz5uXZ1pzhfr2tjkpdzMfpgjJ00yYDc1IIv");
         var elements = stripe.elements();
         var style = { base: { fontSize: "16px", color: "#000" } };
         var card = elements.create("card", { style: style });
