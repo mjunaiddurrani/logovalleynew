@@ -239,7 +239,8 @@
                 <li>  Social Media Marketing</li>
                 <li>  Google Adwords Campaigns</li>
                 <li>  For services that are not covered under the 100% refund policy in case of dissatisfaction the logovalley management after review the project manager may choose to offer a partial refund to the client.</li>
-            </ul>
+                <li> If a client is inactive for more then 01 Month then the refund is voided.</li>
+              </ul>
            
           <h2>CLAIM YOUR REFUND</h2>
           <ul>
